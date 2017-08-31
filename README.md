@@ -7,7 +7,8 @@ To create the collection:
 
 The mapping for the documents is as follows: 
 
-```index_request = {
+```
+index_request = {
     "settings": {
       "number_of_shards": 1,
       "number_of_replicas": 0,
@@ -88,7 +89,8 @@ The mapping for the documents is as follows:
             }
         }
     }
-}```
+}
+```
 
 As per our paper, no stopwords were used. 
 
@@ -117,7 +119,8 @@ Topics are contained in `airs2017-collection/topic`. An example is as per below:
   "relevant_keywords": [...],
   "query": [...],
   "es_query" : [...]
-}```
+}
+```
 
 QRELS are either '1' for a relevant decision or '3' for a cited decision in the topic sentence. No distinction was taken in the paper. 
 
