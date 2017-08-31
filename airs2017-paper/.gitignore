@@ -1,0 +1,6 @@
+*.log
+*.aux
+*.out
+*.blg
+*airs2017_paper.pdf
+*synctex*
