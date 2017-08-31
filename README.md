@@ -122,19 +122,19 @@ Topics are contained in `airs2017-collection/topic`. An example is as per below:
 }
 ```
 
-QRELS are either '1' for a relevant decision or '3' for a cited decision in the topic sentence. No distinction was taken in the paper. 
+QRELS are either `1` for a relevant decision or `3` for a cited decision in the topic sentence. No distinction was taken in the paper. 
 
 # Experiments and Results
-Code to auto generate queries for proportions, r, can be found in 'airs2017-experiments/auto-generation'. An instance of Elasticsearch needs to be specified, and running. Collection statistics for the background collection, clueweb_12b_all, that was used for calculating KLI is provided, as well as a script to generate the statistics for a given background collection. Auto-generated queries will be created in 'airs2017-experiments/auto-generation/queries'.
+Code to auto generate queries for proportions, r, can be found in `airs2017-experiments/auto-generation`. An instance of Elasticsearch needs to be specified, and running. Collection statistics for the background collection, clueweb_12b_all, that was used for calculating KLI is provided, as well as a script to generate the statistics for a given background collection. Auto-generated queries will be created in `airs2017-experiments/auto-generation/queries`.
 
 Following creation of the automatic-queries, to evaluate:
 1. run 'airs2017-experiments/create_run_file.py' which generates the run_file
-2. run 'airs2017-experiments/trec_eval.py' - this will generate csv files for each run in 'results/res_files'
+2. run 'airs2017-experiments/trec_eval.py' - this will generate csv files for each run in `results/res_files`
 
-The Jupyter notebooks in 'airs2017-experiments/results' provide for the analysis in the paper. 
+The Jupyter notebooks in `airs2017-experiments/results` provide for the analysis in the paper. 
 
 # Paper
-A copy of our preprint paper is available in 'airs2017-paper'.
+A copy of our preprint paper is available in `airs2017-paper`.
 
 # Setup and required 
 - Golang (version 1.8.1 used)
