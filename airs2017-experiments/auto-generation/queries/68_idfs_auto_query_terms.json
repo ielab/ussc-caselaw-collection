@@ -1,0 +1,197 @@
+{
+      "auto_generated_queries": {
+            "topic": 68,
+            "query": [
+                  {
+                        "proportion": 0.14545454545454545,
+                        "terms": [
+                              "phasis"
+                        ]
+                  },
+                  {
+                        "proportion": 0.24545454545454545,
+                        "terms": [
+                              "phasis",
+                              "em",
+                              "patentee",
+                              "negotiate"
+                        ]
+                  },
+                  {
+                        "proportion": 0.34545454545454546,
+                        "terms": [
+                              "phasis",
+                              "em",
+                              "patentee",
+                              "negotiate",
+                              "ownership",
+                              "patent"
+                        ]
+                  },
+                  {
+                        "proportion": 0.44545454545454544,
+                        "terms": [
+                              "phasis",
+                              "em",
+                              "patentee",
+                              "negotiate",
+                              "ownership",
+                              "patent",
+                              "price",
+                              "virtue"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5454545454545454,
+                        "terms": [
+                              "phasis",
+                              "em",
+                              "patentee",
+                              "negotiate",
+                              "ownership",
+                              "patent",
+                              "price",
+                              "virtue",
+                              "product",
+                              "disposition"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6454545454545454,
+                        "terms": [
+                              "phasis",
+                              "em",
+                              "patentee",
+                              "negotiate",
+                              "ownership",
+                              "patent",
+                              "price",
+                              "virtue",
+                              "product",
+                              "disposition",
+                              "purchasers",
+                              "purchaser"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7454545454545454,
+                        "terms": [
+                              "phasis",
+                              "em",
+                              "patentee",
+                              "negotiate",
+                              "ownership",
+                              "patent",
+                              "price",
+                              "virtue",
+                              "product",
+                              "disposition",
+                              "purchasers",
+                              "purchaser",
+                              "free",
+                              "added",
+                              "contracts"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8454545454545453,
+                        "terms": [
+                              "phasis",
+                              "em",
+                              "patentee",
+                              "negotiate",
+                              "ownership",
+                              "patent",
+                              "price",
+                              "virtue",
+                              "product",
+                              "disposition",
+                              "purchasers",
+                              "purchaser",
+                              "free",
+                              "added",
+                              "contracts",
+                              "control",
+                              "passes"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9454545454545453,
+                        "terms": [
+                              "phasis",
+                              "em",
+                              "patentee",
+                              "negotiate",
+                              "ownership",
+                              "patent",
+                              "price",
+                              "virtue",
+                              "product",
+                              "disposition",
+                              "purchasers",
+                              "purchaser",
+                              "free",
+                              "added",
+                              "contracts",
+                              "control",
+                              "passes",
+                              "set",
+                              "use"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "phasis",
+                              "em",
+                              "patentee",
+                              "negotiate",
+                              "ownership",
+                              "patent",
+                              "price",
+                              "virtue",
+                              "product",
+                              "disposition",
+                              "purchasers",
+                              "purchaser",
+                              "free",
+                              "added",
+                              "contracts",
+                              "control",
+                              "passes",
+                              "set",
+                              "use",
+                              "after",
+                              "his"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "phasis",
+                              "em",
+                              "patentee",
+                              "negotiate",
+                              "ownership",
+                              "patent",
+                              "price",
+                              "virtue",
+                              "product",
+                              "disposition",
+                              "purchasers",
+                              "purchaser",
+                              "free",
+                              "added",
+                              "contracts",
+                              "control",
+                              "passes",
+                              "set",
+                              "use",
+                              "after",
+                              "his",
+                              "may"
+                        ]
+                  }
+            ]
+      }
+}

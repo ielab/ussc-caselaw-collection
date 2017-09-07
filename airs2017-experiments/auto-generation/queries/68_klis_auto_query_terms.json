@@ -1,0 +1,197 @@
+{
+      "auto_generated_queries": {
+            "topic": 68,
+            "query": [
+                  {
+                        "proportion": 0.14545454545454545,
+                        "terms": [
+                              "free"
+                        ]
+                  },
+                  {
+                        "proportion": 0.24545454545454545,
+                        "terms": [
+                              "free",
+                              "product",
+                              "added",
+                              "price"
+                        ]
+                  },
+                  {
+                        "proportion": 0.34545454545454546,
+                        "terms": [
+                              "free",
+                              "product",
+                              "added",
+                              "price",
+                              "set",
+                              "control"
+                        ]
+                  },
+                  {
+                        "proportion": 0.44545454545454544,
+                        "terms": [
+                              "free",
+                              "product",
+                              "added",
+                              "price",
+                              "set",
+                              "control",
+                              "may",
+                              "passes"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5454545454545454,
+                        "terms": [
+                              "free",
+                              "product",
+                              "added",
+                              "price",
+                              "set",
+                              "control",
+                              "may",
+                              "passes",
+                              "em",
+                              "phasis"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6454545454545454,
+                        "terms": [
+                              "free",
+                              "product",
+                              "added",
+                              "price",
+                              "set",
+                              "control",
+                              "may",
+                              "passes",
+                              "em",
+                              "phasis",
+                              "negotiate",
+                              "purchasers"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7454545454545454,
+                        "terms": [
+                              "free",
+                              "product",
+                              "added",
+                              "price",
+                              "set",
+                              "control",
+                              "may",
+                              "passes",
+                              "em",
+                              "phasis",
+                              "negotiate",
+                              "purchasers",
+                              "purchaser",
+                              "ownership",
+                              "virtue"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8454545454545453,
+                        "terms": [
+                              "free",
+                              "product",
+                              "added",
+                              "price",
+                              "set",
+                              "control",
+                              "may",
+                              "passes",
+                              "em",
+                              "phasis",
+                              "negotiate",
+                              "purchasers",
+                              "purchaser",
+                              "ownership",
+                              "virtue",
+                              "patentee",
+                              "disposition"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9454545454545453,
+                        "terms": [
+                              "free",
+                              "product",
+                              "added",
+                              "price",
+                              "set",
+                              "control",
+                              "may",
+                              "passes",
+                              "em",
+                              "phasis",
+                              "negotiate",
+                              "purchasers",
+                              "purchaser",
+                              "ownership",
+                              "virtue",
+                              "patentee",
+                              "disposition",
+                              "use",
+                              "patent"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "free",
+                              "product",
+                              "added",
+                              "price",
+                              "set",
+                              "control",
+                              "may",
+                              "passes",
+                              "em",
+                              "phasis",
+                              "negotiate",
+                              "purchasers",
+                              "purchaser",
+                              "ownership",
+                              "virtue",
+                              "patentee",
+                              "disposition",
+                              "use",
+                              "patent",
+                              "contracts",
+                              "after"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "free",
+                              "product",
+                              "added",
+                              "price",
+                              "set",
+                              "control",
+                              "may",
+                              "passes",
+                              "em",
+                              "phasis",
+                              "negotiate",
+                              "purchasers",
+                              "purchaser",
+                              "ownership",
+                              "virtue",
+                              "patentee",
+                              "disposition",
+                              "use",
+                              "patent",
+                              "contracts",
+                              "after",
+                              "his"
+                        ]
+                  }
+            ]
+      }
+}

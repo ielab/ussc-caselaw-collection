@@ -1,0 +1,93 @@
+{
+      "auto_generated_queries": {
+            "topic": 63,
+            "query": [
+                  {
+                        "proportion": 0.2,
+                        "terms": [
+                              "amendment"
+                        ]
+                  },
+                  {
+                        "proportion": 0.2,
+                        "terms": [
+                              "amendment"
+                        ]
+                  },
+                  {
+                        "proportion": 0.30000000000000004,
+                        "terms": [
+                              "amendment"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4,
+                        "terms": [
+                              "amendment",
+                              "applicable"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5,
+                        "terms": [
+                              "amendment",
+                              "applicable"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6,
+                        "terms": [
+                              "amendment",
+                              "applicable",
+                              "fourteenth"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7,
+                        "terms": [
+                              "amendment",
+                              "applicable",
+                              "fourteenth"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7999999999999999,
+                        "terms": [
+                              "amendment",
+                              "applicable",
+                              "fourteenth",
+                              "operation"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8999999999999999,
+                        "terms": [
+                              "amendment",
+                              "applicable",
+                              "fourteenth",
+                              "operation"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9999999999999999,
+                        "terms": [
+                              "amendment",
+                              "applicable",
+                              "fourteenth",
+                              "operation",
+                              "states"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "amendment",
+                              "applicable",
+                              "fourteenth",
+                              "operation",
+                              "states"
+                        ]
+                  }
+            ]
+      }
+}

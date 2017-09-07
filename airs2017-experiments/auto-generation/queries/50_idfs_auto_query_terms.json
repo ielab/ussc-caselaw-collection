@@ -1,0 +1,158 @@
+{
+      "auto_generated_queries": {
+            "topic": 50,
+            "query": [
+                  {
+                        "proportion": 0.16666666666666669,
+                        "terms": [
+                              "knowable"
+                        ]
+                  },
+                  {
+                        "proportion": 0.2666666666666667,
+                        "terms": [
+                              "knowable",
+                              "immunity",
+                              "qualified"
+                        ]
+                  },
+                  {
+                        "proportion": 0.3666666666666667,
+                        "terms": [
+                              "knowable",
+                              "immunity",
+                              "qualified",
+                              "defense",
+                              "concerns"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4666666666666667,
+                        "terms": [
+                              "knowable",
+                              "immunity",
+                              "qualified",
+                              "defense",
+                              "concerns",
+                              "officers"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5666666666666667,
+                        "terms": [
+                              "knowable",
+                              "immunity",
+                              "qualified",
+                              "defense",
+                              "concerns",
+                              "officers",
+                              "however"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6666666666666666,
+                        "terms": [
+                              "knowable",
+                              "immunity",
+                              "qualified",
+                              "defense",
+                              "concerns",
+                              "officers",
+                              "however",
+                              "considers",
+                              "defendant"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7666666666666666,
+                        "terms": [
+                              "knowable",
+                              "immunity",
+                              "qualified",
+                              "defense",
+                              "concerns",
+                              "officers",
+                              "however",
+                              "considers",
+                              "defendant",
+                              "because"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8666666666666666,
+                        "terms": [
+                              "knowable",
+                              "immunity",
+                              "qualified",
+                              "defense",
+                              "concerns",
+                              "officers",
+                              "however",
+                              "considers",
+                              "defendant",
+                              "because",
+                              "facts",
+                              "only"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9666666666666666,
+                        "terms": [
+                              "knowable",
+                              "immunity",
+                              "qualified",
+                              "defense",
+                              "concerns",
+                              "officers",
+                              "however",
+                              "considers",
+                              "defendant",
+                              "because",
+                              "facts",
+                              "only",
+                              "were"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "knowable",
+                              "immunity",
+                              "qualified",
+                              "defense",
+                              "concerns",
+                              "officers",
+                              "however",
+                              "considers",
+                              "defendant",
+                              "because",
+                              "facts",
+                              "only",
+                              "were",
+                              "case",
+                              "court"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "knowable",
+                              "immunity",
+                              "qualified",
+                              "defense",
+                              "concerns",
+                              "officers",
+                              "however",
+                              "considers",
+                              "defendant",
+                              "because",
+                              "facts",
+                              "only",
+                              "were",
+                              "case",
+                              "court"
+                        ]
+                  }
+            ]
+      }
+}

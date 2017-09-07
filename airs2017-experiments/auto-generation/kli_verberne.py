@@ -1,10 +1,10 @@
 
 # You want to apply some filtering (e.g. NP) - but also see what happens
-# if you don't do this. Then you want to score the keywords and extract 
+# if you don't do this. Then you want to score the keywords and extract
 # the highest ranked keywords (in this way you can form queries from 1 to
-# $n$ terms long, thus studying the influence of more verbose queries). 
-# In particular, use PLM, KLI, C-value, KLP (and consider putting together 
-# importance and phraseness, ie KLI+KLP = KLIP -- ask Jimmy to get the scores 
+# $n$ terms long, thus studying the influence of more verbose queries).
+# In particular, use PLM, KLI, C-value, KLP (and consider putting together
+# importance and phraseness, ie KLI+KLP = KLIP -- ask Jimmy to get the scores
 # for clueweb as background collection). You can even use BM25 scores
 
 import re
@@ -39,7 +39,14 @@ def clean_text(text):
 	return re.sub('[^a-zA-Z0-9]+', ' ', text).lower()
 
 def get_numbers(text):
-	return re.sub('[^0-9]+', ' ', text).lstrip().rstrip()
+  nums = re.findall('[0-9]+', text)
+  seen = set()
+  ret = ""
+  for num in nums:
+      if num not in seen:
+          seen.add(num)
+          ret = ret + num + " "
+  return ret.lstrip().rstrip()
 
 def remove_stop(text):
 	a_bod = {
@@ -73,12 +80,12 @@ def get_n_grams(sentence, n, bool_query):
 # -----------------------------------------------------------------------------
 
 def kli_d(p_td, p_tc):
-	return p_td * math.log10(p_td / p_tc) 
+	return p_td * math.log10(p_td / p_tc)
 
 
 def kli_div(terms):
-	
-	# take list of terms .. 
+
+	# take list of terms ..
 	coll_term_scores = []
 	back_term_scores = []
 
@@ -120,7 +127,7 @@ def generate_auto_proportion_for_text(text, topic, method):
 			"_type": "decision",
 			"doc" : {
 				"plain_text" : text
-			},  
+			},
 			"term_statistics": True
 			}
 		]
@@ -145,7 +152,7 @@ def generate_auto_proportion_for_text(text, topic, method):
 
 # pass sorted terms
 def write_proportions_to_file(terms, topic, method):
-	# proportion varied from 1/|D| to 1 where |D| was the total number of terms 
+	# proportion varied from 1/|D| to 1 where |D| was the total number of terms
 	inverse_d = 1 / len(terms)
 
 	proportions = []
@@ -177,7 +184,7 @@ def generate_for_sentence(data, topic):
 		sentence = sentence.replace(data['case_extract'][j], "")
 	sentence = clean_text(sentence)
 	numbers = get_numbers(sentence)
-	final_sentence = remove_stop(sentence)	
+	final_sentence = remove_stop(sentence)
 	final_sentence = final_sentence + " " + numbers
 	generate_auto_proportion_for_text(final_sentence, topic, "klis")
 
@@ -187,21 +194,21 @@ def generate_for_para(data, topic):
 		para = para.replace(data['case_extract'][j], "")
 	para = clean_text(para)
 	numbers = get_numbers(para)
-	para = remove_stop(para)	
+	para = remove_stop(para)
 	para = para + " " + numbers
 	generate_auto_proportion_for_text(para, topic, "klip")
 
 
 def main():
 
-	# open both files.. into maps. 
+	# open both files.. into maps.
 	with open("ussc_topics_tf.txt") as file:
 		for f in file.readlines():
-			coll_map[f.split()[0]] = f.split()[1]	
+			coll_map[f.split()[0]] = f.split()[1]
 
 	with open("clueweb12b_all_topics_tf_except_not_found.txt") as file:
 		for f in file.readlines():
-			back_coll_map[f.split()[0]] = f.split()[1]	
+			back_coll_map[f.split()[0]] = f.split()[1]
 
 	for i in range(1, 101):
 		f_name = topic_path + str(i) + ".json"
@@ -214,11 +221,3 @@ def main():
 
 if __name__ == '__main__':
 	main()
-
-
-
-
-
-
-
-

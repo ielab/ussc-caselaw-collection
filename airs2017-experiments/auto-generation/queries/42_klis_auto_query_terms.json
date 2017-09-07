@@ -1,0 +1,225 @@
+{
+      "auto_generated_queries": {
+            "topic": 42,
+            "query": [
+                  {
+                        "proportion": 0.13703703703703704,
+                        "terms": [
+                              "here"
+                        ]
+                  },
+                  {
+                        "proportion": 0.23703703703703705,
+                        "terms": [
+                              "here",
+                              "start",
+                              "legal",
+                              "process"
+                        ]
+                  },
+                  {
+                        "proportion": 0.337037037037037,
+                        "terms": [
+                              "here",
+                              "start",
+                              "legal",
+                              "process",
+                              "290",
+                              "tutional",
+                              "consti"
+                        ]
+                  },
+                  {
+                        "proportion": 0.437037037037037,
+                        "terms": [
+                              "here",
+                              "start",
+                              "legal",
+                              "process",
+                              "290",
+                              "tutional",
+                              "consti",
+                              "souter",
+                              "plurality",
+                              "probable"
+                        ]
+                  },
+                  {
+                        "proportion": 0.537037037037037,
+                        "terms": [
+                              "here",
+                              "start",
+                              "legal",
+                              "process",
+                              "290",
+                              "tutional",
+                              "consti",
+                              "souter",
+                              "plurality",
+                              "probable",
+                              "protections",
+                              "see"
+                        ]
+                  },
+                  {
+                        "proportion": 0.637037037037037,
+                        "terms": [
+                              "here",
+                              "start",
+                              "legal",
+                              "process",
+                              "290",
+                              "tutional",
+                              "consti",
+                              "souter",
+                              "plurality",
+                              "probable",
+                              "protections",
+                              "see",
+                              "apply",
+                              "criminal",
+                              "cause"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7370370370370369,
+                        "terms": [
+                              "here",
+                              "start",
+                              "legal",
+                              "process",
+                              "290",
+                              "tutional",
+                              "consti",
+                              "souter",
+                              "plurality",
+                              "probable",
+                              "protections",
+                              "see",
+                              "apply",
+                              "criminal",
+                              "cause",
+                              "judge",
+                              "concurring",
+                              "determination"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8370370370370369,
+                        "terms": [
+                              "here",
+                              "start",
+                              "legal",
+                              "process",
+                              "290",
+                              "tutional",
+                              "consti",
+                              "souter",
+                              "plurality",
+                              "probable",
+                              "protections",
+                              "see",
+                              "apply",
+                              "criminal",
+                              "cause",
+                              "judge",
+                              "concurring",
+                              "determination",
+                              "judgment",
+                              "case"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9370370370370369,
+                        "terms": [
+                              "here",
+                              "start",
+                              "legal",
+                              "process",
+                              "290",
+                              "tutional",
+                              "consti",
+                              "souter",
+                              "plurality",
+                              "probable",
+                              "protections",
+                              "see",
+                              "apply",
+                              "criminal",
+                              "cause",
+                              "judge",
+                              "concurring",
+                              "determination",
+                              "judgment",
+                              "case",
+                              "even",
+                              "j",
+                              "id"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "here",
+                              "start",
+                              "legal",
+                              "process",
+                              "290",
+                              "tutional",
+                              "consti",
+                              "souter",
+                              "plurality",
+                              "probable",
+                              "protections",
+                              "see",
+                              "apply",
+                              "criminal",
+                              "cause",
+                              "judge",
+                              "concurring",
+                              "determination",
+                              "judgment",
+                              "case",
+                              "even",
+                              "j",
+                              "id",
+                              "after",
+                              "those",
+                              "opinion"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "here",
+                              "start",
+                              "legal",
+                              "process",
+                              "290",
+                              "tutional",
+                              "consti",
+                              "souter",
+                              "plurality",
+                              "probable",
+                              "protections",
+                              "see",
+                              "apply",
+                              "criminal",
+                              "cause",
+                              "judge",
+                              "concurring",
+                              "determination",
+                              "judgment",
+                              "case",
+                              "even",
+                              "j",
+                              "id",
+                              "after",
+                              "those",
+                              "opinion",
+                              "s"
+                        ]
+                  }
+            ]
+      }
+}

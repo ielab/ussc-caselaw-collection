@@ -1,0 +1,175 @@
+{
+      "auto_generated_queries": {
+            "topic": 66,
+            "query": [
+                  {
+                        "proportion": 0.15555555555555556,
+                        "terms": [
+                              "actual"
+                        ]
+                  },
+                  {
+                        "proportion": 0.25555555555555554,
+                        "terms": [
+                              "actual",
+                              "bias",
+                              "clause"
+                        ]
+                  },
+                  {
+                        "proportion": 0.3555555555555555,
+                        "terms": [
+                              "actual",
+                              "bias",
+                              "clause",
+                              "de",
+                              "due"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4555555555555555,
+                        "terms": [
+                              "actual",
+                              "bias",
+                              "clause",
+                              "de",
+                              "due",
+                              "even",
+                              "ha"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5555555555555555,
+                        "terms": [
+                              "actual",
+                              "bias",
+                              "clause",
+                              "de",
+                              "due",
+                              "even",
+                              "ha",
+                              "judge",
+                              "may"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6555555555555554,
+                        "terms": [
+                              "actual",
+                              "bias",
+                              "clause",
+                              "de",
+                              "due",
+                              "even",
+                              "ha",
+                              "judge",
+                              "may",
+                              "mand"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7555555555555554,
+                        "terms": [
+                              "actual",
+                              "bias",
+                              "clause",
+                              "de",
+                              "due",
+                              "even",
+                              "ha",
+                              "judge",
+                              "may",
+                              "mand",
+                              "our",
+                              "precedents"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8555555555555554,
+                        "terms": [
+                              "actual",
+                              "bias",
+                              "clause",
+                              "de",
+                              "due",
+                              "even",
+                              "ha",
+                              "judge",
+                              "may",
+                              "mand",
+                              "our",
+                              "precedents",
+                              "process",
+                              "recusal"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9555555555555554,
+                        "terms": [
+                              "actual",
+                              "bias",
+                              "clause",
+                              "de",
+                              "due",
+                              "even",
+                              "ha",
+                              "judge",
+                              "may",
+                              "mand",
+                              "our",
+                              "precedents",
+                              "process",
+                              "recusal",
+                              "s",
+                              "sometimes"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "actual",
+                              "bias",
+                              "clause",
+                              "de",
+                              "due",
+                              "even",
+                              "ha",
+                              "judge",
+                              "may",
+                              "mand",
+                              "our",
+                              "precedents",
+                              "process",
+                              "recusal",
+                              "s",
+                              "sometimes",
+                              "under",
+                              "when"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "actual",
+                              "bias",
+                              "clause",
+                              "de",
+                              "due",
+                              "even",
+                              "ha",
+                              "judge",
+                              "may",
+                              "mand",
+                              "our",
+                              "precedents",
+                              "process",
+                              "recusal",
+                              "s",
+                              "sometimes",
+                              "under",
+                              "when"
+                        ]
+                  }
+            ]
+      }
+}

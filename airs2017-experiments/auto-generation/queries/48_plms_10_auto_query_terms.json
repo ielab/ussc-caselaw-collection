@@ -1,0 +1,164 @@
+{
+      "auto_generated_queries": {
+            "topic": 48,
+            "query": [
+                  {
+                        "proportion": 0.1625,
+                        "terms": [
+                              "equity"
+                        ]
+                  },
+                  {
+                        "proportion": 0.2625,
+                        "terms": [
+                              "equity",
+                              "1938",
+                              "3"
+                        ]
+                  },
+                  {
+                        "proportion": 0.36250000000000004,
+                        "terms": [
+                              "equity",
+                              "1938",
+                              "3",
+                              "available",
+                              "before"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4625,
+                        "terms": [
+                              "equity",
+                              "1938",
+                              "3",
+                              "available",
+                              "before",
+                              "courts"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5625,
+                        "terms": [
+                              "equity",
+                              "1938",
+                              "3",
+                              "available",
+                              "before",
+                              "courts",
+                              "laches",
+                              "law"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6625,
+                        "terms": [
+                              "equity",
+                              "1938",
+                              "3",
+                              "available",
+                              "before",
+                              "courts",
+                              "laches",
+                              "law",
+                              "merged"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7625,
+                        "terms": [
+                              "equity",
+                              "1938",
+                              "3",
+                              "available",
+                              "before",
+                              "courts",
+                              "laches",
+                              "law",
+                              "merged",
+                              "only",
+                              "ordinary"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8624999999999999,
+                        "terms": [
+                              "equity",
+                              "1938",
+                              "3",
+                              "available",
+                              "before",
+                              "courts",
+                              "laches",
+                              "law",
+                              "merged",
+                              "only",
+                              "ordinary",
+                              "rule",
+                              "see"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9624999999999999,
+                        "terms": [
+                              "equity",
+                              "1938",
+                              "3",
+                              "available",
+                              "before",
+                              "courts",
+                              "laches",
+                              "law",
+                              "merged",
+                              "only",
+                              "ordinary",
+                              "rule",
+                              "see",
+                              "separate"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "equity",
+                              "1938",
+                              "3",
+                              "available",
+                              "before",
+                              "courts",
+                              "laches",
+                              "law",
+                              "merged",
+                              "only",
+                              "ordinary",
+                              "rule",
+                              "see",
+                              "separate",
+                              "systems",
+                              "were"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "equity",
+                              "1938",
+                              "3",
+                              "available",
+                              "before",
+                              "courts",
+                              "laches",
+                              "law",
+                              "merged",
+                              "only",
+                              "ordinary",
+                              "rule",
+                              "see",
+                              "separate",
+                              "systems",
+                              "were"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,219 @@
+{
+      "auto_generated_queries": {
+            "topic": 55,
+            "query": [
+                  {
+                        "proportion": 0.13846153846153847,
+                        "terms": [
+                              "child"
+                        ]
+                  },
+                  {
+                        "proportion": 0.23846153846153847,
+                        "terms": [
+                              "child",
+                              "instruction",
+                              "services",
+                              "1401"
+                        ]
+                  },
+                  {
+                        "proportion": 0.3384615384615385,
+                        "terms": [
+                              "child",
+                              "instruction",
+                              "services",
+                              "1401",
+                              "26",
+                              "29",
+                              "9"
+                        ]
+                  },
+                  {
+                        "proportion": 0.43846153846153846,
+                        "terms": [
+                              "child",
+                              "instruction",
+                              "services",
+                              "1401",
+                              "26",
+                              "29",
+                              "9",
+                              "act",
+                              "benefit"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5384615384615384,
+                        "terms": [
+                              "child",
+                              "instruction",
+                              "services",
+                              "1401",
+                              "26",
+                              "29",
+                              "9",
+                              "act",
+                              "benefit",
+                              "both",
+                              "comprises",
+                              "defined"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6384615384615384,
+                        "terms": [
+                              "child",
+                              "instruction",
+                              "services",
+                              "1401",
+                              "26",
+                              "29",
+                              "9",
+                              "act",
+                              "benefit",
+                              "both",
+                              "comprises",
+                              "defined",
+                              "education",
+                              "fape"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7384615384615384,
+                        "terms": [
+                              "child",
+                              "instruction",
+                              "services",
+                              "1401",
+                              "26",
+                              "29",
+                              "9",
+                              "act",
+                              "benefit",
+                              "both",
+                              "comprises",
+                              "defined",
+                              "education",
+                              "fape",
+                              "from",
+                              "meet",
+                              "needs"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8384615384615384,
+                        "terms": [
+                              "child",
+                              "instruction",
+                              "services",
+                              "1401",
+                              "26",
+                              "29",
+                              "9",
+                              "act",
+                              "benefit",
+                              "both",
+                              "comprises",
+                              "defined",
+                              "education",
+                              "fape",
+                              "from",
+                              "meet",
+                              "needs",
+                              "permit",
+                              "related",
+                              "s"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9384615384615383,
+                        "terms": [
+                              "child",
+                              "instruction",
+                              "services",
+                              "1401",
+                              "26",
+                              "29",
+                              "9",
+                              "act",
+                              "benefit",
+                              "both",
+                              "comprises",
+                              "defined",
+                              "education",
+                              "fape",
+                              "from",
+                              "meet",
+                              "needs",
+                              "permit",
+                              "related",
+                              "s",
+                              "see",
+                              "special"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "child",
+                              "instruction",
+                              "services",
+                              "1401",
+                              "26",
+                              "29",
+                              "9",
+                              "act",
+                              "benefit",
+                              "both",
+                              "comprises",
+                              "defined",
+                              "education",
+                              "fape",
+                              "from",
+                              "meet",
+                              "needs",
+                              "permit",
+                              "related",
+                              "s",
+                              "see",
+                              "special",
+                              "sufficient",
+                              "supportive",
+                              "tailored"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "child",
+                              "instruction",
+                              "services",
+                              "1401",
+                              "26",
+                              "29",
+                              "9",
+                              "act",
+                              "benefit",
+                              "both",
+                              "comprises",
+                              "defined",
+                              "education",
+                              "fape",
+                              "from",
+                              "meet",
+                              "needs",
+                              "permit",
+                              "related",
+                              "s",
+                              "see",
+                              "special",
+                              "sufficient",
+                              "supportive",
+                              "tailored",
+                              "unique"
+                        ]
+                  }
+            ]
+      }
+}

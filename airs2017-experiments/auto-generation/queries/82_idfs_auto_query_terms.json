@@ -1,0 +1,164 @@
+{
+      "auto_generated_queries": {
+            "topic": 82,
+            "query": [
+                  {
+                        "proportion": 0.1625,
+                        "terms": [
+                              "cautions"
+                        ]
+                  },
+                  {
+                        "proportion": 0.2625,
+                        "terms": [
+                              "cautions",
+                              "explicit",
+                              "adheres"
+                        ]
+                  },
+                  {
+                        "proportion": 0.36250000000000004,
+                        "terms": [
+                              "cautions",
+                              "explicit",
+                              "adheres",
+                              "inferring",
+                              "language"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4625,
+                        "terms": [
+                              "cautions",
+                              "explicit",
+                              "adheres",
+                              "inferring",
+                              "language",
+                              "principle"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5625,
+                        "terms": [
+                              "cautions",
+                              "explicit",
+                              "adheres",
+                              "inferring",
+                              "language",
+                              "principle",
+                              "congress",
+                              "another"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6625,
+                        "terms": [
+                              "cautions",
+                              "explicit",
+                              "adheres",
+                              "inferring",
+                              "language",
+                              "principle",
+                              "congress",
+                              "another",
+                              "limitation"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7625,
+                        "terms": [
+                              "cautions",
+                              "explicit",
+                              "adheres",
+                              "inferring",
+                              "language",
+                              "principle",
+                              "congress",
+                              "another",
+                              "limitation",
+                              "provision",
+                              "use"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8624999999999999,
+                        "terms": [
+                              "cautions",
+                              "explicit",
+                              "adheres",
+                              "inferring",
+                              "language",
+                              "principle",
+                              "congress",
+                              "another",
+                              "limitation",
+                              "provision",
+                              "use",
+                              "against",
+                              "same"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9624999999999999,
+                        "terms": [
+                              "cautions",
+                              "explicit",
+                              "adheres",
+                              "inferring",
+                              "language",
+                              "principle",
+                              "congress",
+                              "another",
+                              "limitation",
+                              "provision",
+                              "use",
+                              "against",
+                              "same",
+                              "general"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "cautions",
+                              "explicit",
+                              "adheres",
+                              "inferring",
+                              "language",
+                              "principle",
+                              "congress",
+                              "another",
+                              "limitation",
+                              "provision",
+                              "use",
+                              "against",
+                              "same",
+                              "general",
+                              "one",
+                              "court"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "cautions",
+                              "explicit",
+                              "adheres",
+                              "inferring",
+                              "language",
+                              "principle",
+                              "congress",
+                              "another",
+                              "limitation",
+                              "provision",
+                              "use",
+                              "against",
+                              "same",
+                              "general",
+                              "one",
+                              "court"
+                        ]
+                  }
+            ]
+      }
+}

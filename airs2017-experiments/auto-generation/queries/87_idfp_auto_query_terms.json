@@ -1,0 +1,258 @@
+{
+      "auto_generated_queries": {
+            "topic": 87,
+            "query": [
+                  {
+                        "proportion": 0.1303030303030303,
+                        "terms": [
+                              "egregious"
+                        ]
+                  },
+                  {
+                        "proportion": 0.23030303030303031,
+                        "terms": [
+                              "egregious",
+                              "tainted",
+                              "ally",
+                              "summarily",
+                              "hesitated"
+                        ]
+                  },
+                  {
+                        "proportion": 0.3303030303030303,
+                        "terms": [
+                              "egregious",
+                              "tainted",
+                              "ally",
+                              "summarily",
+                              "hesitated",
+                              "respectfully",
+                              "deficient",
+                              "capital"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4303030303030303,
+                        "terms": [
+                              "egregious",
+                              "tainted",
+                              "ally",
+                              "summarily",
+                              "hesitated",
+                              "respectfully",
+                              "deficient",
+                              "capital",
+                              "denial",
+                              "plainly",
+                              "particularly"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5303030303030303,
+                        "terms": [
+                              "egregious",
+                              "tainted",
+                              "ally",
+                              "summarily",
+                              "hesitated",
+                              "respectfully",
+                              "deficient",
+                              "capital",
+                              "denial",
+                              "plainly",
+                              "particularly",
+                              "meets",
+                              "standard",
+                              "g",
+                              "performance"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6303030303030303,
+                        "terms": [
+                              "egregious",
+                              "tainted",
+                              "ally",
+                              "summarily",
+                              "hesitated",
+                              "respectfully",
+                              "deficient",
+                              "capital",
+                              "denial",
+                              "plainly",
+                              "particularly",
+                              "meets",
+                              "standard",
+                              "g",
+                              "performance",
+                              "dissent",
+                              "e",
+                              "rendered"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7303030303030302,
+                        "terms": [
+                              "egregious",
+                              "tainted",
+                              "ally",
+                              "summarily",
+                              "hesitated",
+                              "respectfully",
+                              "deficient",
+                              "capital",
+                              "denial",
+                              "plainly",
+                              "particularly",
+                              "meets",
+                              "standard",
+                              "g",
+                              "performance",
+                              "dissent",
+                              "e",
+                              "rendered",
+                              "i",
+                              "error",
+                              "attorney"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8303030303030302,
+                        "terms": [
+                              "egregious",
+                              "tainted",
+                              "ally",
+                              "summarily",
+                              "hesitated",
+                              "respectfully",
+                              "deficient",
+                              "capital",
+                              "denial",
+                              "plainly",
+                              "particularly",
+                              "meets",
+                              "standard",
+                              "g",
+                              "performance",
+                              "dissent",
+                              "e",
+                              "rendered",
+                              "i",
+                              "error",
+                              "attorney",
+                              "reverse",
+                              "constitutional",
+                              "constitution",
+                              "see"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9303030303030302,
+                        "terms": [
+                              "egregious",
+                              "tainted",
+                              "ally",
+                              "summarily",
+                              "hesitated",
+                              "respectfully",
+                              "deficient",
+                              "capital",
+                              "denial",
+                              "plainly",
+                              "particularly",
+                              "meets",
+                              "standard",
+                              "g",
+                              "performance",
+                              "dissent",
+                              "e",
+                              "rendered",
+                              "i",
+                              "error",
+                              "attorney",
+                              "reverse",
+                              "constitutional",
+                              "constitution",
+                              "see",
+                              "where",
+                              "reason",
+                              "has"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "egregious",
+                              "tainted",
+                              "ally",
+                              "summarily",
+                              "hesitated",
+                              "respectfully",
+                              "deficient",
+                              "capital",
+                              "denial",
+                              "plainly",
+                              "particularly",
+                              "meets",
+                              "standard",
+                              "g",
+                              "performance",
+                              "dissent",
+                              "e",
+                              "rendered",
+                              "i",
+                              "error",
+                              "attorney",
+                              "reverse",
+                              "constitutional",
+                              "constitution",
+                              "see",
+                              "where",
+                              "reason",
+                              "has",
+                              "cases",
+                              "case",
+                              "from"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "egregious",
+                              "tainted",
+                              "ally",
+                              "summarily",
+                              "hesitated",
+                              "respectfully",
+                              "deficient",
+                              "capital",
+                              "denial",
+                              "plainly",
+                              "particularly",
+                              "meets",
+                              "standard",
+                              "g",
+                              "performance",
+                              "dissent",
+                              "e",
+                              "rendered",
+                              "i",
+                              "error",
+                              "attorney",
+                              "reverse",
+                              "constitutional",
+                              "constitution",
+                              "see",
+                              "where",
+                              "reason",
+                              "has",
+                              "cases",
+                              "case",
+                              "from",
+                              "certiorari",
+                              "court"
+                        ]
+                  }
+            ]
+      }
+}

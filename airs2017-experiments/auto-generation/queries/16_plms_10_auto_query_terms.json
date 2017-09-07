@@ -1,0 +1,214 @@
+{
+      "auto_generated_queries": {
+            "topic": 16,
+            "query": [
+                  {
+                        "proportion": 0.14,
+                        "terms": [
+                              "about"
+                        ]
+                  },
+                  {
+                        "proportion": 0.24000000000000002,
+                        "terms": [
+                              "about",
+                              "also",
+                              "alternative",
+                              "certiorari"
+                        ]
+                  },
+                  {
+                        "proportion": 0.34,
+                        "terms": [
+                              "about",
+                              "also",
+                              "alternative",
+                              "certiorari",
+                              "continue",
+                              "denial",
+                              "dis"
+                        ]
+                  },
+                  {
+                        "proportion": 0.44000000000000006,
+                        "terms": [
+                              "about",
+                              "also",
+                              "alternative",
+                              "certiorari",
+                              "continue",
+                              "denial",
+                              "dis",
+                              "doubts",
+                              "executions"
+                        ]
+                  },
+                  {
+                        "proportion": 0.54,
+                        "terms": [
+                              "about",
+                              "also",
+                              "alternative",
+                              "certiorari",
+                              "continue",
+                              "denial",
+                              "dis",
+                              "doubts",
+                              "executions",
+                              "from",
+                              "harbor",
+                              "i"
+                        ]
+                  },
+                  {
+                        "proportion": 0.64,
+                        "terms": [
+                              "about",
+                              "also",
+                              "alternative",
+                              "certiorari",
+                              "continue",
+                              "denial",
+                              "dis",
+                              "doubts",
+                              "executions",
+                              "from",
+                              "harbor",
+                              "i",
+                              "imposing",
+                              "inmates"
+                        ]
+                  },
+                  {
+                        "proportion": 0.74,
+                        "terms": [
+                              "about",
+                              "also",
+                              "alternative",
+                              "certiorari",
+                              "continue",
+                              "denial",
+                              "dis",
+                              "doubts",
+                              "executions",
+                              "from",
+                              "harbor",
+                              "i",
+                              "imposing",
+                              "inmates",
+                              "j",
+                              "methods"
+                        ]
+                  },
+                  {
+                        "proportion": 0.84,
+                        "terms": [
+                              "about",
+                              "also",
+                              "alternative",
+                              "certiorari",
+                              "continue",
+                              "denial",
+                              "dis",
+                              "doubts",
+                              "executions",
+                              "from",
+                              "harbor",
+                              "i",
+                              "imposing",
+                              "inmates",
+                              "j",
+                              "methods",
+                              "offer",
+                              "own",
+                              "perverse"
+                        ]
+                  },
+                  {
+                        "proportion": 0.94,
+                        "terms": [
+                              "about",
+                              "also",
+                              "alternative",
+                              "certiorari",
+                              "continue",
+                              "denial",
+                              "dis",
+                              "doubts",
+                              "executions",
+                              "from",
+                              "harbor",
+                              "i",
+                              "imposing",
+                              "inmates",
+                              "j",
+                              "methods",
+                              "offer",
+                              "own",
+                              "perverse",
+                              "requirement",
+                              "see"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "about",
+                              "also",
+                              "alternative",
+                              "certiorari",
+                              "continue",
+                              "denial",
+                              "dis",
+                              "doubts",
+                              "executions",
+                              "from",
+                              "harbor",
+                              "i",
+                              "imposing",
+                              "inmates",
+                              "j",
+                              "methods",
+                              "offer",
+                              "own",
+                              "perverse",
+                              "requirement",
+                              "see",
+                              "senting",
+                              "significant",
+                              "sotomayor"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "about",
+                              "also",
+                              "alternative",
+                              "certiorari",
+                              "continue",
+                              "denial",
+                              "dis",
+                              "doubts",
+                              "executions",
+                              "from",
+                              "harbor",
+                              "i",
+                              "imposing",
+                              "inmates",
+                              "j",
+                              "methods",
+                              "offer",
+                              "own",
+                              "perverse",
+                              "requirement",
+                              "see",
+                              "senting",
+                              "significant",
+                              "sotomayor",
+                              "wisdom"
+                        ]
+                  }
+            ]
+      }
+}

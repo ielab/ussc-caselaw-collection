@@ -1,0 +1,236 @@
+{
+      "auto_generated_queries": {
+            "topic": 28,
+            "query": [
+                  {
+                        "proportion": 0.13448275862068965,
+                        "terms": [
+                              "subpoena"
+                        ]
+                  },
+                  {
+                        "proportion": 0.23448275862068965,
+                        "terms": [
+                              "subpoena",
+                              "26",
+                              "72",
+                              "been"
+                        ]
+                  },
+                  {
+                        "proportion": 0.33448275862068966,
+                        "terms": [
+                              "subpoena",
+                              "26",
+                              "72",
+                              "been",
+                              "burden",
+                              "charge",
+                              "court"
+                        ]
+                  },
+                  {
+                        "proportion": 0.43448275862068964,
+                        "terms": [
+                              "subpoena",
+                              "26",
+                              "72",
+                              "been",
+                              "burden",
+                              "charge",
+                              "court",
+                              "district",
+                              "employer",
+                              "enforce"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5344827586206896,
+                        "terms": [
+                              "subpoena",
+                              "26",
+                              "72",
+                              "been",
+                              "burden",
+                              "charge",
+                              "court",
+                              "district",
+                              "employer",
+                              "enforce",
+                              "estab",
+                              "has",
+                              "id"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6344827586206896,
+                        "terms": [
+                              "subpoena",
+                              "26",
+                              "72",
+                              "been",
+                              "burden",
+                              "charge",
+                              "court",
+                              "district",
+                              "employer",
+                              "enforce",
+                              "estab",
+                              "has",
+                              "id",
+                              "illegitimate",
+                              "indefinite",
+                              "lishes"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7344827586206896,
+                        "terms": [
+                              "subpoena",
+                              "26",
+                              "72",
+                              "been",
+                              "burden",
+                              "charge",
+                              "court",
+                              "district",
+                              "employer",
+                              "enforce",
+                              "estab",
+                              "has",
+                              "id",
+                              "illegitimate",
+                              "indefinite",
+                              "lishes",
+                              "material",
+                              "n",
+                              "proper"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8344827586206895,
+                        "terms": [
+                              "subpoena",
+                              "26",
+                              "72",
+                              "been",
+                              "burden",
+                              "charge",
+                              "court",
+                              "district",
+                              "employer",
+                              "enforce",
+                              "estab",
+                              "has",
+                              "id",
+                              "illegitimate",
+                              "indefinite",
+                              "lishes",
+                              "material",
+                              "n",
+                              "proper",
+                              "purpose",
+                              "relevant",
+                              "requested"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9344827586206895,
+                        "terms": [
+                              "subpoena",
+                              "26",
+                              "72",
+                              "been",
+                              "burden",
+                              "charge",
+                              "court",
+                              "district",
+                              "employer",
+                              "enforce",
+                              "estab",
+                              "has",
+                              "id",
+                              "illegitimate",
+                              "indefinite",
+                              "lishes",
+                              "material",
+                              "n",
+                              "proper",
+                              "purpose",
+                              "relevant",
+                              "requested",
+                              "see",
+                              "should",
+                              "some"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "subpoena",
+                              "26",
+                              "72",
+                              "been",
+                              "burden",
+                              "charge",
+                              "court",
+                              "district",
+                              "employer",
+                              "enforce",
+                              "estab",
+                              "has",
+                              "id",
+                              "illegitimate",
+                              "indefinite",
+                              "lishes",
+                              "material",
+                              "n",
+                              "proper",
+                              "purpose",
+                              "relevant",
+                              "requested",
+                              "see",
+                              "should",
+                              "some",
+                              "sued",
+                              "too",
+                              "unduly"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "subpoena",
+                              "26",
+                              "72",
+                              "been",
+                              "burden",
+                              "charge",
+                              "court",
+                              "district",
+                              "employer",
+                              "enforce",
+                              "estab",
+                              "has",
+                              "id",
+                              "illegitimate",
+                              "indefinite",
+                              "lishes",
+                              "material",
+                              "n",
+                              "proper",
+                              "purpose",
+                              "relevant",
+                              "requested",
+                              "see",
+                              "should",
+                              "some",
+                              "sued",
+                              "too",
+                              "unduly",
+                              "unless"
+                        ]
+                  }
+            ]
+      }
+}

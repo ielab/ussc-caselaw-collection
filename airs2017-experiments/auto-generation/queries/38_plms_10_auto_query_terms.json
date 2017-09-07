@@ -1,0 +1,208 @@
+{
+      "auto_generated_queries": {
+            "topic": 38,
+            "query": [
+                  {
+                        "proportion": 0.14166666666666666,
+                        "terms": [
+                              "act"
+                        ]
+                  },
+                  {
+                        "proportion": 0.24166666666666667,
+                        "terms": [
+                              "act",
+                              "disabilities",
+                              "education",
+                              "educating"
+                        ]
+                  },
+                  {
+                        "proportion": 0.3416666666666667,
+                        "terms": [
+                              "act",
+                              "disabilities",
+                              "education",
+                              "educating",
+                              "1400",
+                              "175"
+                        ]
+                  },
+                  {
+                        "proportion": 0.44166666666666665,
+                        "terms": [
+                              "act",
+                              "disabilities",
+                              "education",
+                              "educating",
+                              "1400",
+                              "175",
+                              "20",
+                              "84",
+                              "amended"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5416666666666666,
+                        "terms": [
+                              "act",
+                              "disabilities",
+                              "education",
+                              "educating",
+                              "1400",
+                              "175",
+                              "20",
+                              "84",
+                              "amended",
+                              "assist",
+                              "c"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6416666666666666,
+                        "terms": [
+                              "act",
+                              "disabilities",
+                              "education",
+                              "educating",
+                              "1400",
+                              "175",
+                              "20",
+                              "84",
+                              "amended",
+                              "assist",
+                              "c",
+                              "children",
+                              "et"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7416666666666666,
+                        "terms": [
+                              "act",
+                              "disabilities",
+                              "education",
+                              "educating",
+                              "1400",
+                              "175",
+                              "20",
+                              "84",
+                              "amended",
+                              "assist",
+                              "c",
+                              "children",
+                              "et",
+                              "federal",
+                              "funds",
+                              "idea"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8416666666666666,
+                        "terms": [
+                              "act",
+                              "disabilities",
+                              "education",
+                              "educating",
+                              "1400",
+                              "175",
+                              "20",
+                              "84",
+                              "amended",
+                              "assist",
+                              "c",
+                              "children",
+                              "et",
+                              "federal",
+                              "funds",
+                              "idea",
+                              "individuals",
+                              "offers"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9416666666666665,
+                        "terms": [
+                              "act",
+                              "disabilities",
+                              "education",
+                              "educating",
+                              "1400",
+                              "175",
+                              "20",
+                              "84",
+                              "amended",
+                              "assist",
+                              "c",
+                              "children",
+                              "et",
+                              "federal",
+                              "funds",
+                              "idea",
+                              "individuals",
+                              "offers",
+                              "s",
+                              "see",
+                              "seq"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "act",
+                              "disabilities",
+                              "education",
+                              "educating",
+                              "1400",
+                              "175",
+                              "20",
+                              "84",
+                              "amended",
+                              "assist",
+                              "c",
+                              "children",
+                              "et",
+                              "federal",
+                              "funds",
+                              "idea",
+                              "individuals",
+                              "offers",
+                              "s",
+                              "see",
+                              "seq",
+                              "stat",
+                              "states"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "act",
+                              "disabilities",
+                              "education",
+                              "educating",
+                              "1400",
+                              "175",
+                              "20",
+                              "84",
+                              "amended",
+                              "assist",
+                              "c",
+                              "children",
+                              "et",
+                              "federal",
+                              "funds",
+                              "idea",
+                              "individuals",
+                              "offers",
+                              "s",
+                              "see",
+                              "seq",
+                              "stat",
+                              "states",
+                              "u"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,197 @@
+{
+      "auto_generated_queries": {
+            "topic": 80,
+            "query": [
+                  {
+                        "proportion": 0.14545454545454545,
+                        "terms": [
+                              "fraud"
+                        ]
+                  },
+                  {
+                        "proportion": 0.24545454545454545,
+                        "terms": [
+                              "fraud",
+                              "pling",
+                              "salman",
+                              "sam"
+                        ]
+                  },
+                  {
+                        "proportion": 0.34545454545454546,
+                        "terms": [
+                              "fraud",
+                              "pling",
+                              "salman",
+                              "sam",
+                              "consummated",
+                              "proposition"
+                        ]
+                  },
+                  {
+                        "proportion": 0.44545454545454544,
+                        "terms": [
+                              "fraud",
+                              "pling",
+                              "salman",
+                              "sam",
+                              "consummated",
+                              "proposition",
+                              "construing",
+                              "stand"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5454545454545454,
+                        "terms": [
+                              "fraud",
+                              "pling",
+                              "salman",
+                              "sam",
+                              "consummated",
+                              "proposition",
+                              "construing",
+                              "stand",
+                              "unless",
+                              "suggesting"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6454545454545454,
+                        "terms": [
+                              "fraud",
+                              "pling",
+                              "salman",
+                              "sam",
+                              "consummated",
+                              "proposition",
+                              "construing",
+                              "stand",
+                              "unless",
+                              "suggesting",
+                              "cites",
+                              "obtains"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7454545454545454,
+                        "terms": [
+                              "fraud",
+                              "pling",
+                              "salman",
+                              "sam",
+                              "consummated",
+                              "proposition",
+                              "construing",
+                              "stand",
+                              "unless",
+                              "suggesting",
+                              "cites",
+                              "obtains",
+                              "money",
+                              "criminal",
+                              "our"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8454545454545453,
+                        "terms": [
+                              "fraud",
+                              "pling",
+                              "salman",
+                              "sam",
+                              "consummated",
+                              "proposition",
+                              "construing",
+                              "stand",
+                              "unless",
+                              "suggesting",
+                              "cites",
+                              "obtains",
+                              "money",
+                              "criminal",
+                              "our",
+                              "property",
+                              "decisions"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9454545454545453,
+                        "terms": [
+                              "fraud",
+                              "pling",
+                              "salman",
+                              "sam",
+                              "consummated",
+                              "proposition",
+                              "construing",
+                              "stand",
+                              "unless",
+                              "suggesting",
+                              "cites",
+                              "obtains",
+                              "money",
+                              "criminal",
+                              "our",
+                              "property",
+                              "decisions",
+                              "also",
+                              "defendant"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "fraud",
+                              "pling",
+                              "salman",
+                              "sam",
+                              "consummated",
+                              "proposition",
+                              "construing",
+                              "stand",
+                              "unless",
+                              "suggesting",
+                              "cites",
+                              "obtains",
+                              "money",
+                              "criminal",
+                              "our",
+                              "property",
+                              "decisions",
+                              "also",
+                              "defendant",
+                              "federal",
+                              "statutes"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "fraud",
+                              "pling",
+                              "salman",
+                              "sam",
+                              "consummated",
+                              "proposition",
+                              "construing",
+                              "stand",
+                              "unless",
+                              "suggesting",
+                              "cites",
+                              "obtains",
+                              "money",
+                              "criminal",
+                              "our",
+                              "property",
+                              "decisions",
+                              "also",
+                              "defendant",
+                              "federal",
+                              "statutes",
+                              "other"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,148 @@
+{
+      "auto_generated_queries": {
+            "topic": 74,
+            "query": [
+                  {
+                        "proportion": 0.17692307692307693,
+                        "terms": [
+                              "expres"
+                        ]
+                  },
+                  {
+                        "proportion": 0.27692307692307694,
+                        "terms": [
+                              "expres",
+                              "sion",
+                              "speech"
+                        ]
+                  },
+                  {
+                        "proportion": 0.3769230769230769,
+                        "terms": [
+                              "expres",
+                              "sion",
+                              "speech",
+                              "violence"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4769230769230769,
+                        "terms": [
+                              "expres",
+                              "sion",
+                              "speech",
+                              "violence",
+                              "threats"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5769230769230769,
+                        "terms": [
+                              "expres",
+                              "sion",
+                              "speech",
+                              "violence",
+                              "threats",
+                              "physical",
+                              "extend"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6769230769230768,
+                        "terms": [
+                              "expres",
+                              "sion",
+                              "speech",
+                              "violence",
+                              "threats",
+                              "physical",
+                              "extend",
+                              "protection"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7769230769230768,
+                        "terms": [
+                              "expres",
+                              "sion",
+                              "speech",
+                              "violence",
+                              "threats",
+                              "physical",
+                              "extend",
+                              "protection",
+                              "amendment"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8769230769230768,
+                        "terms": [
+                              "expres",
+                              "sion",
+                              "speech",
+                              "violence",
+                              "threats",
+                              "physical",
+                              "extend",
+                              "protection",
+                              "amendment",
+                              "see",
+                              "does"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9769230769230768,
+                        "terms": [
+                              "expres",
+                              "sion",
+                              "speech",
+                              "violence",
+                              "threats",
+                              "physical",
+                              "extend",
+                              "protection",
+                              "amendment",
+                              "see",
+                              "does",
+                              "first"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "expres",
+                              "sion",
+                              "speech",
+                              "violence",
+                              "threats",
+                              "physical",
+                              "extend",
+                              "protection",
+                              "amendment",
+                              "see",
+                              "does",
+                              "first",
+                              "s"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "expres",
+                              "sion",
+                              "speech",
+                              "violence",
+                              "threats",
+                              "physical",
+                              "extend",
+                              "protection",
+                              "amendment",
+                              "see",
+                              "does",
+                              "first",
+                              "s"
+                        ]
+                  }
+            ]
+      }
+}

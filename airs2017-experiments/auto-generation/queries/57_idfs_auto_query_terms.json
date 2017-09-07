@@ -1,0 +1,93 @@
+{
+      "auto_generated_queries": {
+            "topic": 57,
+            "query": [
+                  {
+                        "proportion": 0.2,
+                        "terms": [
+                              "text"
+                        ]
+                  },
+                  {
+                        "proportion": 0.2,
+                        "terms": [
+                              "text"
+                        ]
+                  },
+                  {
+                        "proportion": 0.30000000000000004,
+                        "terms": [
+                              "text"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4,
+                        "terms": [
+                              "text",
+                              "look"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5,
+                        "terms": [
+                              "text",
+                              "look"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6,
+                        "terms": [
+                              "text",
+                              "look",
+                              "statute"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7,
+                        "terms": [
+                              "text",
+                              "look",
+                              "statute"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7999999999999999,
+                        "terms": [
+                              "text",
+                              "look",
+                              "statute",
+                              "first"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8999999999999999,
+                        "terms": [
+                              "text",
+                              "look",
+                              "statute",
+                              "first"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9999999999999999,
+                        "terms": [
+                              "text",
+                              "look",
+                              "statute",
+                              "first",
+                              "we"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "text",
+                              "look",
+                              "statute",
+                              "first",
+                              "we"
+                        ]
+                  }
+            ]
+      }
+}

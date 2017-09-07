@@ -24,11 +24,11 @@ class Term:
 		self.converged = False
 
 	def e_step(self, smooth_factor):
-		self.e_stp = self.tf * ((smooth_factor * self.p_td) 
-			/ (((1 - smooth_factor) * self.p_tc) + (smooth_factor * self.p_td))) 
+		self.e_stp = self.tf * ((smooth_factor * self.p_td)
+			/ (((1 - smooth_factor) * self.p_tc) + (smooth_factor * self.p_td)))
 
 	def m_step(self, term_pos, terms, inverse_d, iteration):
-		sum_esteps = 0 
+		sum_esteps = 0
 		for i in range(len(terms)):
 			if i != term_pos:
 				sum_esteps += terms[i].e_stp
@@ -39,12 +39,16 @@ class Term:
 			self.converged = True
 
 		self.p_td = new_p_td
- 
+
 def clean_text(text):
 	return re.sub('[^a-zA-Z0-9]+', ' ', text).lower()
 
 def get_numbers(text):
-	return re.sub('[^0-9]+', ' ', text).lstrip().rstrip()
+	nums = re.findall('[0-9]+', text)
+	ret = ""
+	for num in nums:
+		ret = ret + num + " "
+	return ret.rstrip()
 
 def remove_stop(text):
 	a_bod = {
@@ -68,13 +72,13 @@ def plm(terms, num_terms, level):
 	inverse_d = 1 / num_terms
 	iteration = 0
 	all_converged = False
-	while not all_converged: 
+	while not all_converged:
 		print("Iteration -", iteration)
-			
+
 		for t in terms:
 			if not t.converged:
 				t.e_step(level)
-		
+
 		for i in range(len(terms)):
 			if not terms[i].converged:
 				terms[i].m_step(i, terms, inverse_d, iteration)
@@ -103,7 +107,7 @@ def plm(terms, num_terms, level):
 
 # pass sorted terms
 def write_proportions_to_file(terms, topic, method, level):
-	# proportion varied from 1/|D| to 1 where |D| was the total number of terms 
+	# proportion varied from 1/|D| to 1 where |D| was the total number of terms
 	inverse_d = 1 / len(terms)
 
 	proportions = []
@@ -156,7 +160,7 @@ def generate_for_text(text, topic, run_type, level):
 			"_type": "decision",
 			"doc" : {
 				"plain_text" : non_stop_text
-			},  
+			},
 			"term_statistics": True
 			}
 		]
@@ -201,11 +205,3 @@ def main():
 
 if __name__ == '__main__':
 	main()
-
-
-
-
-
-
-
-

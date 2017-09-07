@@ -1,0 +1,214 @@
+{
+      "auto_generated_queries": {
+            "topic": 98,
+            "query": [
+                  {
+                        "proportion": 0.14,
+                        "terms": [
+                              "must"
+                        ]
+                  },
+                  {
+                        "proportion": 0.24000000000000002,
+                        "terms": [
+                              "must",
+                              "win",
+                              "structural",
+                              "written"
+                        ]
+                  },
+                  {
+                        "proportion": 0.34,
+                        "terms": [
+                              "must",
+                              "win",
+                              "structural",
+                              "written",
+                              "context",
+                              "treaty",
+                              "compelling"
+                        ]
+                  },
+                  {
+                        "proportion": 0.44000000000000006,
+                        "terms": [
+                              "must",
+                              "win",
+                              "structural",
+                              "written",
+                              "context",
+                              "treaty",
+                              "compelling",
+                              "cf",
+                              "discussed"
+                        ]
+                  },
+                  {
+                        "proportion": 0.54,
+                        "terms": [
+                              "must",
+                              "win",
+                              "structural",
+                              "written",
+                              "context",
+                              "treaty",
+                              "compelling",
+                              "cf",
+                              "discussed",
+                              "above",
+                              "contend",
+                              "interpretation"
+                        ]
+                  },
+                  {
+                        "proportion": 0.64,
+                        "terms": [
+                              "must",
+                              "win",
+                              "structural",
+                              "written",
+                              "context",
+                              "treaty",
+                              "compelling",
+                              "cf",
+                              "discussed",
+                              "above",
+                              "contend",
+                              "interpretation",
+                              "account",
+                              "several"
+                        ]
+                  },
+                  {
+                        "proportion": 0.74,
+                        "terms": [
+                              "must",
+                              "win",
+                              "structural",
+                              "written",
+                              "context",
+                              "treaty",
+                              "compelling",
+                              "cf",
+                              "discussed",
+                              "above",
+                              "contend",
+                              "interpretation",
+                              "account",
+                              "several",
+                              "argument",
+                              "words"
+                        ]
+                  },
+                  {
+                        "proportion": 0.84,
+                        "terms": [
+                              "must",
+                              "win",
+                              "structural",
+                              "written",
+                              "context",
+                              "treaty",
+                              "compelling",
+                              "cf",
+                              "discussed",
+                              "above",
+                              "contend",
+                              "interpretation",
+                              "account",
+                              "several",
+                              "argument",
+                              "words",
+                              "day",
+                              "considerations",
+                              "take"
+                        ]
+                  },
+                  {
+                        "proportion": 0.94,
+                        "terms": [
+                              "must",
+                              "win",
+                              "structural",
+                              "written",
+                              "context",
+                              "treaty",
+                              "compelling",
+                              "cf",
+                              "discussed",
+                              "above",
+                              "contend",
+                              "interpretation",
+                              "account",
+                              "several",
+                              "argument",
+                              "words",
+                              "day",
+                              "considerations",
+                              "take",
+                              "first",
+                              "does"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "must",
+                              "win",
+                              "structural",
+                              "written",
+                              "context",
+                              "treaty",
+                              "compelling",
+                              "cf",
+                              "discussed",
+                              "above",
+                              "contend",
+                              "interpretation",
+                              "account",
+                              "several",
+                              "argument",
+                              "words",
+                              "day",
+                              "considerations",
+                              "take",
+                              "first",
+                              "does",
+                              "reasons",
+                              "used",
+                              "see"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "must",
+                              "win",
+                              "structural",
+                              "written",
+                              "context",
+                              "treaty",
+                              "compelling",
+                              "cf",
+                              "discussed",
+                              "above",
+                              "contend",
+                              "interpretation",
+                              "account",
+                              "several",
+                              "argument",
+                              "words",
+                              "day",
+                              "considerations",
+                              "take",
+                              "first",
+                              "does",
+                              "reasons",
+                              "used",
+                              "see",
+                              "which"
+                        ]
+                  }
+            ]
+      }
+}

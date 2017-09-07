@@ -1,0 +1,175 @@
+{
+      "auto_generated_queries": {
+            "topic": 79,
+            "query": [
+                  {
+                        "proportion": 0.15555555555555556,
+                        "terms": [
+                              "tippee"
+                        ]
+                  },
+                  {
+                        "proportion": 0.25555555555555554,
+                        "terms": [
+                              "tippee",
+                              "infor",
+                              "mation"
+                        ]
+                  },
+                  {
+                        "proportion": 0.3555555555555555,
+                        "terms": [
+                              "tippee",
+                              "infor",
+                              "mation",
+                              "tip",
+                              "hinges"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4555555555555555,
+                        "terms": [
+                              "tippee",
+                              "infor",
+                              "mation",
+                              "tip",
+                              "hinges",
+                              "fiduciary",
+                              "inside"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5555555555555555,
+                        "terms": [
+                              "tippee",
+                              "infor",
+                              "mation",
+                              "tip",
+                              "hinges",
+                              "fiduciary",
+                              "inside",
+                              "breached",
+                              "trading"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6555555555555554,
+                        "terms": [
+                              "tippee",
+                              "infor",
+                              "mation",
+                              "tip",
+                              "hinges",
+                              "fiduciary",
+                              "inside",
+                              "breached",
+                              "trading",
+                              "disclosing"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7555555555555554,
+                        "terms": [
+                              "tippee",
+                              "infor",
+                              "mation",
+                              "tip",
+                              "hinges",
+                              "fiduciary",
+                              "inside",
+                              "breached",
+                              "trading",
+                              "disclosing",
+                              "explained",
+                              "liability"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8555555555555554,
+                        "terms": [
+                              "tippee",
+                              "infor",
+                              "mation",
+                              "tip",
+                              "hinges",
+                              "fiduciary",
+                              "inside",
+                              "breached",
+                              "trading",
+                              "disclosing",
+                              "explained",
+                              "liability",
+                              "information",
+                              "per"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9555555555555554,
+                        "terms": [
+                              "tippee",
+                              "infor",
+                              "mation",
+                              "tip",
+                              "hinges",
+                              "fiduciary",
+                              "inside",
+                              "breached",
+                              "trading",
+                              "disclosing",
+                              "explained",
+                              "liability",
+                              "information",
+                              "per",
+                              "duty",
+                              "whether"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "tippee",
+                              "infor",
+                              "mation",
+                              "tip",
+                              "hinges",
+                              "fiduciary",
+                              "inside",
+                              "breached",
+                              "trading",
+                              "disclosing",
+                              "explained",
+                              "liability",
+                              "information",
+                              "per",
+                              "duty",
+                              "whether",
+                              "s",
+                              "court"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "tippee",
+                              "infor",
+                              "mation",
+                              "tip",
+                              "hinges",
+                              "fiduciary",
+                              "inside",
+                              "breached",
+                              "trading",
+                              "disclosing",
+                              "explained",
+                              "liability",
+                              "information",
+                              "per",
+                              "duty",
+                              "whether",
+                              "s",
+                              "court"
+                        ]
+                  }
+            ]
+      }
+}

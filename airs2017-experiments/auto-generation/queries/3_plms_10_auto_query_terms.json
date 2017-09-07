@@ -1,0 +1,183 @@
+{
+      "auto_generated_queries": {
+            "topic": 3,
+            "query": [
+                  {
+                        "proportion": 0.15000000000000002,
+                        "terms": [
+                              "act"
+                        ]
+                  },
+                  {
+                        "proportion": 0.25,
+                        "terms": [
+                              "act",
+                              "arbitration",
+                              "2",
+                              "9"
+                        ]
+                  },
+                  {
+                        "proportion": 0.35,
+                        "terms": [
+                              "act",
+                              "arbitration",
+                              "2",
+                              "9",
+                              "agreements"
+                        ]
+                  },
+                  {
+                        "proportion": 0.44999999999999996,
+                        "terms": [
+                              "act",
+                              "arbitration",
+                              "2",
+                              "9",
+                              "agreements",
+                              "all",
+                              "c"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5499999999999999,
+                        "terms": [
+                              "act",
+                              "arbitration",
+                              "2",
+                              "9",
+                              "agreements",
+                              "all",
+                              "c",
+                              "contracts",
+                              "courts"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6499999999999999,
+                        "terms": [
+                              "act",
+                              "arbitration",
+                              "2",
+                              "9",
+                              "agreements",
+                              "all",
+                              "c",
+                              "contracts",
+                              "courts",
+                              "equal",
+                              "faa"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7499999999999999,
+                        "terms": [
+                              "act",
+                              "arbitration",
+                              "2",
+                              "9",
+                              "agreements",
+                              "all",
+                              "c",
+                              "contracts",
+                              "courts",
+                              "equal",
+                              "faa",
+                              "federal",
+                              "footing"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8499999999999999,
+                        "terms": [
+                              "act",
+                              "arbitration",
+                              "2",
+                              "9",
+                              "agreements",
+                              "all",
+                              "c",
+                              "contracts",
+                              "courts",
+                              "equal",
+                              "faa",
+                              "federal",
+                              "footing",
+                              "other",
+                              "place"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9499999999999998,
+                        "terms": [
+                              "act",
+                              "arbitration",
+                              "2",
+                              "9",
+                              "agreements",
+                              "all",
+                              "c",
+                              "contracts",
+                              "courts",
+                              "equal",
+                              "faa",
+                              "federal",
+                              "footing",
+                              "other",
+                              "place",
+                              "quoting",
+                              "requires"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "act",
+                              "arbitration",
+                              "2",
+                              "9",
+                              "agreements",
+                              "all",
+                              "c",
+                              "contracts",
+                              "courts",
+                              "equal",
+                              "faa",
+                              "federal",
+                              "footing",
+                              "other",
+                              "place",
+                              "quoting",
+                              "requires",
+                              "s",
+                              "see"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "act",
+                              "arbitration",
+                              "2",
+                              "9",
+                              "agreements",
+                              "all",
+                              "c",
+                              "contracts",
+                              "courts",
+                              "equal",
+                              "faa",
+                              "federal",
+                              "footing",
+                              "other",
+                              "place",
+                              "quoting",
+                              "requires",
+                              "s",
+                              "see",
+                              "u"
+                        ]
+                  }
+            ]
+      }
+}

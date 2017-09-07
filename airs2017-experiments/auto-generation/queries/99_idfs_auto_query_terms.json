@@ -1,0 +1,170 @@
+{
+      "auto_generated_queries": {
+            "topic": 99,
+            "query": [
+                  {
+                        "proportion": 0.1588235294117647,
+                        "terms": [
+                              "veteran"
+                        ]
+                  },
+                  {
+                        "proportion": 0.2588235294117647,
+                        "terms": [
+                              "veteran",
+                              "divorce",
+                              "retirement"
+                        ]
+                  },
+                  {
+                        "proportion": 0.35882352941176465,
+                        "terms": [
+                              "veteran",
+                              "divorce",
+                              "retirement",
+                              "waived",
+                              "divide"
+                        ]
+                  },
+                  {
+                        "proportion": 0.45882352941176463,
+                        "terms": [
+                              "veteran",
+                              "divorce",
+                              "retirement",
+                              "waived",
+                              "divide",
+                              "community",
+                              "portion"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5588235294117646,
+                        "terms": [
+                              "veteran",
+                              "divorce",
+                              "retirement",
+                              "waived",
+                              "divide",
+                              "community",
+                              "portion",
+                              "treat"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6588235294117646,
+                        "terms": [
+                              "veteran",
+                              "divorce",
+                              "retirement",
+                              "waived",
+                              "divide",
+                              "community",
+                              "portion",
+                              "treat",
+                              "pay",
+                              "property"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7588235294117646,
+                        "terms": [
+                              "veteran",
+                              "divorce",
+                              "retirement",
+                              "waived",
+                              "divide",
+                              "community",
+                              "portion",
+                              "treat",
+                              "pay",
+                              "property",
+                              "see",
+                              "cannot"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8588235294117645,
+                        "terms": [
+                              "veteran",
+                              "divorce",
+                              "retirement",
+                              "waived",
+                              "divide",
+                              "community",
+                              "portion",
+                              "treat",
+                              "pay",
+                              "property",
+                              "see",
+                              "cannot",
+                              "held"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9588235294117645,
+                        "terms": [
+                              "veteran",
+                              "divorce",
+                              "retirement",
+                              "waived",
+                              "divide",
+                              "community",
+                              "portion",
+                              "treat",
+                              "pay",
+                              "property",
+                              "see",
+                              "cannot",
+                              "held",
+                              "we",
+                              "s"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "veteran",
+                              "divorce",
+                              "retirement",
+                              "waived",
+                              "divide",
+                              "community",
+                              "portion",
+                              "treat",
+                              "pay",
+                              "property",
+                              "see",
+                              "cannot",
+                              "held",
+                              "we",
+                              "s",
+                              "have",
+                              "state"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "veteran",
+                              "divorce",
+                              "retirement",
+                              "waived",
+                              "divide",
+                              "community",
+                              "portion",
+                              "treat",
+                              "pay",
+                              "property",
+                              "see",
+                              "cannot",
+                              "held",
+                              "we",
+                              "s",
+                              "have",
+                              "state"
+                        ]
+                  }
+            ]
+      }
+}

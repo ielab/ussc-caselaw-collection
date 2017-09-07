@@ -1,0 +1,203 @@
+{
+      "auto_generated_queries": {
+            "topic": 10,
+            "query": [
+                  {
+                        "proportion": 0.14347826086956522,
+                        "terms": [
+                              "sovereign"
+                        ]
+                  },
+                  {
+                        "proportion": 0.24347826086956523,
+                        "terms": [
+                              "sovereign",
+                              "whether",
+                              "lawsuits",
+                              "entities"
+                        ]
+                  },
+                  {
+                        "proportion": 0.34347826086956523,
+                        "terms": [
+                              "sovereign",
+                              "whether",
+                              "lawsuits",
+                              "entities",
+                              "look",
+                              "context"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4434782608695652,
+                        "terms": [
+                              "sovereign",
+                              "whether",
+                              "lawsuits",
+                              "entities",
+                              "look",
+                              "context",
+                              "real",
+                              "immunity"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5434782608695652,
+                        "terms": [
+                              "sovereign",
+                              "whether",
+                              "lawsuits",
+                              "entities",
+                              "look",
+                              "context",
+                              "real",
+                              "immunity",
+                              "bars",
+                              "employees",
+                              "establish"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6434782608695652,
+                        "terms": [
+                              "sovereign",
+                              "whether",
+                              "lawsuits",
+                              "entities",
+                              "look",
+                              "context",
+                              "real",
+                              "immunity",
+                              "bars",
+                              "employees",
+                              "establish",
+                              "suit",
+                              "our"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7434782608695651,
+                        "terms": [
+                              "sovereign",
+                              "whether",
+                              "lawsuits",
+                              "entities",
+                              "look",
+                              "context",
+                              "real",
+                              "immunity",
+                              "bars",
+                              "employees",
+                              "establish",
+                              "suit",
+                              "our",
+                              "determine",
+                              "interest"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8434782608695651,
+                        "terms": [
+                              "sovereign",
+                              "whether",
+                              "lawsuits",
+                              "entities",
+                              "look",
+                              "context",
+                              "real",
+                              "immunity",
+                              "bars",
+                              "employees",
+                              "establish",
+                              "suit",
+                              "our",
+                              "determine",
+                              "interest",
+                              "party",
+                              "should",
+                              "against"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9434782608695651,
+                        "terms": [
+                              "sovereign",
+                              "whether",
+                              "lawsuits",
+                              "entities",
+                              "look",
+                              "context",
+                              "real",
+                              "immunity",
+                              "bars",
+                              "employees",
+                              "establish",
+                              "suit",
+                              "our",
+                              "determine",
+                              "interest",
+                              "party",
+                              "should",
+                              "against",
+                              "federal",
+                              "see"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "sovereign",
+                              "whether",
+                              "lawsuits",
+                              "entities",
+                              "look",
+                              "context",
+                              "real",
+                              "immunity",
+                              "bars",
+                              "employees",
+                              "establish",
+                              "suit",
+                              "our",
+                              "determine",
+                              "interest",
+                              "party",
+                              "should",
+                              "against",
+                              "federal",
+                              "see",
+                              "cases",
+                              "state"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "sovereign",
+                              "whether",
+                              "lawsuits",
+                              "entities",
+                              "look",
+                              "context",
+                              "real",
+                              "immunity",
+                              "bars",
+                              "employees",
+                              "establish",
+                              "suit",
+                              "our",
+                              "determine",
+                              "interest",
+                              "party",
+                              "should",
+                              "against",
+                              "federal",
+                              "see",
+                              "cases",
+                              "state",
+                              "courts"
+                        ]
+                  }
+            ]
+      }
+}

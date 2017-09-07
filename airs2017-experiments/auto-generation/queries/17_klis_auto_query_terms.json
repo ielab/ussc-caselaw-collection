@@ -1,0 +1,170 @@
+{
+      "auto_generated_queries": {
+            "topic": 17,
+            "query": [
+                  {
+                        "proportion": 0.1588235294117647,
+                        "terms": [
+                              "follows"
+                        ]
+                  },
+                  {
+                        "proportion": 0.2588235294117647,
+                        "terms": [
+                              "follows",
+                              "position",
+                              "significance"
+                        ]
+                  },
+                  {
+                        "proportion": 0.35882352941176465,
+                        "terms": [
+                              "follows",
+                              "position",
+                              "significance",
+                              "emphasizing",
+                              "notice"
+                        ]
+                  },
+                  {
+                        "proportion": 0.45882352941176463,
+                        "terms": [
+                              "follows",
+                              "position",
+                              "significance",
+                              "emphasizing",
+                              "notice",
+                              "according",
+                              "curiam"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5588235294117646,
+                        "terms": [
+                              "follows",
+                              "position",
+                              "significance",
+                              "emphasizing",
+                              "notice",
+                              "according",
+                              "curiam",
+                              "government"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6588235294117646,
+                        "terms": [
+                              "follows",
+                              "position",
+                              "significance",
+                              "emphasizing",
+                              "notice",
+                              "according",
+                              "curiam",
+                              "government",
+                              "jurisdictional",
+                              "many"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7588235294117646,
+                        "terms": [
+                              "follows",
+                              "position",
+                              "significance",
+                              "emphasizing",
+                              "notice",
+                              "according",
+                              "curiam",
+                              "government",
+                              "jurisdictional",
+                              "many",
+                              "appeal",
+                              "g"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8588235294117645,
+                        "terms": [
+                              "follows",
+                              "position",
+                              "significance",
+                              "emphasizing",
+                              "notice",
+                              "according",
+                              "curiam",
+                              "government",
+                              "jurisdictional",
+                              "many",
+                              "appeal",
+                              "g",
+                              "per"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9588235294117645,
+                        "terms": [
+                              "follows",
+                              "position",
+                              "significance",
+                              "emphasizing",
+                              "notice",
+                              "according",
+                              "curiam",
+                              "government",
+                              "jurisdictional",
+                              "many",
+                              "appeal",
+                              "g",
+                              "per",
+                              "cases",
+                              "e"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "follows",
+                              "position",
+                              "significance",
+                              "emphasizing",
+                              "notice",
+                              "according",
+                              "curiam",
+                              "government",
+                              "jurisdictional",
+                              "many",
+                              "appeal",
+                              "g",
+                              "per",
+                              "cases",
+                              "e",
+                              "our",
+                              "from"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "follows",
+                              "position",
+                              "significance",
+                              "emphasizing",
+                              "notice",
+                              "according",
+                              "curiam",
+                              "government",
+                              "jurisdictional",
+                              "many",
+                              "appeal",
+                              "g",
+                              "per",
+                              "cases",
+                              "e",
+                              "our",
+                              "from"
+                        ]
+                  }
+            ]
+      }
+}

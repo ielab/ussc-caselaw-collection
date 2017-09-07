@@ -1,0 +1,148 @@
+{
+      "auto_generated_queries": {
+            "topic": 86,
+            "query": [
+                  {
+                        "proportion": 0.17692307692307693,
+                        "terms": [
+                              "577"
+                        ]
+                  },
+                  {
+                        "proportion": 0.27692307692307694,
+                        "terms": [
+                              "577",
+                              "slip",
+                              "op"
+                        ]
+                  },
+                  {
+                        "proportion": 0.3769230769230769,
+                        "terms": [
+                              "577",
+                              "slip",
+                              "op",
+                              "substantive"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4769230769230769,
+                        "terms": [
+                              "577",
+                              "slip",
+                              "op",
+                              "substantive",
+                              "announced"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5769230769230769,
+                        "terms": [
+                              "577",
+                              "slip",
+                              "op",
+                              "substantive",
+                              "announced",
+                              "miller",
+                              "20"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6769230769230768,
+                        "terms": [
+                              "577",
+                              "slip",
+                              "op",
+                              "substantive",
+                              "announced",
+                              "miller",
+                              "20",
+                              "u"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7769230769230768,
+                        "terms": [
+                              "577",
+                              "slip",
+                              "op",
+                              "substantive",
+                              "announced",
+                              "miller",
+                              "20",
+                              "u",
+                              "held"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8769230769230768,
+                        "terms": [
+                              "577",
+                              "slip",
+                              "op",
+                              "substantive",
+                              "announced",
+                              "miller",
+                              "20",
+                              "u",
+                              "held",
+                              "constitutional",
+                              "rule"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9769230769230768,
+                        "terms": [
+                              "577",
+                              "slip",
+                              "op",
+                              "substantive",
+                              "announced",
+                              "miller",
+                              "20",
+                              "u",
+                              "held",
+                              "constitutional",
+                              "rule",
+                              "law"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "577",
+                              "slip",
+                              "op",
+                              "substantive",
+                              "announced",
+                              "miller",
+                              "20",
+                              "u",
+                              "held",
+                              "constitutional",
+                              "rule",
+                              "law",
+                              "s"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "577",
+                              "slip",
+                              "op",
+                              "substantive",
+                              "announced",
+                              "miller",
+                              "20",
+                              "u",
+                              "held",
+                              "constitutional",
+                              "rule",
+                              "law",
+                              "s"
+                        ]
+                  }
+            ]
+      }
+}

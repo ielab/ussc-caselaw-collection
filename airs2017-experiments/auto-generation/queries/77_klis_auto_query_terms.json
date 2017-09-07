@@ -1,0 +1,142 @@
+{
+      "auto_generated_queries": {
+            "topic": 77,
+            "query": [
+                  {
+                        "proportion": 0.18333333333333335,
+                        "terms": [
+                              "first"
+                        ]
+                  },
+                  {
+                        "proportion": 0.2833333333333333,
+                        "terms": [
+                              "first",
+                              "second",
+                              "unusual"
+                        ]
+                  },
+                  {
+                        "proportion": 0.3833333333333333,
+                        "terms": [
+                              "first",
+                              "second",
+                              "unusual",
+                              "cruel"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4833333333333333,
+                        "terms": [
+                              "first",
+                              "second",
+                              "unusual",
+                              "cruel",
+                              "given"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5833333333333333,
+                        "terms": [
+                              "first",
+                              "second",
+                              "unusual",
+                              "cruel",
+                              "given",
+                              "failure"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6833333333333332,
+                        "terms": [
+                              "first",
+                              "second",
+                              "unusual",
+                              "cruel",
+                              "given",
+                              "failure",
+                              "attempt"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7833333333333332,
+                        "terms": [
+                              "first",
+                              "second",
+                              "unusual",
+                              "cruel",
+                              "given",
+                              "failure",
+                              "attempt",
+                              "punishment",
+                              "amount"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8833333333333332,
+                        "terms": [
+                              "first",
+                              "second",
+                              "unusual",
+                              "cruel",
+                              "given",
+                              "failure",
+                              "attempt",
+                              "punishment",
+                              "amount",
+                              "see"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9833333333333332,
+                        "terms": [
+                              "first",
+                              "second",
+                              "unusual",
+                              "cruel",
+                              "given",
+                              "failure",
+                              "attempt",
+                              "punishment",
+                              "amount",
+                              "see",
+                              "does"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "first",
+                              "second",
+                              "unusual",
+                              "cruel",
+                              "given",
+                              "failure",
+                              "attempt",
+                              "punishment",
+                              "amount",
+                              "see",
+                              "does",
+                              "its"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "first",
+                              "second",
+                              "unusual",
+                              "cruel",
+                              "given",
+                              "failure",
+                              "attempt",
+                              "punishment",
+                              "amount",
+                              "see",
+                              "does",
+                              "its"
+                        ]
+                  }
+            ]
+      }
+}

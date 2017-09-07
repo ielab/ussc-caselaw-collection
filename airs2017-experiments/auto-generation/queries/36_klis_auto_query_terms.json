@@ -1,0 +1,203 @@
+{
+      "auto_generated_queries": {
+            "topic": 36,
+            "query": [
+                  {
+                        "proportion": 0.14347826086956522,
+                        "terms": [
+                              "5"
+                        ]
+                  },
+                  {
+                        "proportion": 0.24347826086956523,
+                        "terms": [
+                              "5",
+                              "finding",
+                              "small",
+                              "money"
+                        ]
+                  },
+                  {
+                        "proportion": 0.34347826086956523,
+                        "terms": [
+                              "5",
+                              "finding",
+                              "small",
+                              "money",
+                              "fined",
+                              "plus"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4434782608695652,
+                        "terms": [
+                              "5",
+                              "finding",
+                              "small",
+                              "money",
+                              "fined",
+                              "plus",
+                              "costs",
+                              "loss"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5434782608695652,
+                        "terms": [
+                              "5",
+                              "finding",
+                              "small",
+                              "money",
+                              "fined",
+                              "plus",
+                              "costs",
+                              "loss",
+                              "standing",
+                              "challenge",
+                              "injury"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6434782608695652,
+                        "terms": [
+                              "5",
+                              "finding",
+                              "small",
+                              "money",
+                              "fined",
+                              "plus",
+                              "costs",
+                              "loss",
+                              "standing",
+                              "challenge",
+                              "injury",
+                              "ordinarily",
+                              "amount"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7434782608695651,
+                        "terms": [
+                              "5",
+                              "finding",
+                              "small",
+                              "money",
+                              "fined",
+                              "plus",
+                              "costs",
+                              "loss",
+                              "standing",
+                              "challenge",
+                              "injury",
+                              "ordinarily",
+                              "amount",
+                              "see",
+                              "assert"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8434782608695651,
+                        "terms": [
+                              "5",
+                              "finding",
+                              "small",
+                              "money",
+                              "fined",
+                              "plus",
+                              "costs",
+                              "loss",
+                              "standing",
+                              "challenge",
+                              "injury",
+                              "ordinarily",
+                              "amount",
+                              "see",
+                              "assert",
+                              "establishment",
+                              "purposes",
+                              "clause"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9434782608695651,
+                        "terms": [
+                              "5",
+                              "finding",
+                              "small",
+                              "money",
+                              "fined",
+                              "plus",
+                              "costs",
+                              "loss",
+                              "standing",
+                              "challenge",
+                              "injury",
+                              "ordinarily",
+                              "amount",
+                              "see",
+                              "assert",
+                              "establishment",
+                              "purposes",
+                              "clause",
+                              "appellants",
+                              "g"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "5",
+                              "finding",
+                              "small",
+                              "money",
+                              "fined",
+                              "plus",
+                              "costs",
+                              "loss",
+                              "standing",
+                              "challenge",
+                              "injury",
+                              "ordinarily",
+                              "amount",
+                              "see",
+                              "assert",
+                              "establishment",
+                              "purposes",
+                              "clause",
+                              "appellants",
+                              "g",
+                              "e",
+                              "even"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "5",
+                              "finding",
+                              "small",
+                              "money",
+                              "fined",
+                              "plus",
+                              "costs",
+                              "loss",
+                              "standing",
+                              "challenge",
+                              "injury",
+                              "ordinarily",
+                              "amount",
+                              "see",
+                              "assert",
+                              "establishment",
+                              "purposes",
+                              "clause",
+                              "appellants",
+                              "g",
+                              "e",
+                              "even",
+                              "had"
+                        ]
+                  }
+            ]
+      }
+}

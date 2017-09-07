@@ -1,0 +1,181 @@
+{
+      "auto_generated_queries": {
+            "topic": 11,
+            "query": [
+                  {
+                        "proportion": 0.15263157894736842,
+                        "terms": [
+                              "published"
+                        ]
+                  },
+                  {
+                        "proportion": 0.25263157894736843,
+                        "terms": [
+                              "published",
+                              "dis",
+                              "sent"
+                        ]
+                  },
+                  {
+                        "proportion": 0.3526315789473684,
+                        "terms": [
+                              "published",
+                              "dis",
+                              "sent",
+                              "curiam",
+                              "relief"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4526315789473684,
+                        "terms": [
+                              "published",
+                              "dis",
+                              "sent",
+                              "curiam",
+                              "relief",
+                              "five",
+                              "dissent"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5526315789473684,
+                        "terms": [
+                              "published",
+                              "dis",
+                              "sent",
+                              "curiam",
+                              "relief",
+                              "five",
+                              "dissent",
+                              "enforcement",
+                              "cites"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6526315789473683,
+                        "terms": [
+                              "published",
+                              "dis",
+                              "sent",
+                              "curiam",
+                              "relief",
+                              "five",
+                              "dissent",
+                              "enforcement",
+                              "cites",
+                              "per",
+                              "officers"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7526315789473683,
+                        "terms": [
+                              "published",
+                              "dis",
+                              "sent",
+                              "curiam",
+                              "relief",
+                              "five",
+                              "dissent",
+                              "enforcement",
+                              "cites",
+                              "per",
+                              "officers",
+                              "those",
+                              "granted"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8526315789473683,
+                        "terms": [
+                              "published",
+                              "dis",
+                              "sent",
+                              "curiam",
+                              "relief",
+                              "five",
+                              "dissent",
+                              "enforcement",
+                              "cites",
+                              "per",
+                              "officers",
+                              "those",
+                              "granted",
+                              "law",
+                              "all"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9526315789473683,
+                        "terms": [
+                              "published",
+                              "dis",
+                              "sent",
+                              "curiam",
+                              "relief",
+                              "five",
+                              "dissent",
+                              "enforcement",
+                              "cites",
+                              "per",
+                              "officers",
+                              "those",
+                              "granted",
+                              "law",
+                              "all",
+                              "we",
+                              "which"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "published",
+                              "dis",
+                              "sent",
+                              "curiam",
+                              "relief",
+                              "five",
+                              "dissent",
+                              "enforcement",
+                              "cites",
+                              "per",
+                              "officers",
+                              "those",
+                              "granted",
+                              "law",
+                              "all",
+                              "we",
+                              "which",
+                              "one",
+                              "cases"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "published",
+                              "dis",
+                              "sent",
+                              "curiam",
+                              "relief",
+                              "five",
+                              "dissent",
+                              "enforcement",
+                              "cites",
+                              "per",
+                              "officers",
+                              "those",
+                              "granted",
+                              "law",
+                              "all",
+                              "we",
+                              "which",
+                              "one",
+                              "cases"
+                        ]
+                  }
+            ]
+      }
+}

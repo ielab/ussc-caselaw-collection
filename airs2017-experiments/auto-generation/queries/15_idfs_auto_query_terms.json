@@ -1,0 +1,181 @@
+{
+      "auto_generated_queries": {
+            "topic": 15,
+            "query": [
+                  {
+                        "proportion": 0.15263157894736842,
+                        "terms": [
+                              "glossip"
+                        ]
+                  },
+                  {
+                        "proportion": 0.25263157894736843,
+                        "terms": [
+                              "glossip",
+                              "2015",
+                              "kelly"
+                        ]
+                  },
+                  {
+                        "proportion": 0.3526315789473684,
+                        "terms": [
+                              "glossip",
+                              "2015",
+                              "kelly",
+                              "576",
+                              "persuasively"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4526315789473684,
+                        "terms": [
+                              "glossip",
+                              "2015",
+                              "kelly",
+                              "576",
+                              "persuasively",
+                              "gross",
+                              "eighth"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5526315789473684,
+                        "terms": [
+                              "glossip",
+                              "2015",
+                              "kelly",
+                              "576",
+                              "persuasively",
+                              "gross",
+                              "eighth",
+                              "erred",
+                              "analysis"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6526315789473683,
+                        "terms": [
+                              "glossip",
+                              "2015",
+                              "kelly",
+                              "576",
+                              "persuasively",
+                              "gross",
+                              "eighth",
+                              "erred",
+                              "analysis",
+                              "steps",
+                              "u"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7526315789473683,
+                        "terms": [
+                              "glossip",
+                              "2015",
+                              "kelly",
+                              "576",
+                              "persuasively",
+                              "gross",
+                              "eighth",
+                              "erred",
+                              "analysis",
+                              "steps",
+                              "u",
+                              "dissent",
+                              "judge"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8526315789473683,
+                        "terms": [
+                              "glossip",
+                              "2015",
+                              "kelly",
+                              "576",
+                              "persuasively",
+                              "gross",
+                              "eighth",
+                              "erred",
+                              "analysis",
+                              "steps",
+                              "u",
+                              "dissent",
+                              "judge",
+                              "noted",
+                              "both"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9526315789473683,
+                        "terms": [
+                              "glossip",
+                              "2015",
+                              "kelly",
+                              "576",
+                              "persuasively",
+                              "gross",
+                              "eighth",
+                              "erred",
+                              "analysis",
+                              "steps",
+                              "u",
+                              "dissent",
+                              "judge",
+                              "noted",
+                              "both",
+                              "required",
+                              "circuit"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "glossip",
+                              "2015",
+                              "kelly",
+                              "576",
+                              "persuasively",
+                              "gross",
+                              "eighth",
+                              "erred",
+                              "analysis",
+                              "steps",
+                              "u",
+                              "dissent",
+                              "judge",
+                              "noted",
+                              "both",
+                              "required",
+                              "circuit",
+                              "s",
+                              "v"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "glossip",
+                              "2015",
+                              "kelly",
+                              "576",
+                              "persuasively",
+                              "gross",
+                              "eighth",
+                              "erred",
+                              "analysis",
+                              "steps",
+                              "u",
+                              "dissent",
+                              "judge",
+                              "noted",
+                              "both",
+                              "required",
+                              "circuit",
+                              "s",
+                              "v"
+                        ]
+                  }
+            ]
+      }
+}

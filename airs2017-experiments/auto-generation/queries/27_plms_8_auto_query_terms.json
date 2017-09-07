@@ -1,0 +1,158 @@
+{
+      "auto_generated_queries": {
+            "topic": 27,
+            "query": [
+                  {
+                        "proportion": 0.16666666666666669,
+                        "terms": [
+                              "straightforward"
+                        ]
+                  },
+                  {
+                        "proportion": 0.2666666666666667,
+                        "terms": [
+                              "straightforward",
+                              "twice",
+                              "subpoena"
+                        ]
+                  },
+                  {
+                        "proportion": 0.3666666666666667,
+                        "terms": [
+                              "straightforward",
+                              "twice",
+                              "subpoena",
+                              "eeoc",
+                              "role"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4666666666666667,
+                        "terms": [
+                              "straightforward",
+                              "twice",
+                              "subpoena",
+                              "eeoc",
+                              "role",
+                              "explained"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5666666666666667,
+                        "terms": [
+                              "straightforward",
+                              "twice",
+                              "subpoena",
+                              "eeoc",
+                              "role",
+                              "explained",
+                              "enforcement"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6666666666666666,
+                        "terms": [
+                              "straightforward",
+                              "twice",
+                              "subpoena",
+                              "eeoc",
+                              "role",
+                              "explained",
+                              "enforcement",
+                              "proceeding",
+                              "district"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7666666666666666,
+                        "terms": [
+                              "straightforward",
+                              "twice",
+                              "subpoena",
+                              "eeoc",
+                              "role",
+                              "explained",
+                              "enforcement",
+                              "proceeding",
+                              "district",
+                              "see"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8666666666666666,
+                        "terms": [
+                              "straightforward",
+                              "twice",
+                              "subpoena",
+                              "eeoc",
+                              "role",
+                              "explained",
+                              "enforcement",
+                              "proceeding",
+                              "district",
+                              "see",
+                              "we",
+                              "have"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9666666666666666,
+                        "terms": [
+                              "straightforward",
+                              "twice",
+                              "subpoena",
+                              "eeoc",
+                              "role",
+                              "explained",
+                              "enforcement",
+                              "proceeding",
+                              "district",
+                              "see",
+                              "we",
+                              "have",
+                              "s"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "straightforward",
+                              "twice",
+                              "subpoena",
+                              "eeoc",
+                              "role",
+                              "explained",
+                              "enforcement",
+                              "proceeding",
+                              "district",
+                              "see",
+                              "we",
+                              "have",
+                              "s",
+                              "one",
+                              "court"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "straightforward",
+                              "twice",
+                              "subpoena",
+                              "eeoc",
+                              "role",
+                              "explained",
+                              "enforcement",
+                              "proceeding",
+                              "district",
+                              "see",
+                              "we",
+                              "have",
+                              "s",
+                              "one",
+                              "court"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,225 @@
+{
+      "auto_generated_queries": {
+            "topic": 31,
+            "query": [
+                  {
+                        "proportion": 0.13703703703703704,
+                        "terms": [
+                              "concurring"
+                        ]
+                  },
+                  {
+                        "proportion": 0.23703703703703705,
+                        "terms": [
+                              "concurring",
+                              "j",
+                              "id",
+                              "regu"
+                        ]
+                  },
+                  {
+                        "proportion": 0.337037037037037,
+                        "terms": [
+                              "concurring",
+                              "j",
+                              "id",
+                              "regu",
+                              "524",
+                              "530",
+                              "began"
+                        ]
+                  },
+                  {
+                        "proportion": 0.437037037037037,
+                        "terms": [
+                              "concurring",
+                              "j",
+                              "id",
+                              "regu",
+                              "524",
+                              "530",
+                              "began",
+                              "ment",
+                              "late",
+                              "connor"
+                        ]
+                  },
+                  {
+                        "proportion": 0.537037037037037,
+                        "terms": [
+                              "concurring",
+                              "j",
+                              "id",
+                              "regu",
+                              "524",
+                              "530",
+                              "began",
+                              "ment",
+                              "late",
+                              "connor",
+                              "plurality",
+                              "alone"
+                        ]
+                  },
+                  {
+                        "proportion": 0.637037037037037,
+                        "terms": [
+                              "concurring",
+                              "j",
+                              "id",
+                              "regu",
+                              "524",
+                              "530",
+                              "began",
+                              "ment",
+                              "late",
+                              "connor",
+                              "plurality",
+                              "alone",
+                              "premise",
+                              "thomas",
+                              "o"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7370370370370369,
+                        "terms": [
+                              "concurring",
+                              "j",
+                              "id",
+                              "regu",
+                              "524",
+                              "530",
+                              "began",
+                              "ment",
+                              "late",
+                              "connor",
+                              "plurality",
+                              "alone",
+                              "premise",
+                              "thomas",
+                              "o",
+                              "reaching",
+                              "price",
+                              "conduct"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8370370370370369,
+                        "terms": [
+                              "concurring",
+                              "j",
+                              "id",
+                              "regu",
+                              "524",
+                              "530",
+                              "began",
+                              "ment",
+                              "late",
+                              "connor",
+                              "plurality",
+                              "alone",
+                              "premise",
+                              "thomas",
+                              "o",
+                              "reaching",
+                              "price",
+                              "conduct",
+                              "controls",
+                              "conclusion"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9370370370370369,
+                        "terms": [
+                              "concurring",
+                              "j",
+                              "id",
+                              "regu",
+                              "524",
+                              "530",
+                              "began",
+                              "ment",
+                              "late",
+                              "connor",
+                              "plurality",
+                              "alone",
+                              "premise",
+                              "thomas",
+                              "o",
+                              "reaching",
+                              "price",
+                              "conduct",
+                              "controls",
+                              "conclusion",
+                              "judg",
+                              "part",
+                              "judgment"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "concurring",
+                              "j",
+                              "id",
+                              "regu",
+                              "524",
+                              "530",
+                              "began",
+                              "ment",
+                              "late",
+                              "connor",
+                              "plurality",
+                              "alone",
+                              "premise",
+                              "thomas",
+                              "o",
+                              "reaching",
+                              "price",
+                              "conduct",
+                              "controls",
+                              "conclusion",
+                              "judg",
+                              "part",
+                              "judgment",
+                              "appeals",
+                              "see",
+                              "opinion"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "concurring",
+                              "j",
+                              "id",
+                              "regu",
+                              "524",
+                              "530",
+                              "began",
+                              "ment",
+                              "late",
+                              "connor",
+                              "plurality",
+                              "alone",
+                              "premise",
+                              "thomas",
+                              "o",
+                              "reaching",
+                              "price",
+                              "conduct",
+                              "controls",
+                              "conclusion",
+                              "judg",
+                              "part",
+                              "judgment",
+                              "appeals",
+                              "see",
+                              "opinion",
+                              "court"
+                        ]
+                  }
+            ]
+      }
+}

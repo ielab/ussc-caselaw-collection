@@ -1,0 +1,208 @@
+{
+      "auto_generated_queries": {
+            "topic": 5,
+            "query": [
+                  {
+                        "proportion": 0.14166666666666666,
+                        "terms": [
+                              "first"
+                        ]
+                  },
+                  {
+                        "proportion": 0.24166666666666667,
+                        "terms": [
+                              "first",
+                              "city",
+                              "fall",
+                              "zone"
+                        ]
+                  },
+                  {
+                        "proportion": 0.3416666666666667,
+                        "terms": [
+                              "first",
+                              "city",
+                              "fall",
+                              "zone",
+                              "3602",
+                              "arguably"
+                        ]
+                  },
+                  {
+                        "proportion": 0.44166666666666665,
+                        "terms": [
+                              "first",
+                              "city",
+                              "fall",
+                              "zone",
+                              "3602",
+                              "arguably",
+                              "harms",
+                              "person",
+                              "sue"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5416666666666666,
+                        "terms": [
+                              "first",
+                              "city",
+                              "fall",
+                              "zone",
+                              "3602",
+                              "arguably",
+                              "harms",
+                              "person",
+                              "sue",
+                              "aggrieved",
+                              "seeks"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6416666666666666,
+                        "terms": [
+                              "first",
+                              "city",
+                              "fall",
+                              "zone",
+                              "3602",
+                              "arguably",
+                              "harms",
+                              "person",
+                              "sue",
+                              "aggrieved",
+                              "seeks",
+                              "protect",
+                              "interests"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7416666666666666,
+                        "terms": [
+                              "first",
+                              "city",
+                              "fall",
+                              "zone",
+                              "3602",
+                              "arguably",
+                              "harms",
+                              "person",
+                              "sue",
+                              "aggrieved",
+                              "seeks",
+                              "protect",
+                              "interests",
+                              "contend",
+                              "entitled",
+                              "hence"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8416666666666666,
+                        "terms": [
+                              "first",
+                              "city",
+                              "fall",
+                              "zone",
+                              "3602",
+                              "arguably",
+                              "harms",
+                              "person",
+                              "sue",
+                              "aggrieved",
+                              "seeks",
+                              "protect",
+                              "interests",
+                              "contend",
+                              "entitled",
+                              "hence",
+                              "claimed",
+                              "statute"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9416666666666665,
+                        "terms": [
+                              "first",
+                              "city",
+                              "fall",
+                              "zone",
+                              "3602",
+                              "arguably",
+                              "harms",
+                              "person",
+                              "sue",
+                              "aggrieved",
+                              "seeks",
+                              "protect",
+                              "interests",
+                              "contend",
+                              "entitled",
+                              "hence",
+                              "claimed",
+                              "statute",
+                              "act",
+                              "do",
+                              "within"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "first",
+                              "city",
+                              "fall",
+                              "zone",
+                              "3602",
+                              "arguably",
+                              "harms",
+                              "person",
+                              "sue",
+                              "aggrieved",
+                              "seeks",
+                              "protect",
+                              "interests",
+                              "contend",
+                              "entitled",
+                              "hence",
+                              "claimed",
+                              "statute",
+                              "act",
+                              "do",
+                              "within",
+                              "s",
+                              "under"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "first",
+                              "city",
+                              "fall",
+                              "zone",
+                              "3602",
+                              "arguably",
+                              "harms",
+                              "person",
+                              "sue",
+                              "aggrieved",
+                              "seeks",
+                              "protect",
+                              "interests",
+                              "contend",
+                              "entitled",
+                              "hence",
+                              "claimed",
+                              "statute",
+                              "act",
+                              "do",
+                              "within",
+                              "s",
+                              "under",
+                              "i"
+                        ]
+                  }
+            ]
+      }
+}

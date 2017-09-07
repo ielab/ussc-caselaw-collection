@@ -1,0 +1,214 @@
+{
+      "auto_generated_queries": {
+            "topic": 54,
+            "query": [
+                  {
+                        "proportion": 0.14,
+                        "terms": [
+                              "change"
+                        ]
+                  },
+                  {
+                        "proportion": 0.24000000000000002,
+                        "terms": [
+                              "change",
+                              "2006",
+                              "addition",
+                              "identified"
+                        ]
+                  },
+                  {
+                        "proportion": 0.34,
+                        "terms": [
+                              "change",
+                              "2006",
+                              "addition",
+                              "identified",
+                              "buck",
+                              "cumstances",
+                              "extraordinary"
+                        ]
+                  },
+                  {
+                        "proportion": 0.44000000000000006,
+                        "terms": [
+                              "change",
+                              "2006",
+                              "addition",
+                              "identified",
+                              "buck",
+                              "cumstances",
+                              "extraordinary",
+                              "reopening",
+                              "factors"
+                        ]
+                  },
+                  {
+                        "proportion": 0.54,
+                        "terms": [
+                              "change",
+                              "2006",
+                              "addition",
+                              "identified",
+                              "buck",
+                              "cumstances",
+                              "extraordinary",
+                              "reopening",
+                              "factors",
+                              "ment",
+                              "justify",
+                              "motion"
+                        ]
+                  },
+                  {
+                        "proportion": 0.64,
+                        "terms": [
+                              "change",
+                              "2006",
+                              "addition",
+                              "identified",
+                              "buck",
+                              "cumstances",
+                              "extraordinary",
+                              "reopening",
+                              "factors",
+                              "ment",
+                              "justify",
+                              "motion",
+                              "see",
+                              "cir"
+                        ]
+                  },
+                  {
+                        "proportion": 0.74,
+                        "terms": [
+                              "change",
+                              "2006",
+                              "addition",
+                              "identified",
+                              "buck",
+                              "cumstances",
+                              "extraordinary",
+                              "reopening",
+                              "factors",
+                              "ment",
+                              "justify",
+                              "motion",
+                              "see",
+                              "cir",
+                              "judg",
+                              "required"
+                        ]
+                  },
+                  {
+                        "proportion": 0.84,
+                        "terms": [
+                              "change",
+                              "2006",
+                              "addition",
+                              "identified",
+                              "buck",
+                              "cumstances",
+                              "extraordinary",
+                              "reopening",
+                              "factors",
+                              "ment",
+                              "justify",
+                              "motion",
+                              "see",
+                              "cir",
+                              "judg",
+                              "required",
+                              "ten",
+                              "rule",
+                              "constituted"
+                        ]
+                  },
+                  {
+                        "proportion": 0.94,
+                        "terms": [
+                              "change",
+                              "2006",
+                              "addition",
+                              "identified",
+                              "buck",
+                              "cumstances",
+                              "extraordinary",
+                              "reopening",
+                              "factors",
+                              "ment",
+                              "justify",
+                              "motion",
+                              "see",
+                              "cir",
+                              "judg",
+                              "required",
+                              "ten",
+                              "rule",
+                              "constituted",
+                              "law",
+                              "said"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "change",
+                              "2006",
+                              "addition",
+                              "identified",
+                              "buck",
+                              "cumstances",
+                              "extraordinary",
+                              "reopening",
+                              "factors",
+                              "ment",
+                              "justify",
+                              "motion",
+                              "see",
+                              "cir",
+                              "judg",
+                              "required",
+                              "ten",
+                              "rule",
+                              "constituted",
+                              "law",
+                              "said",
+                              "s",
+                              "other",
+                              "he"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "change",
+                              "2006",
+                              "addition",
+                              "identified",
+                              "buck",
+                              "cumstances",
+                              "extraordinary",
+                              "reopening",
+                              "factors",
+                              "ment",
+                              "justify",
+                              "motion",
+                              "see",
+                              "cir",
+                              "judg",
+                              "required",
+                              "ten",
+                              "rule",
+                              "constituted",
+                              "law",
+                              "said",
+                              "s",
+                              "other",
+                              "he",
+                              "under"
+                        ]
+                  }
+            ]
+      }
+}

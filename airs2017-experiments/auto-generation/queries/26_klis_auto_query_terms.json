@@ -1,0 +1,225 @@
+{
+      "auto_generated_queries": {
+            "topic": 26,
+            "query": [
+                  {
+                        "proportion": 0.13703703703703704,
+                        "terms": [
+                              "needed"
+                        ]
+                  },
+                  {
+                        "proportion": 0.23703703703703705,
+                        "terms": [
+                              "needed",
+                              "nature",
+                              "kind",
+                              "tory"
+                        ]
+                  },
+                  {
+                        "proportion": 0.337037037037037,
+                        "terms": [
+                              "needed",
+                              "nature",
+                              "kind",
+                              "tory",
+                              "compensa",
+                              "specifying",
+                              "compensatory"
+                        ]
+                  },
+                  {
+                        "proportion": 0.437037037037037,
+                        "terms": [
+                              "needed",
+                              "nature",
+                              "kind",
+                              "tory",
+                              "compensa",
+                              "specifying",
+                              "compensatory",
+                              "punitive",
+                              "distinguishing",
+                              "sanction"
+                        ]
+                  },
+                  {
+                        "proportion": 0.537037037037037,
+                        "terms": [
+                              "needed",
+                              "nature",
+                              "kind",
+                              "tory",
+                              "compensa",
+                              "specifying",
+                              "compensatory",
+                              "punitive",
+                              "distinguishing",
+                              "sanction",
+                              "sanctions",
+                              "clear"
+                        ]
+                  },
+                  {
+                        "proportion": 0.637037037037037,
+                        "terms": [
+                              "needed",
+                              "nature",
+                              "kind",
+                              "tory",
+                              "compensa",
+                              "specifying",
+                              "compensatory",
+                              "punitive",
+                              "distinguishing",
+                              "sanction",
+                              "sanctions",
+                              "clear",
+                              "civil",
+                              "pursuant",
+                              "procedures"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7370370370370369,
+                        "terms": [
+                              "needed",
+                              "nature",
+                              "kind",
+                              "tory",
+                              "compensa",
+                              "specifying",
+                              "compensatory",
+                              "punitive",
+                              "distinguishing",
+                              "sanction",
+                              "sanctions",
+                              "clear",
+                              "civil",
+                              "pursuant",
+                              "procedures",
+                              "see",
+                              "made",
+                              "impose"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8370370370370369,
+                        "terms": [
+                              "needed",
+                              "nature",
+                              "kind",
+                              "tory",
+                              "compensa",
+                              "specifying",
+                              "compensatory",
+                              "punitive",
+                              "distinguishing",
+                              "sanction",
+                              "sanctions",
+                              "clear",
+                              "civil",
+                              "pursuant",
+                              "procedures",
+                              "see",
+                              "made",
+                              "impose",
+                              "imposed",
+                              "rather"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9370370370370369,
+                        "terms": [
+                              "needed",
+                              "nature",
+                              "kind",
+                              "tory",
+                              "compensa",
+                              "specifying",
+                              "compensatory",
+                              "punitive",
+                              "distinguishing",
+                              "sanction",
+                              "sanctions",
+                              "clear",
+                              "civil",
+                              "pursuant",
+                              "procedures",
+                              "see",
+                              "made",
+                              "impose",
+                              "imposed",
+                              "rather",
+                              "each",
+                              "has",
+                              "must"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "needed",
+                              "nature",
+                              "kind",
+                              "tory",
+                              "compensa",
+                              "specifying",
+                              "compensatory",
+                              "punitive",
+                              "distinguishing",
+                              "sanction",
+                              "sanctions",
+                              "clear",
+                              "civil",
+                              "pursuant",
+                              "procedures",
+                              "see",
+                              "made",
+                              "impose",
+                              "imposed",
+                              "rather",
+                              "each",
+                              "has",
+                              "must",
+                              "than",
+                              "when",
+                              "court"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "needed",
+                              "nature",
+                              "kind",
+                              "tory",
+                              "compensa",
+                              "specifying",
+                              "compensatory",
+                              "punitive",
+                              "distinguishing",
+                              "sanction",
+                              "sanctions",
+                              "clear",
+                              "civil",
+                              "pursuant",
+                              "procedures",
+                              "see",
+                              "made",
+                              "impose",
+                              "imposed",
+                              "rather",
+                              "each",
+                              "has",
+                              "must",
+                              "than",
+                              "when",
+                              "court",
+                              "from"
+                        ]
+                  }
+            ]
+      }
+}

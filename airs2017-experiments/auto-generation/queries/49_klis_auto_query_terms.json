@@ -1,0 +1,153 @@
+{
+      "auto_generated_queries": {
+            "topic": 49,
+            "query": [
+                  {
+                        "proportion": 0.17142857142857143,
+                        "terms": [
+                              "viewed"
+                        ]
+                  },
+                  {
+                        "proportion": 0.27142857142857146,
+                        "terms": [
+                              "viewed",
+                              "light",
+                              "mary"
+                        ]
+                  },
+                  {
+                        "proportion": 0.37142857142857144,
+                        "terms": [
+                              "viewed",
+                              "light",
+                              "mary",
+                              "paulys"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4714285714285714,
+                        "terms": [
+                              "viewed",
+                              "light",
+                              "mary",
+                              "paulys",
+                              "officers",
+                              "favorable"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5714285714285714,
+                        "terms": [
+                              "viewed",
+                              "light",
+                              "mary",
+                              "paulys",
+                              "officers",
+                              "favorable",
+                              "sum"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6714285714285714,
+                        "terms": [
+                              "viewed",
+                              "light",
+                              "mary",
+                              "paulys",
+                              "officers",
+                              "favorable",
+                              "sum",
+                              "motions"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7714285714285714,
+                        "terms": [
+                              "viewed",
+                              "light",
+                              "mary",
+                              "paulys",
+                              "officers",
+                              "favorable",
+                              "sum",
+                              "motions",
+                              "denied",
+                              "district"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8714285714285713,
+                        "terms": [
+                              "viewed",
+                              "light",
+                              "mary",
+                              "paulys",
+                              "officers",
+                              "favorable",
+                              "sum",
+                              "motions",
+                              "denied",
+                              "district",
+                              "judgment"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9714285714285713,
+                        "terms": [
+                              "viewed",
+                              "light",
+                              "mary",
+                              "paulys",
+                              "officers",
+                              "favorable",
+                              "sum",
+                              "motions",
+                              "denied",
+                              "district",
+                              "judgment",
+                              "most",
+                              "facts"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "viewed",
+                              "light",
+                              "mary",
+                              "paulys",
+                              "officers",
+                              "favorable",
+                              "sum",
+                              "motions",
+                              "denied",
+                              "district",
+                              "judgment",
+                              "most",
+                              "facts",
+                              "court"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "viewed",
+                              "light",
+                              "mary",
+                              "paulys",
+                              "officers",
+                              "favorable",
+                              "sum",
+                              "motions",
+                              "denied",
+                              "district",
+                              "judgment",
+                              "most",
+                              "facts",
+                              "court"
+                        ]
+                  }
+            ]
+      }
+}

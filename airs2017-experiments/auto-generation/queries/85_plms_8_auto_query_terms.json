@@ -1,0 +1,208 @@
+{
+      "auto_generated_queries": {
+            "topic": 85,
+            "query": [
+                  {
+                        "proportion": 0.14166666666666666,
+                        "terms": [
+                              "traits"
+                        ]
+                  },
+                  {
+                        "proportion": 0.24166666666666667,
+                        "terms": [
+                              "traits",
+                              "susceptibility",
+                              "maturity",
+                              "negative"
+                        ]
+                  },
+                  {
+                        "proportion": 0.3416666666666667,
+                        "terms": [
+                              "traits",
+                              "susceptibility",
+                              "maturity",
+                              "negative",
+                              "pressure",
+                              "adults"
+                        ]
+                  },
+                  {
+                        "proportion": 0.44166666666666665,
+                        "terms": [
+                              "traits",
+                              "susceptibility",
+                              "maturity",
+                              "negative",
+                              "pressure",
+                              "adults",
+                              "influences",
+                              "outside",
+                              "lack"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5416666666666666,
+                        "terms": [
+                              "traits",
+                              "susceptibility",
+                              "maturity",
+                              "negative",
+                              "pressure",
+                              "adults",
+                              "influences",
+                              "outside",
+                              "lack",
+                              "children",
+                              "developed"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6416666666666666,
+                        "terms": [
+                              "traits",
+                              "susceptibility",
+                              "maturity",
+                              "negative",
+                              "pressure",
+                              "adults",
+                              "influences",
+                              "outside",
+                              "lack",
+                              "children",
+                              "developed",
+                              "constitutionally",
+                              "sense"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7416666666666666,
+                        "terms": [
+                              "traits",
+                              "susceptibility",
+                              "maturity",
+                              "negative",
+                              "pressure",
+                              "adults",
+                              "influences",
+                              "outside",
+                              "lack",
+                              "children",
+                              "developed",
+                              "constitutionally",
+                              "sense",
+                              "character",
+                              "light",
+                              "responsibility"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8416666666666666,
+                        "terms": [
+                              "traits",
+                              "susceptibility",
+                              "maturity",
+                              "negative",
+                              "pressure",
+                              "adults",
+                              "influences",
+                              "outside",
+                              "lack",
+                              "children",
+                              "developed",
+                              "constitutionally",
+                              "sense",
+                              "character",
+                              "light",
+                              "responsibility",
+                              "less",
+                              "formed"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9416666666666665,
+                        "terms": [
+                              "traits",
+                              "susceptibility",
+                              "maturity",
+                              "negative",
+                              "pressure",
+                              "adults",
+                              "influences",
+                              "outside",
+                              "lack",
+                              "children",
+                              "developed",
+                              "constitutionally",
+                              "sense",
+                              "character",
+                              "light",
+                              "responsibility",
+                              "less",
+                              "formed",
+                              "sentencing",
+                              "well",
+                              "different"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "traits",
+                              "susceptibility",
+                              "maturity",
+                              "negative",
+                              "pressure",
+                              "adults",
+                              "influences",
+                              "outside",
+                              "lack",
+                              "children",
+                              "developed",
+                              "constitutionally",
+                              "sense",
+                              "character",
+                              "light",
+                              "responsibility",
+                              "less",
+                              "formed",
+                              "sentencing",
+                              "well",
+                              "different",
+                              "purposes",
+                              "under"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "traits",
+                              "susceptibility",
+                              "maturity",
+                              "negative",
+                              "pressure",
+                              "adults",
+                              "influences",
+                              "outside",
+                              "lack",
+                              "children",
+                              "developed",
+                              "constitutionally",
+                              "sense",
+                              "character",
+                              "light",
+                              "responsibility",
+                              "less",
+                              "formed",
+                              "sentencing",
+                              "well",
+                              "different",
+                              "purposes",
+                              "under",
+                              "from"
+                        ]
+                  }
+            ]
+      }
+}

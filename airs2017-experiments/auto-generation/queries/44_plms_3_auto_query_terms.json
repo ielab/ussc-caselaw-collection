@@ -1,0 +1,164 @@
+{
+      "auto_generated_queries": {
+            "topic": 44,
+            "query": [
+                  {
+                        "proportion": 0.1625,
+                        "terms": [
+                              "expan"
+                        ]
+                  },
+                  {
+                        "proportion": 0.2625,
+                        "terms": [
+                              "expan",
+                              "fvra",
+                              "sive"
+                        ]
+                  },
+                  {
+                        "proportion": 0.36250000000000004,
+                        "terms": [
+                              "expan",
+                              "fvra",
+                              "sive",
+                              "encompass",
+                              "anyone"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4625,
+                        "terms": [
+                              "expan",
+                              "fvra",
+                              "sive",
+                              "encompass",
+                              "anyone",
+                              "performs"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5625,
+                        "terms": [
+                              "expan",
+                              "fvra",
+                              "sive",
+                              "encompass",
+                              "anyone",
+                              "performs",
+                              "word",
+                              "naturally"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6625,
+                        "terms": [
+                              "expan",
+                              "fvra",
+                              "sive",
+                              "encompass",
+                              "anyone",
+                              "performs",
+                              "word",
+                              "naturally",
+                              "duties"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7625,
+                        "terms": [
+                              "expan",
+                              "fvra",
+                              "sive",
+                              "encompass",
+                              "anyone",
+                              "performs",
+                              "word",
+                              "naturally",
+                              "duties",
+                              "meaning",
+                              "can"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8624999999999999,
+                        "terms": [
+                              "expan",
+                              "fvra",
+                              "sive",
+                              "encompass",
+                              "anyone",
+                              "performs",
+                              "word",
+                              "naturally",
+                              "duties",
+                              "meaning",
+                              "can",
+                              "who",
+                              "see"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9624999999999999,
+                        "terms": [
+                              "expan",
+                              "fvra",
+                              "sive",
+                              "encompass",
+                              "anyone",
+                              "performs",
+                              "word",
+                              "naturally",
+                              "duties",
+                              "meaning",
+                              "can",
+                              "who",
+                              "see",
+                              "has"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "expan",
+                              "fvra",
+                              "sive",
+                              "encompass",
+                              "anyone",
+                              "performs",
+                              "word",
+                              "naturally",
+                              "duties",
+                              "meaning",
+                              "can",
+                              "who",
+                              "see",
+                              "has",
+                              "under",
+                              "acting"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "expan",
+                              "fvra",
+                              "sive",
+                              "encompass",
+                              "anyone",
+                              "performs",
+                              "word",
+                              "naturally",
+                              "duties",
+                              "meaning",
+                              "can",
+                              "who",
+                              "see",
+                              "has",
+                              "under",
+                              "acting"
+                        ]
+                  }
+            ]
+      }
+}

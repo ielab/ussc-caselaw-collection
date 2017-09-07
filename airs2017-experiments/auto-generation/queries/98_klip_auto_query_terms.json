@@ -1,0 +1,214 @@
+{
+      "auto_generated_queries": {
+            "topic": 98,
+            "query": [
+                  {
+                        "proportion": 0.14,
+                        "terms": [
+                              "day"
+                        ]
+                  },
+                  {
+                        "proportion": 0.24000000000000002,
+                        "terms": [
+                              "day",
+                              "take",
+                              "first",
+                              "account"
+                        ]
+                  },
+                  {
+                        "proportion": 0.34,
+                        "terms": [
+                              "day",
+                              "take",
+                              "first",
+                              "account",
+                              "discussed",
+                              "words",
+                              "written"
+                        ]
+                  },
+                  {
+                        "proportion": 0.44000000000000006,
+                        "terms": [
+                              "day",
+                              "take",
+                              "first",
+                              "account",
+                              "discussed",
+                              "words",
+                              "written",
+                              "structural",
+                              "win"
+                        ]
+                  },
+                  {
+                        "proportion": 0.54,
+                        "terms": [
+                              "day",
+                              "take",
+                              "first",
+                              "account",
+                              "discussed",
+                              "words",
+                              "written",
+                              "structural",
+                              "win",
+                              "context",
+                              "compelling",
+                              "treaty"
+                        ]
+                  },
+                  {
+                        "proportion": 0.64,
+                        "terms": [
+                              "day",
+                              "take",
+                              "first",
+                              "account",
+                              "discussed",
+                              "words",
+                              "written",
+                              "structural",
+                              "win",
+                              "context",
+                              "compelling",
+                              "treaty",
+                              "cf",
+                              "interpretation"
+                        ]
+                  },
+                  {
+                        "proportion": 0.74,
+                        "terms": [
+                              "day",
+                              "take",
+                              "first",
+                              "account",
+                              "discussed",
+                              "words",
+                              "written",
+                              "structural",
+                              "win",
+                              "context",
+                              "compelling",
+                              "treaty",
+                              "cf",
+                              "interpretation",
+                              "several",
+                              "argument"
+                        ]
+                  },
+                  {
+                        "proportion": 0.84,
+                        "terms": [
+                              "day",
+                              "take",
+                              "first",
+                              "account",
+                              "discussed",
+                              "words",
+                              "written",
+                              "structural",
+                              "win",
+                              "context",
+                              "compelling",
+                              "treaty",
+                              "cf",
+                              "interpretation",
+                              "several",
+                              "argument",
+                              "see",
+                              "contend",
+                              "used"
+                        ]
+                  },
+                  {
+                        "proportion": 0.94,
+                        "terms": [
+                              "day",
+                              "take",
+                              "first",
+                              "account",
+                              "discussed",
+                              "words",
+                              "written",
+                              "structural",
+                              "win",
+                              "context",
+                              "compelling",
+                              "treaty",
+                              "cf",
+                              "interpretation",
+                              "several",
+                              "argument",
+                              "see",
+                              "contend",
+                              "used",
+                              "considerations",
+                              "reasons"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "day",
+                              "take",
+                              "first",
+                              "account",
+                              "discussed",
+                              "words",
+                              "written",
+                              "structural",
+                              "win",
+                              "context",
+                              "compelling",
+                              "treaty",
+                              "cf",
+                              "interpretation",
+                              "several",
+                              "argument",
+                              "see",
+                              "contend",
+                              "used",
+                              "considerations",
+                              "reasons",
+                              "above",
+                              "does",
+                              "must"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "day",
+                              "take",
+                              "first",
+                              "account",
+                              "discussed",
+                              "words",
+                              "written",
+                              "structural",
+                              "win",
+                              "context",
+                              "compelling",
+                              "treaty",
+                              "cf",
+                              "interpretation",
+                              "several",
+                              "argument",
+                              "see",
+                              "contend",
+                              "used",
+                              "considerations",
+                              "reasons",
+                              "above",
+                              "does",
+                              "must",
+                              "which"
+                        ]
+                  }
+            ]
+      }
+}

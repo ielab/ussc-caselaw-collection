@@ -1,0 +1,158 @@
+{
+      "auto_generated_queries": {
+            "topic": 50,
+            "query": [
+                  {
+                        "proportion": 0.16666666666666669,
+                        "terms": [
+                              "because"
+                        ]
+                  },
+                  {
+                        "proportion": 0.2666666666666667,
+                        "terms": [
+                              "because",
+                              "case",
+                              "concerns"
+                        ]
+                  },
+                  {
+                        "proportion": 0.3666666666666667,
+                        "terms": [
+                              "because",
+                              "case",
+                              "concerns",
+                              "considers",
+                              "court"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4666666666666667,
+                        "terms": [
+                              "because",
+                              "case",
+                              "concerns",
+                              "considers",
+                              "court",
+                              "defendant"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5666666666666667,
+                        "terms": [
+                              "because",
+                              "case",
+                              "concerns",
+                              "considers",
+                              "court",
+                              "defendant",
+                              "defense"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6666666666666666,
+                        "terms": [
+                              "because",
+                              "case",
+                              "concerns",
+                              "considers",
+                              "court",
+                              "defendant",
+                              "defense",
+                              "facts",
+                              "however"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7666666666666666,
+                        "terms": [
+                              "because",
+                              "case",
+                              "concerns",
+                              "considers",
+                              "court",
+                              "defendant",
+                              "defense",
+                              "facts",
+                              "however",
+                              "immunity"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8666666666666666,
+                        "terms": [
+                              "because",
+                              "case",
+                              "concerns",
+                              "considers",
+                              "court",
+                              "defendant",
+                              "defense",
+                              "facts",
+                              "however",
+                              "immunity",
+                              "knowable",
+                              "officers"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9666666666666666,
+                        "terms": [
+                              "because",
+                              "case",
+                              "concerns",
+                              "considers",
+                              "court",
+                              "defendant",
+                              "defense",
+                              "facts",
+                              "however",
+                              "immunity",
+                              "knowable",
+                              "officers",
+                              "only"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "because",
+                              "case",
+                              "concerns",
+                              "considers",
+                              "court",
+                              "defendant",
+                              "defense",
+                              "facts",
+                              "however",
+                              "immunity",
+                              "knowable",
+                              "officers",
+                              "only",
+                              "qualified",
+                              "were"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "because",
+                              "case",
+                              "concerns",
+                              "considers",
+                              "court",
+                              "defendant",
+                              "defense",
+                              "facts",
+                              "however",
+                              "immunity",
+                              "knowable",
+                              "officers",
+                              "only",
+                              "qualified",
+                              "were"
+                        ]
+                  }
+            ]
+      }
+}

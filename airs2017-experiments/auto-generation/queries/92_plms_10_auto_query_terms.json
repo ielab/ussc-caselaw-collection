@@ -1,0 +1,112 @@
+{
+      "auto_generated_queries": {
+            "topic": 92,
+            "query": [
+                  {
+                        "proportion": 0.125,
+                        "terms": [
+                              "amendment"
+                        ]
+                  },
+                  {
+                        "proportion": 0.225,
+                        "terms": [
+                              "amendment"
+                        ]
+                  },
+                  {
+                        "proportion": 0.325,
+                        "terms": [
+                              "amendment",
+                              "apply"
+                        ]
+                  },
+                  {
+                        "proportion": 0.42500000000000004,
+                        "terms": [
+                              "amendment",
+                              "apply",
+                              "court"
+                        ]
+                  },
+                  {
+                        "proportion": 0.525,
+                        "terms": [
+                              "amendment",
+                              "apply",
+                              "court",
+                              "does"
+                        ]
+                  },
+                  {
+                        "proportion": 0.625,
+                        "terms": [
+                              "amendment",
+                              "apply",
+                              "court",
+                              "does",
+                              "proceedings"
+                        ]
+                  },
+                  {
+                        "proportion": 0.725,
+                        "terms": [
+                              "amendment",
+                              "apply",
+                              "court",
+                              "does",
+                              "proceedings"
+                        ]
+                  },
+                  {
+                        "proportion": 0.825,
+                        "terms": [
+                              "amendment",
+                              "apply",
+                              "court",
+                              "does",
+                              "proceedings",
+                              "see"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9249999999999999,
+                        "terms": [
+                              "amendment",
+                              "apply",
+                              "court",
+                              "does",
+                              "proceedings",
+                              "see",
+                              "sixth"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "amendment",
+                              "apply",
+                              "court",
+                              "does",
+                              "proceedings",
+                              "see",
+                              "sixth",
+                              "tribal"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "amendment",
+                              "apply",
+                              "court",
+                              "does",
+                              "proceedings",
+                              "see",
+                              "sixth",
+                              "tribal"
+                        ]
+                  }
+            ]
+      }
+}

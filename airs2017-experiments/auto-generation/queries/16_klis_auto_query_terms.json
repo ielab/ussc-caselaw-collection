@@ -1,0 +1,214 @@
+{
+      "auto_generated_queries": {
+            "topic": 16,
+            "query": [
+                  {
+                        "proportion": 0.14,
+                        "terms": [
+                              "offer"
+                        ]
+                  },
+                  {
+                        "proportion": 0.24000000000000002,
+                        "terms": [
+                              "offer",
+                              "continue",
+                              "methods",
+                              "dis"
+                        ]
+                  },
+                  {
+                        "proportion": 0.34,
+                        "terms": [
+                              "offer",
+                              "continue",
+                              "methods",
+                              "dis",
+                              "alternative",
+                              "wisdom",
+                              "harbor"
+                        ]
+                  },
+                  {
+                        "proportion": 0.44000000000000006,
+                        "terms": [
+                              "offer",
+                              "continue",
+                              "methods",
+                              "dis",
+                              "alternative",
+                              "wisdom",
+                              "harbor",
+                              "perverse",
+                              "significant"
+                        ]
+                  },
+                  {
+                        "proportion": 0.54,
+                        "terms": [
+                              "offer",
+                              "continue",
+                              "methods",
+                              "dis",
+                              "alternative",
+                              "wisdom",
+                              "harbor",
+                              "perverse",
+                              "significant",
+                              "sotomayor",
+                              "inmates",
+                              "denial"
+                        ]
+                  },
+                  {
+                        "proportion": 0.64,
+                        "terms": [
+                              "offer",
+                              "continue",
+                              "methods",
+                              "dis",
+                              "alternative",
+                              "wisdom",
+                              "harbor",
+                              "perverse",
+                              "significant",
+                              "sotomayor",
+                              "inmates",
+                              "denial",
+                              "executions",
+                              "senting"
+                        ]
+                  },
+                  {
+                        "proportion": 0.74,
+                        "terms": [
+                              "offer",
+                              "continue",
+                              "methods",
+                              "dis",
+                              "alternative",
+                              "wisdom",
+                              "harbor",
+                              "perverse",
+                              "significant",
+                              "sotomayor",
+                              "inmates",
+                              "denial",
+                              "executions",
+                              "senting",
+                              "doubts",
+                              "see"
+                        ]
+                  },
+                  {
+                        "proportion": 0.84,
+                        "terms": [
+                              "offer",
+                              "continue",
+                              "methods",
+                              "dis",
+                              "alternative",
+                              "wisdom",
+                              "harbor",
+                              "perverse",
+                              "significant",
+                              "sotomayor",
+                              "inmates",
+                              "denial",
+                              "executions",
+                              "senting",
+                              "doubts",
+                              "see",
+                              "requirement",
+                              "imposing",
+                              "certiorari"
+                        ]
+                  },
+                  {
+                        "proportion": 0.94,
+                        "terms": [
+                              "offer",
+                              "continue",
+                              "methods",
+                              "dis",
+                              "alternative",
+                              "wisdom",
+                              "harbor",
+                              "perverse",
+                              "significant",
+                              "sotomayor",
+                              "inmates",
+                              "denial",
+                              "executions",
+                              "senting",
+                              "doubts",
+                              "see",
+                              "requirement",
+                              "imposing",
+                              "certiorari",
+                              "about",
+                              "own"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "offer",
+                              "continue",
+                              "methods",
+                              "dis",
+                              "alternative",
+                              "wisdom",
+                              "harbor",
+                              "perverse",
+                              "significant",
+                              "sotomayor",
+                              "inmates",
+                              "denial",
+                              "executions",
+                              "senting",
+                              "doubts",
+                              "see",
+                              "requirement",
+                              "imposing",
+                              "certiorari",
+                              "about",
+                              "own",
+                              "j",
+                              "also",
+                              "from"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "offer",
+                              "continue",
+                              "methods",
+                              "dis",
+                              "alternative",
+                              "wisdom",
+                              "harbor",
+                              "perverse",
+                              "significant",
+                              "sotomayor",
+                              "inmates",
+                              "denial",
+                              "executions",
+                              "senting",
+                              "doubts",
+                              "see",
+                              "requirement",
+                              "imposing",
+                              "certiorari",
+                              "about",
+                              "own",
+                              "j",
+                              "also",
+                              "from",
+                              "i"
+                        ]
+                  }
+            ]
+      }
+}

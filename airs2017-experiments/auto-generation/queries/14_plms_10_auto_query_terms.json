@@ -1,0 +1,208 @@
+{
+      "auto_generated_queries": {
+            "topic": 14,
+            "query": [
+                  {
+                        "proportion": 0.14166666666666666,
+                        "terms": [
+                              "years"
+                        ]
+                  },
+                  {
+                        "proportion": 0.24166666666666667,
+                        "terms": [
+                              "years",
+                              "10",
+                              "30",
+                              "after"
+                        ]
+                  },
+                  {
+                        "proportion": 0.3416666666666667,
+                        "terms": [
+                              "years",
+                              "10",
+                              "30",
+                              "after",
+                              "ago",
+                              "asked"
+                        ]
+                  },
+                  {
+                        "proportion": 0.44166666666666665,
+                        "terms": [
+                              "years",
+                              "10",
+                              "30",
+                              "after",
+                              "ago",
+                              "asked",
+                              "certiorari",
+                              "court",
+                              "death"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5416666666666666,
+                        "terms": [
+                              "years",
+                              "10",
+                              "30",
+                              "after",
+                              "ago",
+                              "asked",
+                              "certiorari",
+                              "court",
+                              "death",
+                              "do",
+                              "from"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6416666666666666,
+                        "terms": [
+                              "years",
+                              "10",
+                              "30",
+                              "after",
+                              "ago",
+                              "asked",
+                              "certiorari",
+                              "court",
+                              "death",
+                              "do",
+                              "from",
+                              "granting",
+                              "have"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7416666666666666,
+                        "terms": [
+                              "years",
+                              "10",
+                              "30",
+                              "after",
+                              "ago",
+                              "asked",
+                              "certiorari",
+                              "court",
+                              "death",
+                              "do",
+                              "from",
+                              "granting",
+                              "have",
+                              "prevented",
+                              "problems",
+                              "row"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8416666666666666,
+                        "terms": [
+                              "years",
+                              "10",
+                              "30",
+                              "after",
+                              "ago",
+                              "asked",
+                              "certiorari",
+                              "court",
+                              "death",
+                              "do",
+                              "from",
+                              "granting",
+                              "have",
+                              "prevented",
+                              "problems",
+                              "row",
+                              "see",
+                              "smith"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9416666666666665,
+                        "terms": [
+                              "years",
+                              "10",
+                              "30",
+                              "after",
+                              "ago",
+                              "asked",
+                              "certiorari",
+                              "court",
+                              "death",
+                              "do",
+                              "from",
+                              "granting",
+                              "have",
+                              "prevented",
+                              "problems",
+                              "row",
+                              "see",
+                              "smith",
+                              "so",
+                              "spending",
+                              "those"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "years",
+                              "10",
+                              "30",
+                              "after",
+                              "ago",
+                              "asked",
+                              "certiorari",
+                              "court",
+                              "death",
+                              "do",
+                              "from",
+                              "granting",
+                              "have",
+                              "prevented",
+                              "problems",
+                              "row",
+                              "see",
+                              "smith",
+                              "so",
+                              "spending",
+                              "those",
+                              "us",
+                              "when"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "years",
+                              "10",
+                              "30",
+                              "after",
+                              "ago",
+                              "asked",
+                              "certiorari",
+                              "court",
+                              "death",
+                              "do",
+                              "from",
+                              "granting",
+                              "have",
+                              "prevented",
+                              "problems",
+                              "row",
+                              "see",
+                              "smith",
+                              "so",
+                              "spending",
+                              "those",
+                              "us",
+                              "when",
+                              "would"
+                        ]
+                  }
+            ]
+      }
+}

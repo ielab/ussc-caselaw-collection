@@ -1,0 +1,175 @@
+{
+      "auto_generated_queries": {
+            "topic": 52,
+            "query": [
+                  {
+                        "proportion": 0.15555555555555556,
+                        "terms": [
+                              "function"
+                        ]
+                  },
+                  {
+                        "proportion": 0.25555555555555554,
+                        "terms": [
+                              "function",
+                              "serves",
+                              "bring"
+                        ]
+                  },
+                  {
+                        "proportion": 0.3555555555555555,
+                        "terms": [
+                              "function",
+                              "serves",
+                              "bring",
+                              "language",
+                              "fying"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4555555555555555,
+                        "terms": [
+                              "function",
+                              "serves",
+                              "bring",
+                              "language",
+                              "fying",
+                              "mae",
+                              "fannie"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5555555555555555,
+                        "terms": [
+                              "function",
+                              "serves",
+                              "bring",
+                              "language",
+                              "fying",
+                              "mae",
+                              "fannie",
+                              "clari",
+                              "uncontroversial"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6555555555555554,
+                        "terms": [
+                              "function",
+                              "serves",
+                              "bring",
+                              "language",
+                              "fying",
+                              "mae",
+                              "fannie",
+                              "clari",
+                              "uncontroversial",
+                              "capacity"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7555555555555554,
+                        "terms": [
+                              "function",
+                              "serves",
+                              "bring",
+                              "language",
+                              "fying",
+                              "mae",
+                              "fannie",
+                              "clari",
+                              "uncontroversial",
+                              "capacity",
+                              "sued",
+                              "charters"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8555555555555554,
+                        "terms": [
+                              "function",
+                              "serves",
+                              "bring",
+                              "language",
+                              "fying",
+                              "mae",
+                              "fannie",
+                              "clari",
+                              "uncontroversial",
+                              "capacity",
+                              "sued",
+                              "charters",
+                              "corporate",
+                              "suit"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9555555555555554,
+                        "terms": [
+                              "function",
+                              "serves",
+                              "bring",
+                              "language",
+                              "fying",
+                              "mae",
+                              "fannie",
+                              "clari",
+                              "uncontroversial",
+                              "capacity",
+                              "sued",
+                              "charters",
+                              "corporate",
+                              "suit",
+                              "see",
+                              "federal"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "function",
+                              "serves",
+                              "bring",
+                              "language",
+                              "fying",
+                              "mae",
+                              "fannie",
+                              "clari",
+                              "uncontroversial",
+                              "capacity",
+                              "sued",
+                              "charters",
+                              "corporate",
+                              "suit",
+                              "see",
+                              "federal",
+                              "s",
+                              "other"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "function",
+                              "serves",
+                              "bring",
+                              "language",
+                              "fying",
+                              "mae",
+                              "fannie",
+                              "clari",
+                              "uncontroversial",
+                              "capacity",
+                              "sued",
+                              "charters",
+                              "corporate",
+                              "suit",
+                              "see",
+                              "federal",
+                              "s",
+                              "other"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,225 @@
+{
+      "auto_generated_queries": {
+            "topic": 76,
+            "query": [
+                  {
+                        "proportion": 0.13703703703703704,
+                        "terms": [
+                              "analogous"
+                        ]
+                  },
+                  {
+                        "proportion": 0.23703703703703705,
+                        "terms": [
+                              "analogous",
+                              "bank",
+                              "cient",
+                              "consequently"
+                        ]
+                  },
+                  {
+                        "proportion": 0.337037037037037,
+                        "terms": [
+                              "analogous",
+                              "bank",
+                              "cient",
+                              "consequently",
+                              "deprived",
+                              "did",
+                              "even"
+                        ]
+                  },
+                  {
+                        "proportion": 0.437037037037037,
+                        "terms": [
+                              "analogous",
+                              "bank",
+                              "cient",
+                              "consequently",
+                              "deprived",
+                              "did",
+                              "even",
+                              "fraud",
+                              "have",
+                              "held"
+                        ]
+                  },
+                  {
+                        "proportion": 0.537037037037037,
+                        "terms": [
+                              "analogous",
+                              "bank",
+                              "cient",
+                              "consequently",
+                              "deprived",
+                              "did",
+                              "even",
+                              "fraud",
+                              "have",
+                              "held",
+                              "here",
+                              "interpreting"
+                        ]
+                  },
+                  {
+                        "proportion": 0.637037037037037,
+                        "terms": [
+                              "analogous",
+                              "bank",
+                              "cient",
+                              "consequently",
+                              "deprived",
+                              "did",
+                              "even",
+                              "fraud",
+                              "have",
+                              "held",
+                              "here",
+                              "interpreting",
+                              "its",
+                              "loss",
+                              "mail"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7370370370370369,
+                        "terms": [
+                              "analogous",
+                              "bank",
+                              "cient",
+                              "consequently",
+                              "deprived",
+                              "did",
+                              "even",
+                              "fraud",
+                              "have",
+                              "held",
+                              "here",
+                              "interpreting",
+                              "its",
+                              "loss",
+                              "mail",
+                              "property",
+                              "right",
+                              "statute"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8370370370370369,
+                        "terms": [
+                              "analogous",
+                              "bank",
+                              "cient",
+                              "consequently",
+                              "deprived",
+                              "did",
+                              "even",
+                              "fraud",
+                              "have",
+                              "held",
+                              "here",
+                              "interpreting",
+                              "its",
+                              "loss",
+                              "mail",
+                              "property",
+                              "right",
+                              "statute",
+                              "suffer",
+                              "suffi"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9370370370370369,
+                        "terms": [
+                              "analogous",
+                              "bank",
+                              "cient",
+                              "consequently",
+                              "deprived",
+                              "did",
+                              "even",
+                              "fraud",
+                              "have",
+                              "held",
+                              "here",
+                              "interpreting",
+                              "its",
+                              "loss",
+                              "mail",
+                              "property",
+                              "right",
+                              "statute",
+                              "suffer",
+                              "suffi",
+                              "surprising",
+                              "ultimately",
+                              "unreimbursed"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "analogous",
+                              "bank",
+                              "cient",
+                              "consequently",
+                              "deprived",
+                              "did",
+                              "even",
+                              "fraud",
+                              "have",
+                              "held",
+                              "here",
+                              "interpreting",
+                              "its",
+                              "loss",
+                              "mail",
+                              "property",
+                              "right",
+                              "statute",
+                              "suffer",
+                              "suffi",
+                              "surprising",
+                              "ultimately",
+                              "unreimbursed",
+                              "use",
+                              "victim",
+                              "we"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "analogous",
+                              "bank",
+                              "cient",
+                              "consequently",
+                              "deprived",
+                              "did",
+                              "even",
+                              "fraud",
+                              "have",
+                              "held",
+                              "here",
+                              "interpreting",
+                              "its",
+                              "loss",
+                              "mail",
+                              "property",
+                              "right",
+                              "statute",
+                              "suffer",
+                              "suffi",
+                              "surprising",
+                              "ultimately",
+                              "unreimbursed",
+                              "use",
+                              "victim",
+                              "we",
+                              "when"
+                        ]
+                  }
+            ]
+      }
+}

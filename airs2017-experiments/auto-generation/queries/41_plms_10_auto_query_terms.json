@@ -1,0 +1,153 @@
+{
+      "auto_generated_queries": {
+            "topic": 41,
+            "query": [
+                  {
+                        "proportion": 0.17142857142857143,
+                        "terms": [
+                              "amendment"
+                        ]
+                  },
+                  {
+                        "proportion": 0.27142857142857146,
+                        "terms": [
+                              "amendment",
+                              "court",
+                              "detention"
+                        ]
+                  },
+                  {
+                        "proportion": 0.37142857142857144,
+                        "terms": [
+                              "amendment",
+                              "court",
+                              "detention",
+                              "e"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4714285714285714,
+                        "terms": [
+                              "amendment",
+                              "court",
+                              "detention",
+                              "e",
+                              "establishes",
+                              "fourth"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5714285714285714,
+                        "terms": [
+                              "amendment",
+                              "court",
+                              "detention",
+                              "e",
+                              "establishes",
+                              "fourth",
+                              "g"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6714285714285714,
+                        "terms": [
+                              "amendment",
+                              "court",
+                              "detention",
+                              "e",
+                              "establishes",
+                              "fourth",
+                              "g",
+                              "governing"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7714285714285714,
+                        "terms": [
+                              "amendment",
+                              "court",
+                              "detention",
+                              "e",
+                              "establishes",
+                              "fourth",
+                              "g",
+                              "governing",
+                              "has",
+                              "pretrial"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8714285714285713,
+                        "terms": [
+                              "amendment",
+                              "court",
+                              "detention",
+                              "e",
+                              "establishes",
+                              "fourth",
+                              "g",
+                              "governing",
+                              "has",
+                              "pretrial",
+                              "procedures"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9714285714285713,
+                        "terms": [
+                              "amendment",
+                              "court",
+                              "detention",
+                              "e",
+                              "establishes",
+                              "fourth",
+                              "g",
+                              "governing",
+                              "has",
+                              "pretrial",
+                              "procedures",
+                              "recognized",
+                              "see"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "amendment",
+                              "court",
+                              "detention",
+                              "e",
+                              "establishes",
+                              "fourth",
+                              "g",
+                              "governing",
+                              "has",
+                              "pretrial",
+                              "procedures",
+                              "recognized",
+                              "see",
+                              "standards"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "amendment",
+                              "court",
+                              "detention",
+                              "e",
+                              "establishes",
+                              "fourth",
+                              "g",
+                              "governing",
+                              "has",
+                              "pretrial",
+                              "procedures",
+                              "recognized",
+                              "see",
+                              "standards"
+                        ]
+                  }
+            ]
+      }
+}

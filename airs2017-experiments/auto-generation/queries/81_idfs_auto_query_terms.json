@@ -1,0 +1,119 @@
+{
+      "auto_generated_queries": {
+            "topic": 81,
+            "query": [
+                  {
+                        "proportion": 0.1,
+                        "terms": [
+                              "mandatory"
+                        ]
+                  },
+                  {
+                        "proportion": 0.2,
+                        "terms": [
+                              "mandatory"
+                        ]
+                  },
+                  {
+                        "proportion": 0.30000000000000004,
+                        "terms": [
+                              "mandatory",
+                              "creates"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4,
+                        "terms": [
+                              "mandatory",
+                              "creates",
+                              "language",
+                              "true"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5,
+                        "terms": [
+                              "mandatory",
+                              "creates",
+                              "language",
+                              "true"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6,
+                        "terms": [
+                              "mandatory",
+                              "creates",
+                              "language",
+                              "true",
+                              "relator"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7,
+                        "terms": [
+                              "mandatory",
+                              "creates",
+                              "language",
+                              "true",
+                              "relator",
+                              "see"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7999999999999999,
+                        "terms": [
+                              "mandatory",
+                              "creates",
+                              "language",
+                              "true",
+                              "relator",
+                              "see",
+                              "follow"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8999999999999999,
+                        "terms": [
+                              "mandatory",
+                              "creates",
+                              "language",
+                              "true",
+                              "relator",
+                              "see",
+                              "follow",
+                              "rule"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9999999999999999,
+                        "terms": [
+                              "mandatory",
+                              "creates",
+                              "language",
+                              "true",
+                              "relator",
+                              "see",
+                              "follow",
+                              "rule",
+                              "also"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "mandatory",
+                              "creates",
+                              "language",
+                              "true",
+                              "relator",
+                              "see",
+                              "follow",
+                              "rule",
+                              "also",
+                              "must"
+                        ]
+                  }
+            ]
+      }
+}

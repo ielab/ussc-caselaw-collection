@@ -1,0 +1,252 @@
+{
+      "auto_generated_queries": {
+            "topic": 24,
+            "query": [
+                  {
+                        "proportion": 0.13125,
+                        "terms": [
+                              "manufacture"
+                        ]
+                  },
+                  {
+                        "proportion": 0.23125,
+                        "terms": [
+                              "manufacture",
+                              "flaw",
+                              "provocation",
+                              "exces",
+                              "sharply"
+                        ]
+                  },
+                  {
+                        "proportion": 0.33125000000000004,
+                        "terms": [
+                              "manufacture",
+                              "flaw",
+                              "provocation",
+                              "exces",
+                              "sharply",
+                              "sive",
+                              "incompatible",
+                              "ques"
+                        ]
+                  },
+                  {
+                        "proportion": 0.43125,
+                        "terms": [
+                              "manufacture",
+                              "flaw",
+                              "provocation",
+                              "exces",
+                              "sharply",
+                              "sive",
+                              "incompatible",
+                              "ques",
+                              "fundamental",
+                              "force",
+                              "excessive"
+                        ]
+                  },
+                  {
+                        "proportion": 0.53125,
+                        "terms": [
+                              "manufacture",
+                              "flaw",
+                              "provocation",
+                              "exces",
+                              "sharply",
+                              "sive",
+                              "incompatible",
+                              "ques",
+                              "fundamental",
+                              "force",
+                              "excessive",
+                              "jurisprudence",
+                              "ninth",
+                              "exist"
+                        ]
+                  },
+                  {
+                        "proportion": 0.63125,
+                        "terms": [
+                              "manufacture",
+                              "flaw",
+                              "provocation",
+                              "exces",
+                              "sharply",
+                              "sive",
+                              "incompatible",
+                              "ques",
+                              "fundamental",
+                              "force",
+                              "excessive",
+                              "jurisprudence",
+                              "ninth",
+                              "exist",
+                              "tioned",
+                              "uses",
+                              "violation"
+                        ]
+                  },
+                  {
+                        "proportion": 0.73125,
+                        "terms": [
+                              "manufacture",
+                              "flaw",
+                              "provocation",
+                              "exces",
+                              "sharply",
+                              "sive",
+                              "incompatible",
+                              "ques",
+                              "fundamental",
+                              "force",
+                              "excessive",
+                              "jurisprudence",
+                              "ninth",
+                              "exist",
+                              "tioned",
+                              "uses",
+                              "violation",
+                              "outside",
+                              "rule",
+                              "circuit",
+                              "claim"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8312499999999999,
+                        "terms": [
+                              "manufacture",
+                              "flaw",
+                              "provocation",
+                              "exces",
+                              "sharply",
+                              "sive",
+                              "incompatible",
+                              "ques",
+                              "fundamental",
+                              "force",
+                              "excessive",
+                              "jurisprudence",
+                              "ninth",
+                              "exist",
+                              "tioned",
+                              "uses",
+                              "violation",
+                              "outside",
+                              "rule",
+                              "circuit",
+                              "claim",
+                              "constitutional",
+                              "otherwise",
+                              "another"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9312499999999999,
+                        "terms": [
+                              "manufacture",
+                              "flaw",
+                              "provocation",
+                              "exces",
+                              "sharply",
+                              "sive",
+                              "incompatible",
+                              "ques",
+                              "fundamental",
+                              "force",
+                              "excessive",
+                              "jurisprudence",
+                              "ninth",
+                              "exist",
+                              "tioned",
+                              "uses",
+                              "violation",
+                              "outside",
+                              "rule",
+                              "circuit",
+                              "claim",
+                              "constitutional",
+                              "otherwise",
+                              "another",
+                              "has",
+                              "our",
+                              "where"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "manufacture",
+                              "flaw",
+                              "provocation",
+                              "exces",
+                              "sharply",
+                              "sive",
+                              "incompatible",
+                              "ques",
+                              "fundamental",
+                              "force",
+                              "excessive",
+                              "jurisprudence",
+                              "ninth",
+                              "exist",
+                              "tioned",
+                              "uses",
+                              "violation",
+                              "outside",
+                              "rule",
+                              "circuit",
+                              "claim",
+                              "constitutional",
+                              "otherwise",
+                              "another",
+                              "has",
+                              "our",
+                              "where",
+                              "s",
+                              "been",
+                              "would"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "manufacture",
+                              "flaw",
+                              "provocation",
+                              "exces",
+                              "sharply",
+                              "sive",
+                              "incompatible",
+                              "ques",
+                              "fundamental",
+                              "force",
+                              "excessive",
+                              "jurisprudence",
+                              "ninth",
+                              "exist",
+                              "tioned",
+                              "uses",
+                              "violation",
+                              "outside",
+                              "rule",
+                              "circuit",
+                              "claim",
+                              "constitutional",
+                              "otherwise",
+                              "another",
+                              "has",
+                              "our",
+                              "where",
+                              "s",
+                              "been",
+                              "would",
+                              "which",
+                              "one"
+                        ]
+                  }
+            ]
+      }
+}

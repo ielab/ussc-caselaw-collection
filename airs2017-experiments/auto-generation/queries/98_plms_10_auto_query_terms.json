@@ -1,0 +1,181 @@
+{
+      "auto_generated_queries": {
+            "topic": 98,
+            "query": [
+                  {
+                        "proportion": 0.15263157894736842,
+                        "terms": [
+                              "must"
+                        ]
+                  },
+                  {
+                        "proportion": 0.25263157894736843,
+                        "terms": [
+                              "must",
+                              "above",
+                              "account"
+                        ]
+                  },
+                  {
+                        "proportion": 0.3526315789473684,
+                        "terms": [
+                              "must",
+                              "above",
+                              "account",
+                              "cf",
+                              "compelling"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4526315789473684,
+                        "terms": [
+                              "must",
+                              "above",
+                              "account",
+                              "cf",
+                              "compelling",
+                              "considerations",
+                              "contend"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5526315789473684,
+                        "terms": [
+                              "must",
+                              "above",
+                              "account",
+                              "cf",
+                              "compelling",
+                              "considerations",
+                              "contend",
+                              "context",
+                              "discussed"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6526315789473683,
+                        "terms": [
+                              "must",
+                              "above",
+                              "account",
+                              "cf",
+                              "compelling",
+                              "considerations",
+                              "contend",
+                              "context",
+                              "discussed",
+                              "first",
+                              "interpretation"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7526315789473683,
+                        "terms": [
+                              "must",
+                              "above",
+                              "account",
+                              "cf",
+                              "compelling",
+                              "considerations",
+                              "contend",
+                              "context",
+                              "discussed",
+                              "first",
+                              "interpretation",
+                              "see",
+                              "structural"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8526315789473683,
+                        "terms": [
+                              "must",
+                              "above",
+                              "account",
+                              "cf",
+                              "compelling",
+                              "considerations",
+                              "contend",
+                              "context",
+                              "discussed",
+                              "first",
+                              "interpretation",
+                              "see",
+                              "structural",
+                              "take",
+                              "treaty"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9526315789473683,
+                        "terms": [
+                              "must",
+                              "above",
+                              "account",
+                              "cf",
+                              "compelling",
+                              "considerations",
+                              "contend",
+                              "context",
+                              "discussed",
+                              "first",
+                              "interpretation",
+                              "see",
+                              "structural",
+                              "take",
+                              "treaty",
+                              "used",
+                              "which"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "must",
+                              "above",
+                              "account",
+                              "cf",
+                              "compelling",
+                              "considerations",
+                              "contend",
+                              "context",
+                              "discussed",
+                              "first",
+                              "interpretation",
+                              "see",
+                              "structural",
+                              "take",
+                              "treaty",
+                              "used",
+                              "which",
+                              "words",
+                              "written"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "must",
+                              "above",
+                              "account",
+                              "cf",
+                              "compelling",
+                              "considerations",
+                              "contend",
+                              "context",
+                              "discussed",
+                              "first",
+                              "interpretation",
+                              "see",
+                              "structural",
+                              "take",
+                              "treaty",
+                              "used",
+                              "which",
+                              "words",
+                              "written"
+                        ]
+                  }
+            ]
+      }
+}

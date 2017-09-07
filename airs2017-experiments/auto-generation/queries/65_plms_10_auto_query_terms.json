@@ -1,0 +1,117 @@
+{
+      "auto_generated_queries": {
+            "topic": 65,
+            "query": [
+                  {
+                        "proportion": 0.1111111111111111,
+                        "terms": [
+                              "bias"
+                        ]
+                  },
+                  {
+                        "proportion": 0.2111111111111111,
+                        "terms": [
+                              "bias"
+                        ]
+                  },
+                  {
+                        "proportion": 0.3111111111111111,
+                        "terms": [
+                              "bias",
+                              "camouflaging"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4111111111111111,
+                        "terms": [
+                              "bias",
+                              "camouflaging",
+                              "claim"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5111111111111111,
+                        "terms": [
+                              "bias",
+                              "camouflaging",
+                              "claim",
+                              "court"
+                        ]
+                  },
+                  {
+                        "proportion": 0.611111111111111,
+                        "terms": [
+                              "bias",
+                              "camouflaging",
+                              "claim",
+                              "court",
+                              "discussed"
+                        ]
+                  },
+                  {
+                        "proportion": 0.711111111111111,
+                        "terms": [
+                              "bias",
+                              "camouflaging",
+                              "claim",
+                              "court",
+                              "discussed",
+                              "likened"
+                        ]
+                  },
+                  {
+                        "proportion": 0.811111111111111,
+                        "terms": [
+                              "bias",
+                              "camouflaging",
+                              "claim",
+                              "court",
+                              "discussed",
+                              "likened",
+                              "rippo"
+                        ]
+                  },
+                  {
+                        "proportion": 0.911111111111111,
+                        "terms": [
+                              "bias",
+                              "camouflaging",
+                              "claim",
+                              "court",
+                              "discussed",
+                              "likened",
+                              "rippo",
+                              "s"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "bias",
+                              "camouflaging",
+                              "claim",
+                              "court",
+                              "discussed",
+                              "likened",
+                              "rippo",
+                              "s",
+                              "theory"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "bias",
+                              "camouflaging",
+                              "claim",
+                              "court",
+                              "discussed",
+                              "likened",
+                              "rippo",
+                              "s",
+                              "theory"
+                        ]
+                  }
+            ]
+      }
+}

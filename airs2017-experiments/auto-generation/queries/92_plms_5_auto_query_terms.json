@@ -1,0 +1,112 @@
+{
+      "auto_generated_queries": {
+            "topic": 92,
+            "query": [
+                  {
+                        "proportion": 0.125,
+                        "terms": [
+                              "tribal"
+                        ]
+                  },
+                  {
+                        "proportion": 0.225,
+                        "terms": [
+                              "tribal"
+                        ]
+                  },
+                  {
+                        "proportion": 0.325,
+                        "terms": [
+                              "tribal",
+                              "sixth"
+                        ]
+                  },
+                  {
+                        "proportion": 0.42500000000000004,
+                        "terms": [
+                              "tribal",
+                              "sixth",
+                              "apply"
+                        ]
+                  },
+                  {
+                        "proportion": 0.525,
+                        "terms": [
+                              "tribal",
+                              "sixth",
+                              "apply",
+                              "proceedings"
+                        ]
+                  },
+                  {
+                        "proportion": 0.625,
+                        "terms": [
+                              "tribal",
+                              "sixth",
+                              "apply",
+                              "proceedings",
+                              "does"
+                        ]
+                  },
+                  {
+                        "proportion": 0.725,
+                        "terms": [
+                              "tribal",
+                              "sixth",
+                              "apply",
+                              "proceedings",
+                              "does"
+                        ]
+                  },
+                  {
+                        "proportion": 0.825,
+                        "terms": [
+                              "tribal",
+                              "sixth",
+                              "apply",
+                              "proceedings",
+                              "does",
+                              "amendment"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9249999999999999,
+                        "terms": [
+                              "tribal",
+                              "sixth",
+                              "apply",
+                              "proceedings",
+                              "does",
+                              "amendment",
+                              "see"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "tribal",
+                              "sixth",
+                              "apply",
+                              "proceedings",
+                              "does",
+                              "amendment",
+                              "see",
+                              "court"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "tribal",
+                              "sixth",
+                              "apply",
+                              "proceedings",
+                              "does",
+                              "amendment",
+                              "see",
+                              "court"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,153 @@
+{
+      "auto_generated_queries": {
+            "topic": 40,
+            "query": [
+                  {
+                        "proportion": 0.17142857142857143,
+                        "terms": [
+                              "vanced"
+                        ]
+                  },
+                  {
+                        "proportion": 0.27142857142857146,
+                        "terms": [
+                              "vanced",
+                              "ments",
+                              "entertain"
+                        ]
+                  },
+                  {
+                        "proportion": 0.37142857142857144,
+                        "terms": [
+                              "vanced",
+                              "ments",
+                              "entertain",
+                              "ad"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4714285714285714,
+                        "terms": [
+                              "vanced",
+                              "ments",
+                              "entertain",
+                              "ad",
+                              "raised",
+                              "party"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5714285714285714,
+                        "terms": [
+                              "vanced",
+                              "ments",
+                              "entertain",
+                              "ad",
+                              "raised",
+                              "party",
+                              "do"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6714285714285714,
+                        "terms": [
+                              "vanced",
+                              "ments",
+                              "entertain",
+                              "ad",
+                              "raised",
+                              "party",
+                              "do",
+                              "argu"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7714285714285714,
+                        "terms": [
+                              "vanced",
+                              "ments",
+                              "entertain",
+                              "ad",
+                              "raised",
+                              "party",
+                              "do",
+                              "argu",
+                              "generally",
+                              "we"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8714285714285713,
+                        "terms": [
+                              "vanced",
+                              "ments",
+                              "entertain",
+                              "ad",
+                              "raised",
+                              "party",
+                              "do",
+                              "argu",
+                              "generally",
+                              "we",
+                              "any"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9714285714285713,
+                        "terms": [
+                              "vanced",
+                              "ments",
+                              "entertain",
+                              "ad",
+                              "raised",
+                              "party",
+                              "do",
+                              "argu",
+                              "generally",
+                              "we",
+                              "any",
+                              "were",
+                              "below"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "vanced",
+                              "ments",
+                              "entertain",
+                              "ad",
+                              "raised",
+                              "party",
+                              "do",
+                              "argu",
+                              "generally",
+                              "we",
+                              "any",
+                              "were",
+                              "below",
+                              "court"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "vanced",
+                              "ments",
+                              "entertain",
+                              "ad",
+                              "raised",
+                              "party",
+                              "do",
+                              "argu",
+                              "generally",
+                              "we",
+                              "any",
+                              "were",
+                              "below",
+                              "court"
+                        ]
+                  }
+            ]
+      }
+}

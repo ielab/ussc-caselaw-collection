@@ -1,0 +1,137 @@
+{
+      "auto_generated_queries": {
+            "topic": 6,
+            "query": [
+                  {
+                        "proportion": 0.19090909090909092,
+                        "terms": [
+                              "fha"
+                        ]
+                  },
+                  {
+                        "proportion": 0.2909090909090909,
+                        "terms": [
+                              "fha",
+                              "ests",
+                              "zone"
+                        ]
+                  },
+                  {
+                        "proportion": 0.3909090909090909,
+                        "terms": [
+                              "fha",
+                              "ests",
+                              "zone",
+                              "inter"
+                        ]
+                  },
+                  {
+                        "proportion": 0.49090909090909085,
+                        "terms": [
+                              "fha",
+                              "ests",
+                              "zone",
+                              "inter",
+                              "fall"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5909090909090908,
+                        "terms": [
+                              "fha",
+                              "ests",
+                              "zone",
+                              "inter",
+                              "fall",
+                              "injuries"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6909090909090908,
+                        "terms": [
+                              "fha",
+                              "ests",
+                              "zone",
+                              "inter",
+                              "fall",
+                              "injuries",
+                              "city"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7909090909090908,
+                        "terms": [
+                              "fha",
+                              "ests",
+                              "zone",
+                              "inter",
+                              "fall",
+                              "injuries",
+                              "city",
+                              "protects"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8909090909090908,
+                        "terms": [
+                              "fha",
+                              "ests",
+                              "zone",
+                              "inter",
+                              "fall",
+                              "injuries",
+                              "city",
+                              "protects",
+                              "held"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9909090909090907,
+                        "terms": [
+                              "fha",
+                              "ests",
+                              "zone",
+                              "inter",
+                              "fall",
+                              "injuries",
+                              "city",
+                              "protects",
+                              "held",
+                              "within"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "fha",
+                              "ests",
+                              "zone",
+                              "inter",
+                              "fall",
+                              "injuries",
+                              "city",
+                              "protects",
+                              "held",
+                              "within",
+                              "s"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "fha",
+                              "ests",
+                              "zone",
+                              "inter",
+                              "fall",
+                              "injuries",
+                              "city",
+                              "protects",
+                              "held",
+                              "within",
+                              "s"
+                        ]
+                  }
+            ]
+      }
+}

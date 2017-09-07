@@ -1,0 +1,153 @@
+{
+      "auto_generated_queries": {
+            "topic": 58,
+            "query": [
+                  {
+                        "proportion": 0.17142857142857143,
+                        "terms": [
+                              "each"
+                        ]
+                  },
+                  {
+                        "proportion": 0.27142857142857146,
+                        "terms": [
+                              "each",
+                              "ever",
+                              "favor"
+                        ]
+                  },
+                  {
+                        "proportion": 0.37142857142857144,
+                        "terms": [
+                              "each",
+                              "ever",
+                              "favor",
+                              "gives"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4714285714285714,
+                        "terms": [
+                              "each",
+                              "ever",
+                              "favor",
+                              "gives",
+                              "however",
+                              "interpretation"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5714285714285714,
+                        "terms": [
+                              "each",
+                              "ever",
+                              "favor",
+                              "gives",
+                              "however",
+                              "interpretation",
+                              "meaning"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6714285714285714,
+                        "terms": [
+                              "each",
+                              "ever",
+                              "favor",
+                              "gives",
+                              "however",
+                              "interpretation",
+                              "meaning",
+                              "possible"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7714285714285714,
+                        "terms": [
+                              "each",
+                              "ever",
+                              "favor",
+                              "gives",
+                              "however",
+                              "interpretation",
+                              "meaning",
+                              "possible",
+                              "provision",
+                              "see"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8714285714285713,
+                        "terms": [
+                              "each",
+                              "ever",
+                              "favor",
+                              "gives",
+                              "however",
+                              "interpretation",
+                              "meaning",
+                              "possible",
+                              "provision",
+                              "see",
+                              "should"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9714285714285713,
+                        "terms": [
+                              "each",
+                              "ever",
+                              "favor",
+                              "gives",
+                              "however",
+                              "interpretation",
+                              "meaning",
+                              "possible",
+                              "provision",
+                              "see",
+                              "should",
+                              "statutory",
+                              "we"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "each",
+                              "ever",
+                              "favor",
+                              "gives",
+                              "however",
+                              "interpretation",
+                              "meaning",
+                              "possible",
+                              "provision",
+                              "see",
+                              "should",
+                              "statutory",
+                              "we",
+                              "when"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "each",
+                              "ever",
+                              "favor",
+                              "gives",
+                              "however",
+                              "interpretation",
+                              "meaning",
+                              "possible",
+                              "provision",
+                              "see",
+                              "should",
+                              "statutory",
+                              "we",
+                              "when"
+                        ]
+                  }
+            ]
+      }
+}

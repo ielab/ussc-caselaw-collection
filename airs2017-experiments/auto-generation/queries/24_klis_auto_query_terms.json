@@ -1,0 +1,164 @@
+{
+      "auto_generated_queries": {
+            "topic": 24,
+            "query": [
+                  {
+                        "proportion": 0.1625,
+                        "terms": [
+                              "provocation"
+                        ]
+                  },
+                  {
+                        "proportion": 0.2625,
+                        "terms": [
+                              "provocation",
+                              "sharply",
+                              "incompatible"
+                        ]
+                  },
+                  {
+                        "proportion": 0.36250000000000004,
+                        "terms": [
+                              "provocation",
+                              "sharply",
+                              "incompatible",
+                              "ques",
+                              "force"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4625,
+                        "terms": [
+                              "provocation",
+                              "sharply",
+                              "incompatible",
+                              "ques",
+                              "force",
+                              "excessive"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5625,
+                        "terms": [
+                              "provocation",
+                              "sharply",
+                              "incompatible",
+                              "ques",
+                              "force",
+                              "excessive",
+                              "jurisprudence",
+                              "ninth"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6625,
+                        "terms": [
+                              "provocation",
+                              "sharply",
+                              "incompatible",
+                              "ques",
+                              "force",
+                              "excessive",
+                              "jurisprudence",
+                              "ninth",
+                              "tioned"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7625,
+                        "terms": [
+                              "provocation",
+                              "sharply",
+                              "incompatible",
+                              "ques",
+                              "force",
+                              "excessive",
+                              "jurisprudence",
+                              "ninth",
+                              "tioned",
+                              "outside",
+                              "rule"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8624999999999999,
+                        "terms": [
+                              "provocation",
+                              "sharply",
+                              "incompatible",
+                              "ques",
+                              "force",
+                              "excessive",
+                              "jurisprudence",
+                              "ninth",
+                              "tioned",
+                              "outside",
+                              "rule",
+                              "circuit",
+                              "has"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9624999999999999,
+                        "terms": [
+                              "provocation",
+                              "sharply",
+                              "incompatible",
+                              "ques",
+                              "force",
+                              "excessive",
+                              "jurisprudence",
+                              "ninth",
+                              "tioned",
+                              "outside",
+                              "rule",
+                              "circuit",
+                              "has",
+                              "our"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "provocation",
+                              "sharply",
+                              "incompatible",
+                              "ques",
+                              "force",
+                              "excessive",
+                              "jurisprudence",
+                              "ninth",
+                              "tioned",
+                              "outside",
+                              "rule",
+                              "circuit",
+                              "has",
+                              "our",
+                              "been",
+                              "which"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "provocation",
+                              "sharply",
+                              "incompatible",
+                              "ques",
+                              "force",
+                              "excessive",
+                              "jurisprudence",
+                              "ninth",
+                              "tioned",
+                              "outside",
+                              "rule",
+                              "circuit",
+                              "has",
+                              "our",
+                              "been",
+                              "which"
+                        ]
+                  }
+            ]
+      }
+}

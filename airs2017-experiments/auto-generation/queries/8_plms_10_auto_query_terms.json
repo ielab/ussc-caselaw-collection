@@ -1,0 +1,153 @@
+{
+      "auto_generated_queries": {
+            "topic": 8,
+            "query": [
+                  {
+                        "proportion": 0.17142857142857143,
+                        "terms": [
+                              "all"
+                        ]
+                  },
+                  {
+                        "proportion": 0.27142857142857146,
+                        "terms": [
+                              "all",
+                              "construction",
+                              "facts"
+                        ]
+                  },
+                  {
+                        "proportion": 0.37142857142857144,
+                        "terms": [
+                              "all",
+                              "construction",
+                              "facts",
+                              "given"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4714285714285714,
+                        "terms": [
+                              "all",
+                              "construction",
+                              "facts",
+                              "given",
+                              "inquiry",
+                              "our"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5714285714285714,
+                        "terms": [
+                              "all",
+                              "construction",
+                              "facts",
+                              "given",
+                              "inquiry",
+                              "our",
+                              "parties"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6714285714285714,
+                        "terms": [
+                              "all",
+                              "construction",
+                              "facts",
+                              "given",
+                              "inquiry",
+                              "our",
+                              "parties",
+                              "poses"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7714285714285714,
+                        "terms": [
+                              "all",
+                              "construction",
+                              "facts",
+                              "given",
+                              "inquiry",
+                              "our",
+                              "parties",
+                              "poses",
+                              "pure",
+                              "question"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8714285714285713,
+                        "terms": [
+                              "all",
+                              "construction",
+                              "facts",
+                              "given",
+                              "inquiry",
+                              "our",
+                              "parties",
+                              "poses",
+                              "pure",
+                              "question",
+                              "rele"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9714285714285713,
+                        "terms": [
+                              "all",
+                              "construction",
+                              "facts",
+                              "given",
+                              "inquiry",
+                              "our",
+                              "parties",
+                              "poses",
+                              "pure",
+                              "question",
+                              "rele",
+                              "statutory",
+                              "stipulations"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "all",
+                              "construction",
+                              "facts",
+                              "given",
+                              "inquiry",
+                              "our",
+                              "parties",
+                              "poses",
+                              "pure",
+                              "question",
+                              "rele",
+                              "statutory",
+                              "stipulations",
+                              "vant"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "all",
+                              "construction",
+                              "facts",
+                              "given",
+                              "inquiry",
+                              "our",
+                              "parties",
+                              "poses",
+                              "pure",
+                              "question",
+                              "rele",
+                              "statutory",
+                              "stipulations",
+                              "vant"
+                        ]
+                  }
+            ]
+      }
+}

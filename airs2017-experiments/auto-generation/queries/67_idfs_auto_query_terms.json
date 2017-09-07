@@ -1,0 +1,142 @@
+{
+      "auto_generated_queries": {
+            "topic": 67,
+            "query": [
+                  {
+                        "proportion": 0.18333333333333335,
+                        "terms": [
+                              "exhaustion"
+                        ]
+                  },
+                  {
+                        "proportion": 0.2833333333333333,
+                        "terms": [
+                              "exhaustion",
+                              "160",
+                              "patent"
+                        ]
+                  },
+                  {
+                        "proportion": 0.3833333333333333,
+                        "terms": [
+                              "exhaustion",
+                              "160",
+                              "patent",
+                              "exclude"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4833333333333333,
+                        "terms": [
+                              "exhaustion",
+                              "160",
+                              "patent",
+                              "exclude",
+                              "doctrine"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5833333333333333,
+                        "terms": [
+                              "exhaustion",
+                              "160",
+                              "patent",
+                              "exclude",
+                              "doctrine",
+                              "imposed"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6833333333333332,
+                        "terms": [
+                              "exhaustion",
+                              "160",
+                              "patent",
+                              "exclude",
+                              "doctrine",
+                              "imposed",
+                              "over"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7833333333333332,
+                        "terms": [
+                              "exhaustion",
+                              "160",
+                              "patent",
+                              "exclude",
+                              "doctrine",
+                              "imposed",
+                              "over",
+                              "years",
+                              "limit"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8833333333333332,
+                        "terms": [
+                              "exhaustion",
+                              "160",
+                              "patent",
+                              "exclude",
+                              "doctrine",
+                              "imposed",
+                              "over",
+                              "years",
+                              "limit",
+                              "see"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9833333333333332,
+                        "terms": [
+                              "exhaustion",
+                              "160",
+                              "patent",
+                              "exclude",
+                              "doctrine",
+                              "imposed",
+                              "over",
+                              "years",
+                              "limit",
+                              "see",
+                              "right"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "exhaustion",
+                              "160",
+                              "patent",
+                              "exclude",
+                              "doctrine",
+                              "imposed",
+                              "over",
+                              "years",
+                              "limit",
+                              "see",
+                              "right",
+                              "has"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "exhaustion",
+                              "160",
+                              "patent",
+                              "exclude",
+                              "doctrine",
+                              "imposed",
+                              "over",
+                              "years",
+                              "limit",
+                              "see",
+                              "right",
+                              "has"
+                        ]
+                  }
+            ]
+      }
+}

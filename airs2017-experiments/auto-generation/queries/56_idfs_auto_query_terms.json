@@ -1,0 +1,175 @@
+{
+      "auto_generated_queries": {
+            "topic": 56,
+            "query": [
+                  {
+                        "proportion": 0.15555555555555556,
+                        "terms": [
+                              "educa"
+                        ]
+                  },
+                  {
+                        "proportion": 0.25555555555555554,
+                        "terms": [
+                              "educa",
+                              "tion",
+                              "eligible"
+                        ]
+                  },
+                  {
+                        "proportion": 0.3555555555555555,
+                        "terms": [
+                              "educa",
+                              "tion",
+                              "eligible",
+                              "child",
+                              "financial"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4555555555555555,
+                        "terms": [
+                              "educa",
+                              "tion",
+                              "eligible",
+                              "child",
+                              "financial",
+                              "substantive",
+                              "idea"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5555555555555555,
+                        "terms": [
+                              "educa",
+                              "tion",
+                              "eligible",
+                              "child",
+                              "financial",
+                              "substantive",
+                              "idea",
+                              "acquires",
+                              "plained"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6555555555555554,
+                        "terms": [
+                              "educa",
+                              "tion",
+                              "eligible",
+                              "child",
+                              "financial",
+                              "substantive",
+                              "idea",
+                              "acquires",
+                              "plained",
+                              "once"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7555555555555554,
+                        "terms": [
+                              "educa",
+                              "tion",
+                              "eligible",
+                              "child",
+                              "financial",
+                              "substantive",
+                              "idea",
+                              "acquires",
+                              "plained",
+                              "once",
+                              "ex",
+                              "accepts"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8555555555555554,
+                        "terms": [
+                              "educa",
+                              "tion",
+                              "eligible",
+                              "child",
+                              "financial",
+                              "substantive",
+                              "idea",
+                              "acquires",
+                              "plained",
+                              "once",
+                              "ex",
+                              "accepts",
+                              "assistance",
+                              "right"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9555555555555554,
+                        "terms": [
+                              "educa",
+                              "tion",
+                              "eligible",
+                              "child",
+                              "financial",
+                              "substantive",
+                              "idea",
+                              "acquires",
+                              "plained",
+                              "once",
+                              "ex",
+                              "accepts",
+                              "assistance",
+                              "right",
+                              "has",
+                              "s"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "educa",
+                              "tion",
+                              "eligible",
+                              "child",
+                              "financial",
+                              "substantive",
+                              "idea",
+                              "acquires",
+                              "plained",
+                              "once",
+                              "ex",
+                              "accepts",
+                              "assistance",
+                              "right",
+                              "has",
+                              "s",
+                              "state",
+                              "court"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "educa",
+                              "tion",
+                              "eligible",
+                              "child",
+                              "financial",
+                              "substantive",
+                              "idea",
+                              "acquires",
+                              "plained",
+                              "once",
+                              "ex",
+                              "accepts",
+                              "assistance",
+                              "right",
+                              "has",
+                              "s",
+                              "state",
+                              "court"
+                        ]
+                  }
+            ]
+      }
+}

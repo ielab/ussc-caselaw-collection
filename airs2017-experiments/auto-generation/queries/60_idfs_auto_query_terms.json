@@ -1,0 +1,197 @@
+{
+      "auto_generated_queries": {
+            "topic": 60,
+            "query": [
+                  {
+                        "proportion": 0.14545454545454545,
+                        "terms": [
+                              "preclearance"
+                        ]
+                  },
+                  {
+                        "proportion": 0.24545454545454545,
+                        "terms": [
+                              "preclearance",
+                              "redistricting",
+                              "coverage",
+                              "formula"
+                        ]
+                  },
+                  {
+                        "proportion": 0.34545454545454546,
+                        "terms": [
+                              "preclearance",
+                              "redistricting",
+                              "coverage",
+                              "formula",
+                              "voting",
+                              "longer"
+                        ]
+                  },
+                  {
+                        "proportion": 0.44545454545454544,
+                        "terms": [
+                              "preclearance",
+                              "redistricting",
+                              "coverage",
+                              "formula",
+                              "voting",
+                              "longer",
+                              "completed",
+                              "process"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5454545454545454,
+                        "terms": [
+                              "preclearance",
+                              "redistricting",
+                              "coverage",
+                              "formula",
+                              "voting",
+                              "longer",
+                              "completed",
+                              "process",
+                              "b",
+                              "5"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6454545454545454,
+                        "terms": [
+                              "preclearance",
+                              "redistricting",
+                              "coverage",
+                              "formula",
+                              "voting",
+                              "longer",
+                              "completed",
+                              "process",
+                              "b",
+                              "5",
+                              "see",
+                              "here"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7454545454545454,
+                        "terms": [
+                              "preclearance",
+                              "redistricting",
+                              "coverage",
+                              "formula",
+                              "voting",
+                              "longer",
+                              "completed",
+                              "process",
+                              "b",
+                              "5",
+                              "see",
+                              "here",
+                              "held",
+                              "require",
+                              "used"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8454545454545453,
+                        "terms": [
+                              "preclearance",
+                              "redistricting",
+                              "coverage",
+                              "formula",
+                              "voting",
+                              "longer",
+                              "completed",
+                              "process",
+                              "b",
+                              "5",
+                              "see",
+                              "here",
+                              "held",
+                              "require",
+                              "used",
+                              "4",
+                              "rights"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9454545454545453,
+                        "terms": [
+                              "preclearance",
+                              "redistricting",
+                              "coverage",
+                              "formula",
+                              "voting",
+                              "longer",
+                              "completed",
+                              "process",
+                              "b",
+                              "5",
+                              "see",
+                              "here",
+                              "held",
+                              "require",
+                              "used",
+                              "4",
+                              "rights",
+                              "after",
+                              "act"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "preclearance",
+                              "redistricting",
+                              "coverage",
+                              "formula",
+                              "voting",
+                              "longer",
+                              "completed",
+                              "process",
+                              "b",
+                              "5",
+                              "see",
+                              "here",
+                              "held",
+                              "require",
+                              "used",
+                              "4",
+                              "rights",
+                              "after",
+                              "act",
+                              "under",
+                              "may"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "preclearance",
+                              "redistricting",
+                              "coverage",
+                              "formula",
+                              "voting",
+                              "longer",
+                              "completed",
+                              "process",
+                              "b",
+                              "5",
+                              "see",
+                              "here",
+                              "held",
+                              "require",
+                              "used",
+                              "4",
+                              "rights",
+                              "after",
+                              "act",
+                              "under",
+                              "may",
+                              "court"
+                        ]
+                  }
+            ]
+      }
+}

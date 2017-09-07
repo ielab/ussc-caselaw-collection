@@ -1,0 +1,164 @@
+{
+      "auto_generated_queries": {
+            "topic": 21,
+            "query": [
+                  {
+                        "proportion": 0.1625,
+                        "terms": [
+                              "emptive"
+                        ]
+                  },
+                  {
+                        "proportion": 0.2625,
+                        "terms": [
+                              "emptive",
+                              "preemption",
+                              "es"
+                        ]
+                  },
+                  {
+                        "proportion": 0.36250000000000004,
+                        "terms": [
+                              "emptive",
+                              "preemption",
+                              "es",
+                              "pre",
+                              "repeatedly"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4625,
+                        "terms": [
+                              "emptive",
+                              "preemption",
+                              "es",
+                              "pre",
+                              "repeatedly",
+                              "phrase"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5625,
+                        "terms": [
+                              "emptive",
+                              "preemption",
+                              "es",
+                              "pre",
+                              "repeatedly",
+                              "phrase",
+                              "press",
+                              "broad"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6625,
+                        "terms": [
+                              "emptive",
+                              "preemption",
+                              "es",
+                              "pre",
+                              "repeatedly",
+                              "phrase",
+                              "press",
+                              "broad",
+                              "ex"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7625,
+                        "terms": [
+                              "emptive",
+                              "preemption",
+                              "es",
+                              "pre",
+                              "repeatedly",
+                              "phrase",
+                              "press",
+                              "broad",
+                              "ex",
+                              "clause",
+                              "recognized"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8624999999999999,
+                        "terms": [
+                              "emptive",
+                              "preemption",
+                              "es",
+                              "pre",
+                              "repeatedly",
+                              "phrase",
+                              "press",
+                              "broad",
+                              "ex",
+                              "clause",
+                              "recognized",
+                              "relate",
+                              "accord"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9624999999999999,
+                        "terms": [
+                              "emptive",
+                              "preemption",
+                              "es",
+                              "pre",
+                              "repeatedly",
+                              "phrase",
+                              "press",
+                              "broad",
+                              "ex",
+                              "clause",
+                              "recognized",
+                              "relate",
+                              "accord",
+                              "purpose"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "emptive",
+                              "preemption",
+                              "es",
+                              "pre",
+                              "repeatedly",
+                              "phrase",
+                              "press",
+                              "broad",
+                              "ex",
+                              "clause",
+                              "recognized",
+                              "relate",
+                              "accord",
+                              "purpose",
+                              "we",
+                              "have"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "emptive",
+                              "preemption",
+                              "es",
+                              "pre",
+                              "repeatedly",
+                              "phrase",
+                              "press",
+                              "broad",
+                              "ex",
+                              "clause",
+                              "recognized",
+                              "relate",
+                              "accord",
+                              "purpose",
+                              "we",
+                              "have"
+                        ]
+                  }
+            ]
+      }
+}

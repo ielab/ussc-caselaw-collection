@@ -1,0 +1,225 @@
+{
+      "auto_generated_queries": {
+            "topic": 83,
+            "query": [
+                  {
+                        "proportion": 0.13703703703703704,
+                        "terms": [
+                              "pow"
+                        ]
+                  },
+                  {
+                        "proportion": 0.23703703703703705,
+                        "terms": [
+                              "pow",
+                              "ell",
+                              "preclusive",
+                              "irreconcilable"
+                        ]
+                  },
+                  {
+                        "proportion": 0.337037037037037,
+                        "terms": [
+                              "pow",
+                              "ell",
+                              "preclusive",
+                              "irreconcilable",
+                              "acquittal",
+                              "jeopardy",
+                              "double"
+                        ]
+                  },
+                  {
+                        "proportion": 0.437037037037037,
+                        "terms": [
+                              "pow",
+                              "ell",
+                              "preclusive",
+                              "irreconcilable",
+                              "acquittal",
+                              "jeopardy",
+                              "double",
+                              "rationally",
+                              "469",
+                              "1984"
+                        ]
+                  },
+                  {
+                        "proportion": 0.537037037037037,
+                        "terms": [
+                              "pow",
+                              "ell",
+                              "preclusive",
+                              "irreconcilable",
+                              "acquittal",
+                              "jeopardy",
+                              "double",
+                              "rationally",
+                              "469",
+                              "1984",
+                              "gains",
+                              "68"
+                        ]
+                  },
+                  {
+                        "proportion": 0.637037037037037,
+                        "terms": [
+                              "pow",
+                              "ell",
+                              "preclusive",
+                              "irreconcilable",
+                              "acquittal",
+                              "jeopardy",
+                              "double",
+                              "rationally",
+                              "469",
+                              "1984",
+                              "gains",
+                              "68",
+                              "57",
+                              "verdicts",
+                              "challenging"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7370370370370369,
+                        "terms": [
+                              "pow",
+                              "ell",
+                              "preclusive",
+                              "irreconcilable",
+                              "acquittal",
+                              "jeopardy",
+                              "double",
+                              "rationally",
+                              "469",
+                              "1984",
+                              "gains",
+                              "68",
+                              "57",
+                              "verdicts",
+                              "challenging",
+                              "u",
+                              "clause",
+                              "barred"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8370370370370369,
+                        "terms": [
+                              "pow",
+                              "ell",
+                              "preclusive",
+                              "irreconcilable",
+                              "acquittal",
+                              "jeopardy",
+                              "double",
+                              "rationally",
+                              "469",
+                              "1984",
+                              "gains",
+                              "68",
+                              "57",
+                              "verdicts",
+                              "challenging",
+                              "u",
+                              "clause",
+                              "barred",
+                              "government",
+                              "see"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9370370370370369,
+                        "terms": [
+                              "pow",
+                              "ell",
+                              "preclusive",
+                              "irreconcilable",
+                              "acquittal",
+                              "jeopardy",
+                              "double",
+                              "rationally",
+                              "469",
+                              "1984",
+                              "gains",
+                              "68",
+                              "57",
+                              "verdicts",
+                              "challenging",
+                              "u",
+                              "clause",
+                              "barred",
+                              "government",
+                              "see",
+                              "effect",
+                              "because",
+                              "s"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "pow",
+                              "ell",
+                              "preclusive",
+                              "irreconcilable",
+                              "acquittal",
+                              "jeopardy",
+                              "double",
+                              "rationally",
+                              "469",
+                              "1984",
+                              "gains",
+                              "68",
+                              "57",
+                              "verdicts",
+                              "challenging",
+                              "u",
+                              "clause",
+                              "barred",
+                              "government",
+                              "see",
+                              "effect",
+                              "because",
+                              "s",
+                              "from",
+                              "v",
+                              "united"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "pow",
+                              "ell",
+                              "preclusive",
+                              "irreconcilable",
+                              "acquittal",
+                              "jeopardy",
+                              "double",
+                              "rationally",
+                              "469",
+                              "1984",
+                              "gains",
+                              "68",
+                              "57",
+                              "verdicts",
+                              "challenging",
+                              "u",
+                              "clause",
+                              "barred",
+                              "government",
+                              "see",
+                              "effect",
+                              "because",
+                              "s",
+                              "from",
+                              "v",
+                              "united",
+                              "states"
+                        ]
+                  }
+            ]
+      }
+}

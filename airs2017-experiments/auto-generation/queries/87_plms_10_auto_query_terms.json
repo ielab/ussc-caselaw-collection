@@ -1,0 +1,197 @@
+{
+      "auto_generated_queries": {
+            "topic": 87,
+            "query": [
+                  {
+                        "proportion": 0.14545454545454545,
+                        "terms": [
+                              "constitutional"
+                        ]
+                  },
+                  {
+                        "proportion": 0.24545454545454545,
+                        "terms": [
+                              "constitutional",
+                              "constitution",
+                              "has",
+                              "ally"
+                        ]
+                  },
+                  {
+                        "proportion": 0.34545454545454546,
+                        "terms": [
+                              "constitutional",
+                              "constitution",
+                              "has",
+                              "ally",
+                              "attorney",
+                              "capital"
+                        ]
+                  },
+                  {
+                        "proportion": 0.44545454545454544,
+                        "terms": [
+                              "constitutional",
+                              "constitution",
+                              "has",
+                              "ally",
+                              "attorney",
+                              "capital",
+                              "cases",
+                              "court"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5454545454545454,
+                        "terms": [
+                              "constitutional",
+                              "constitution",
+                              "has",
+                              "ally",
+                              "attorney",
+                              "capital",
+                              "cases",
+                              "court",
+                              "deficient",
+                              "e"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6454545454545454,
+                        "terms": [
+                              "constitutional",
+                              "constitution",
+                              "has",
+                              "ally",
+                              "attorney",
+                              "capital",
+                              "cases",
+                              "court",
+                              "deficient",
+                              "e",
+                              "egregious",
+                              "error"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7454545454545454,
+                        "terms": [
+                              "constitutional",
+                              "constitution",
+                              "has",
+                              "ally",
+                              "attorney",
+                              "capital",
+                              "cases",
+                              "court",
+                              "deficient",
+                              "e",
+                              "egregious",
+                              "error",
+                              "g",
+                              "hesitated",
+                              "particularly"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8454545454545453,
+                        "terms": [
+                              "constitutional",
+                              "constitution",
+                              "has",
+                              "ally",
+                              "attorney",
+                              "capital",
+                              "cases",
+                              "court",
+                              "deficient",
+                              "e",
+                              "egregious",
+                              "error",
+                              "g",
+                              "hesitated",
+                              "particularly",
+                              "performance",
+                              "rendered"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9454545454545453,
+                        "terms": [
+                              "constitutional",
+                              "constitution",
+                              "has",
+                              "ally",
+                              "attorney",
+                              "capital",
+                              "cases",
+                              "court",
+                              "deficient",
+                              "e",
+                              "egregious",
+                              "error",
+                              "g",
+                              "hesitated",
+                              "particularly",
+                              "performance",
+                              "rendered",
+                              "reverse",
+                              "see"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "constitutional",
+                              "constitution",
+                              "has",
+                              "ally",
+                              "attorney",
+                              "capital",
+                              "cases",
+                              "court",
+                              "deficient",
+                              "e",
+                              "egregious",
+                              "error",
+                              "g",
+                              "hesitated",
+                              "particularly",
+                              "performance",
+                              "rendered",
+                              "reverse",
+                              "see",
+                              "summarily",
+                              "tainted"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "constitutional",
+                              "constitution",
+                              "has",
+                              "ally",
+                              "attorney",
+                              "capital",
+                              "cases",
+                              "court",
+                              "deficient",
+                              "e",
+                              "egregious",
+                              "error",
+                              "g",
+                              "hesitated",
+                              "particularly",
+                              "performance",
+                              "rendered",
+                              "reverse",
+                              "see",
+                              "summarily",
+                              "tainted",
+                              "where"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,181 @@
+{
+      "auto_generated_queries": {
+            "topic": 91,
+            "query": [
+                  {
+                        "proportion": 0.15263157894736842,
+                        "terms": [
+                              "term"
+                        ]
+                  },
+                  {
+                        "proportion": 0.25263157894736843,
+                        "terms": [
+                              "term",
+                              "guarantees",
+                              "im"
+                        ]
+                  },
+                  {
+                        "proportion": 0.3526315789473684,
+                        "terms": [
+                              "term",
+                              "guarantees",
+                              "im",
+                              "posed",
+                              "sel"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4526315789473684,
+                        "terms": [
+                              "term",
+                              "guarantees",
+                              "im",
+                              "posed",
+                              "sel",
+                              "coun",
+                              "indigent"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5526315789473684,
+                        "terms": [
+                              "term",
+                              "guarantees",
+                              "im",
+                              "posed",
+                              "sel",
+                              "coun",
+                              "indigent",
+                              "sixth",
+                              "appointed"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6526315789473683,
+                        "terms": [
+                              "term",
+                              "guarantees",
+                              "im",
+                              "posed",
+                              "sel",
+                              "coun",
+                              "indigent",
+                              "sixth",
+                              "appointed",
+                              "imprisonment",
+                              "criminal"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7526315789473683,
+                        "terms": [
+                              "term",
+                              "guarantees",
+                              "im",
+                              "posed",
+                              "sel",
+                              "coun",
+                              "indigent",
+                              "sixth",
+                              "appointed",
+                              "imprisonment",
+                              "criminal",
+                              "proceedings",
+                              "federal"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8526315789473683,
+                        "terms": [
+                              "term",
+                              "guarantees",
+                              "im",
+                              "posed",
+                              "sel",
+                              "coun",
+                              "indigent",
+                              "sixth",
+                              "appointed",
+                              "imprisonment",
+                              "criminal",
+                              "proceedings",
+                              "federal",
+                              "amendment",
+                              "defendants"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9526315789473683,
+                        "terms": [
+                              "term",
+                              "guarantees",
+                              "im",
+                              "posed",
+                              "sel",
+                              "coun",
+                              "indigent",
+                              "sixth",
+                              "appointed",
+                              "imprisonment",
+                              "criminal",
+                              "proceedings",
+                              "federal",
+                              "amendment",
+                              "defendants",
+                              "case",
+                              "state"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "term",
+                              "guarantees",
+                              "im",
+                              "posed",
+                              "sel",
+                              "coun",
+                              "indigent",
+                              "sixth",
+                              "appointed",
+                              "imprisonment",
+                              "criminal",
+                              "proceedings",
+                              "federal",
+                              "amendment",
+                              "defendants",
+                              "case",
+                              "state",
+                              "any",
+                              "which"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "term",
+                              "guarantees",
+                              "im",
+                              "posed",
+                              "sel",
+                              "coun",
+                              "indigent",
+                              "sixth",
+                              "appointed",
+                              "imprisonment",
+                              "criminal",
+                              "proceedings",
+                              "federal",
+                              "amendment",
+                              "defendants",
+                              "case",
+                              "state",
+                              "any",
+                              "which"
+                        ]
+                  }
+            ]
+      }
+}

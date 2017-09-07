@@ -1,0 +1,197 @@
+{
+      "auto_generated_queries": {
+            "topic": 60,
+            "query": [
+                  {
+                        "proportion": 0.14545454545454545,
+                        "terms": [
+                              "4"
+                        ]
+                  },
+                  {
+                        "proportion": 0.24545454545454545,
+                        "terms": [
+                              "4",
+                              "5",
+                              "act",
+                              "after"
+                        ]
+                  },
+                  {
+                        "proportion": 0.34545454545454546,
+                        "terms": [
+                              "4",
+                              "5",
+                              "act",
+                              "after",
+                              "b",
+                              "completed"
+                        ]
+                  },
+                  {
+                        "proportion": 0.44545454545454544,
+                        "terms": [
+                              "4",
+                              "5",
+                              "act",
+                              "after",
+                              "b",
+                              "completed",
+                              "court",
+                              "coverage"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5454545454545454,
+                        "terms": [
+                              "4",
+                              "5",
+                              "act",
+                              "after",
+                              "b",
+                              "completed",
+                              "court",
+                              "coverage",
+                              "formula",
+                              "held"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6454545454545454,
+                        "terms": [
+                              "4",
+                              "5",
+                              "act",
+                              "after",
+                              "b",
+                              "completed",
+                              "court",
+                              "coverage",
+                              "formula",
+                              "held",
+                              "here",
+                              "longer"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7454545454545454,
+                        "terms": [
+                              "4",
+                              "5",
+                              "act",
+                              "after",
+                              "b",
+                              "completed",
+                              "court",
+                              "coverage",
+                              "formula",
+                              "held",
+                              "here",
+                              "longer",
+                              "may",
+                              "preclearance",
+                              "process"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8454545454545453,
+                        "terms": [
+                              "4",
+                              "5",
+                              "act",
+                              "after",
+                              "b",
+                              "completed",
+                              "court",
+                              "coverage",
+                              "formula",
+                              "held",
+                              "here",
+                              "longer",
+                              "may",
+                              "preclearance",
+                              "process",
+                              "redistricting",
+                              "require"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9454545454545453,
+                        "terms": [
+                              "4",
+                              "5",
+                              "act",
+                              "after",
+                              "b",
+                              "completed",
+                              "court",
+                              "coverage",
+                              "formula",
+                              "held",
+                              "here",
+                              "longer",
+                              "may",
+                              "preclearance",
+                              "process",
+                              "redistricting",
+                              "require",
+                              "rights",
+                              "see"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "4",
+                              "5",
+                              "act",
+                              "after",
+                              "b",
+                              "completed",
+                              "court",
+                              "coverage",
+                              "formula",
+                              "held",
+                              "here",
+                              "longer",
+                              "may",
+                              "preclearance",
+                              "process",
+                              "redistricting",
+                              "require",
+                              "rights",
+                              "see",
+                              "under",
+                              "used"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "4",
+                              "5",
+                              "act",
+                              "after",
+                              "b",
+                              "completed",
+                              "court",
+                              "coverage",
+                              "formula",
+                              "held",
+                              "here",
+                              "longer",
+                              "may",
+                              "preclearance",
+                              "process",
+                              "redistricting",
+                              "require",
+                              "rights",
+                              "see",
+                              "under",
+                              "used",
+                              "voting"
+                        ]
+                  }
+            ]
+      }
+}

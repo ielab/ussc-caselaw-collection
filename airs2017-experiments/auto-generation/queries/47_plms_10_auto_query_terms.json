@@ -1,0 +1,170 @@
+{
+      "auto_generated_queries": {
+            "topic": 47,
+            "query": [
+                  {
+                        "proportion": 0.1588235294117647,
+                        "terms": [
+                              "we"
+                        ]
+                  },
+                  {
+                        "proportion": 0.2588235294117647,
+                        "terms": [
+                              "we",
+                              "addressed",
+                              "allowed"
+                        ]
+                  },
+                  {
+                        "proportion": 0.35882352941176465,
+                        "terms": [
+                              "we",
+                              "addressed",
+                              "allowed",
+                              "between",
+                              "brought"
+                        ]
+                  },
+                  {
+                        "proportion": 0.45882352941176463,
+                        "terms": [
+                              "we",
+                              "addressed",
+                              "allowed",
+                              "between",
+                              "brought",
+                              "claims",
+                              "damages"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5588235294117646,
+                        "terms": [
+                              "we",
+                              "addressed",
+                              "allowed",
+                              "between",
+                              "brought",
+                              "claims",
+                              "damages",
+                              "defense"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6588235294117646,
+                        "terms": [
+                              "we",
+                              "addressed",
+                              "allowed",
+                              "between",
+                              "brought",
+                              "claims",
+                              "damages",
+                              "defense",
+                              "equitable",
+                              "laches"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7588235294117646,
+                        "terms": [
+                              "we",
+                              "addressed",
+                              "allowed",
+                              "between",
+                              "brought",
+                              "claims",
+                              "damages",
+                              "defense",
+                              "equitable",
+                              "laches",
+                              "limitations",
+                              "relationship"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8588235294117645,
+                        "terms": [
+                              "we",
+                              "addressed",
+                              "allowed",
+                              "between",
+                              "brought",
+                              "claims",
+                              "damages",
+                              "defense",
+                              "equitable",
+                              "laches",
+                              "limitations",
+                              "relationship",
+                              "return"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9588235294117645,
+                        "terms": [
+                              "we",
+                              "addressed",
+                              "allowed",
+                              "between",
+                              "brought",
+                              "claims",
+                              "damages",
+                              "defense",
+                              "equitable",
+                              "laches",
+                              "limitations",
+                              "relationship",
+                              "return",
+                              "statute",
+                              "subject"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "we",
+                              "addressed",
+                              "allowed",
+                              "between",
+                              "brought",
+                              "claims",
+                              "damages",
+                              "defense",
+                              "equitable",
+                              "laches",
+                              "limitations",
+                              "relationship",
+                              "return",
+                              "statute",
+                              "subject",
+                              "time",
+                              "within"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "we",
+                              "addressed",
+                              "allowed",
+                              "between",
+                              "brought",
+                              "claims",
+                              "damages",
+                              "defense",
+                              "equitable",
+                              "laches",
+                              "limitations",
+                              "relationship",
+                              "return",
+                              "statute",
+                              "subject",
+                              "time",
+                              "within"
+                        ]
+                  }
+            ]
+      }
+}

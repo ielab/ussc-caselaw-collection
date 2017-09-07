@@ -1,0 +1,117 @@
+{
+      "auto_generated_queries": {
+            "topic": 23,
+            "query": [
+                  {
+                        "proportion": 0.1111111111111111,
+                        "terms": [
+                              "evaluating"
+                        ]
+                  },
+                  {
+                        "proportion": 0.2111111111111111,
+                        "terms": [
+                              "evaluating"
+                        ]
+                  },
+                  {
+                        "proportion": 0.3111111111111111,
+                        "terms": [
+                              "evaluating",
+                              "began"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4111111111111111,
+                        "terms": [
+                              "evaluating",
+                              "began",
+                              "deputies"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5111111111111111,
+                        "terms": [
+                              "evaluating",
+                              "began",
+                              "deputies",
+                              "excessive"
+                        ]
+                  },
+                  {
+                        "proportion": 0.611111111111111,
+                        "terms": [
+                              "evaluating",
+                              "began",
+                              "deputies",
+                              "excessive",
+                              "force"
+                        ]
+                  },
+                  {
+                        "proportion": 0.711111111111111,
+                        "terms": [
+                              "evaluating",
+                              "began",
+                              "deputies",
+                              "excessive",
+                              "force",
+                              "used"
+                        ]
+                  },
+                  {
+                        "proportion": 0.811111111111111,
+                        "terms": [
+                              "evaluating",
+                              "began",
+                              "deputies",
+                              "excessive",
+                              "force",
+                              "used",
+                              "whether"
+                        ]
+                  },
+                  {
+                        "proportion": 0.911111111111111,
+                        "terms": [
+                              "evaluating",
+                              "began",
+                              "deputies",
+                              "excessive",
+                              "force",
+                              "used",
+                              "whether",
+                              "under"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "evaluating",
+                              "began",
+                              "deputies",
+                              "excessive",
+                              "force",
+                              "used",
+                              "whether",
+                              "under",
+                              "court"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "evaluating",
+                              "began",
+                              "deputies",
+                              "excessive",
+                              "force",
+                              "used",
+                              "whether",
+                              "under",
+                              "court"
+                        ]
+                  }
+            ]
+      }
+}

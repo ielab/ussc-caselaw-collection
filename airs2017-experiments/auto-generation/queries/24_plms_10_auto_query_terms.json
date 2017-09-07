@@ -1,0 +1,164 @@
+{
+      "auto_generated_queries": {
+            "topic": 24,
+            "query": [
+                  {
+                        "proportion": 0.1625,
+                        "terms": [
+                              "been"
+                        ]
+                  },
+                  {
+                        "proportion": 0.2625,
+                        "terms": [
+                              "been",
+                              "circuit",
+                              "excessive"
+                        ]
+                  },
+                  {
+                        "proportion": 0.36250000000000004,
+                        "terms": [
+                              "been",
+                              "circuit",
+                              "excessive",
+                              "force",
+                              "has"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4625,
+                        "terms": [
+                              "been",
+                              "circuit",
+                              "excessive",
+                              "force",
+                              "has",
+                              "incompatible"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5625,
+                        "terms": [
+                              "been",
+                              "circuit",
+                              "excessive",
+                              "force",
+                              "has",
+                              "incompatible",
+                              "jurisprudence",
+                              "ninth"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6625,
+                        "terms": [
+                              "been",
+                              "circuit",
+                              "excessive",
+                              "force",
+                              "has",
+                              "incompatible",
+                              "jurisprudence",
+                              "ninth",
+                              "our"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7625,
+                        "terms": [
+                              "been",
+                              "circuit",
+                              "excessive",
+                              "force",
+                              "has",
+                              "incompatible",
+                              "jurisprudence",
+                              "ninth",
+                              "our",
+                              "outside",
+                              "provocation"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8624999999999999,
+                        "terms": [
+                              "been",
+                              "circuit",
+                              "excessive",
+                              "force",
+                              "has",
+                              "incompatible",
+                              "jurisprudence",
+                              "ninth",
+                              "our",
+                              "outside",
+                              "provocation",
+                              "ques",
+                              "rule"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9624999999999999,
+                        "terms": [
+                              "been",
+                              "circuit",
+                              "excessive",
+                              "force",
+                              "has",
+                              "incompatible",
+                              "jurisprudence",
+                              "ninth",
+                              "our",
+                              "outside",
+                              "provocation",
+                              "ques",
+                              "rule",
+                              "sharply"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "been",
+                              "circuit",
+                              "excessive",
+                              "force",
+                              "has",
+                              "incompatible",
+                              "jurisprudence",
+                              "ninth",
+                              "our",
+                              "outside",
+                              "provocation",
+                              "ques",
+                              "rule",
+                              "sharply",
+                              "tioned",
+                              "which"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "been",
+                              "circuit",
+                              "excessive",
+                              "force",
+                              "has",
+                              "incompatible",
+                              "jurisprudence",
+                              "ninth",
+                              "our",
+                              "outside",
+                              "provocation",
+                              "ques",
+                              "rule",
+                              "sharply",
+                              "tioned",
+                              "which"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,183 @@
+{
+      "auto_generated_queries": {
+            "topic": 20,
+            "query": [
+                  {
+                        "proportion": 0.15000000000000002,
+                        "terms": [
+                              "colorado"
+                        ]
+                  },
+                  {
+                        "proportion": 0.25,
+                        "terms": [
+                              "colorado",
+                              "exposed",
+                              "madden",
+                              "nelson"
+                        ]
+                  },
+                  {
+                        "proportion": 0.35,
+                        "terms": [
+                              "colorado",
+                              "exposed",
+                              "madden",
+                              "nelson",
+                              "ple"
+                        ]
+                  },
+                  {
+                        "proportion": 0.44999999999999996,
+                        "terms": [
+                              "colorado",
+                              "exposed",
+                              "madden",
+                              "nelson",
+                              "ple",
+                              "princi",
+                              "standard"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5499999999999999,
+                        "terms": [
+                              "colorado",
+                              "exposed",
+                              "madden",
+                              "nelson",
+                              "ple",
+                              "princi",
+                              "standard",
+                              "inquire",
+                              "fundamental"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6499999999999999,
+                        "terms": [
+                              "colorado",
+                              "exposed",
+                              "madden",
+                              "nelson",
+                              "ple",
+                              "princi",
+                              "standard",
+                              "inquire",
+                              "fundamental",
+                              "offensive",
+                              "procedure"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7499999999999999,
+                        "terms": [
+                              "colorado",
+                              "exposed",
+                              "madden",
+                              "nelson",
+                              "ple",
+                              "princi",
+                              "standard",
+                              "inquire",
+                              "fundamental",
+                              "offensive",
+                              "procedure",
+                              "apply",
+                              "argues"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8499999999999999,
+                        "terms": [
+                              "colorado",
+                              "exposed",
+                              "madden",
+                              "nelson",
+                              "ple",
+                              "princi",
+                              "standard",
+                              "inquire",
+                              "fundamental",
+                              "offensive",
+                              "procedure",
+                              "apply",
+                              "argues",
+                              "instead",
+                              "justice"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9499999999999998,
+                        "terms": [
+                              "colorado",
+                              "exposed",
+                              "madden",
+                              "nelson",
+                              "ple",
+                              "princi",
+                              "standard",
+                              "inquire",
+                              "fundamental",
+                              "offensive",
+                              "procedure",
+                              "apply",
+                              "argues",
+                              "instead",
+                              "justice",
+                              "should",
+                              "whether"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "colorado",
+                              "exposed",
+                              "madden",
+                              "nelson",
+                              "ple",
+                              "princi",
+                              "standard",
+                              "inquire",
+                              "fundamental",
+                              "offensive",
+                              "procedure",
+                              "apply",
+                              "argues",
+                              "instead",
+                              "justice",
+                              "should",
+                              "whether",
+                              "were",
+                              "we"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "colorado",
+                              "exposed",
+                              "madden",
+                              "nelson",
+                              "ple",
+                              "princi",
+                              "standard",
+                              "inquire",
+                              "fundamental",
+                              "offensive",
+                              "procedure",
+                              "apply",
+                              "argues",
+                              "instead",
+                              "justice",
+                              "should",
+                              "whether",
+                              "were",
+                              "we",
+                              "from"
+                        ]
+                  }
+            ]
+      }
+}

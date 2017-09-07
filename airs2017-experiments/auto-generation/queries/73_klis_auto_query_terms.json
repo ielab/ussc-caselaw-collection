@@ -1,0 +1,192 @@
+{
+      "auto_generated_queries": {
+            "topic": 73,
+            "query": [
+                  {
+                        "proportion": 0.14761904761904762,
+                        "terms": [
+                              "mens"
+                        ]
+                  },
+                  {
+                        "proportion": 0.24761904761904763,
+                        "terms": [
+                              "mens",
+                              "traditional",
+                              "perez",
+                              "rea"
+                        ]
+                  },
+                  {
+                        "proportion": 0.3476190476190476,
+                        "terms": [
+                              "mens",
+                              "traditional",
+                              "perez",
+                              "rea",
+                              "challenged",
+                              "primarily"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4476190476190476,
+                        "terms": [
+                              "mens",
+                              "traditional",
+                              "perez",
+                              "rea",
+                              "challenged",
+                              "primarily",
+                              "contravenes",
+                              "instruction"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5476190476190476,
+                        "terms": [
+                              "mens",
+                              "traditional",
+                              "perez",
+                              "rea",
+                              "challenged",
+                              "primarily",
+                              "contravenes",
+                              "instruction",
+                              "proof",
+                              "interpreted"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6476190476190475,
+                        "terms": [
+                              "mens",
+                              "traditional",
+                              "perez",
+                              "rea",
+                              "challenged",
+                              "primarily",
+                              "contravenes",
+                              "instruction",
+                              "proof",
+                              "interpreted",
+                              "ground",
+                              "see"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7476190476190475,
+                        "terms": [
+                              "mens",
+                              "traditional",
+                              "perez",
+                              "rea",
+                              "challenged",
+                              "primarily",
+                              "contravenes",
+                              "instruction",
+                              "proof",
+                              "interpreted",
+                              "ground",
+                              "see",
+                              "criminal",
+                              "petition"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8476190476190475,
+                        "terms": [
+                              "mens",
+                              "traditional",
+                              "perez",
+                              "rea",
+                              "challenged",
+                              "primarily",
+                              "contravenes",
+                              "instruction",
+                              "proof",
+                              "interpreted",
+                              "ground",
+                              "see",
+                              "criminal",
+                              "petition",
+                              "require",
+                              "rule"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9476190476190475,
+                        "terms": [
+                              "mens",
+                              "traditional",
+                              "perez",
+                              "rea",
+                              "challenged",
+                              "primarily",
+                              "contravenes",
+                              "instruction",
+                              "proof",
+                              "interpreted",
+                              "ground",
+                              "see",
+                              "criminal",
+                              "petition",
+                              "require",
+                              "rule",
+                              "certiorari",
+                              "statutes"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "mens",
+                              "traditional",
+                              "perez",
+                              "rea",
+                              "challenged",
+                              "primarily",
+                              "contravenes",
+                              "instruction",
+                              "proof",
+                              "interpreted",
+                              "ground",
+                              "see",
+                              "criminal",
+                              "petition",
+                              "require",
+                              "rule",
+                              "certiorari",
+                              "statutes",
+                              "below",
+                              "courts"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "mens",
+                              "traditional",
+                              "perez",
+                              "rea",
+                              "challenged",
+                              "primarily",
+                              "contravenes",
+                              "instruction",
+                              "proof",
+                              "interpreted",
+                              "ground",
+                              "see",
+                              "criminal",
+                              "petition",
+                              "require",
+                              "rule",
+                              "certiorari",
+                              "statutes",
+                              "below",
+                              "courts",
+                              "his"
+                        ]
+                  }
+            ]
+      }
+}

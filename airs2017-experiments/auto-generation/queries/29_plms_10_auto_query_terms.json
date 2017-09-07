@@ -1,0 +1,153 @@
+{
+      "auto_generated_queries": {
+            "topic": 29,
+            "query": [
+                  {
+                        "proportion": 0.17142857142857143,
+                        "terms": [
+                              "sentencing"
+                        ]
+                  },
+                  {
+                        "proportion": 0.27142857142857146,
+                        "terms": [
+                              "sentencing",
+                              "sentence",
+                              "appropriate"
+                        ]
+                  },
+                  {
+                        "proportion": 0.37142857142857144,
+                        "terms": [
+                              "sentencing",
+                              "sentence",
+                              "appropriate",
+                              "consider"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4714285714285714,
+                        "terms": [
+                              "sentencing",
+                              "sentence",
+                              "appropriate",
+                              "consider",
+                              "courts",
+                              "discretion"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5714285714285714,
+                        "terms": [
+                              "sentencing",
+                              "sentence",
+                              "appropriate",
+                              "consider",
+                              "courts",
+                              "discretion",
+                              "enjoyed"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6714285714285714,
+                        "terms": [
+                              "sentencing",
+                              "sentence",
+                              "appropriate",
+                              "consider",
+                              "courts",
+                              "discretion",
+                              "enjoyed",
+                              "have"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7714285714285714,
+                        "terms": [
+                              "sentencing",
+                              "sentence",
+                              "appropriate",
+                              "consider",
+                              "courts",
+                              "discretion",
+                              "enjoyed",
+                              "have",
+                              "information",
+                              "long"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8714285714285713,
+                        "terms": [
+                              "sentencing",
+                              "sentence",
+                              "appropriate",
+                              "consider",
+                              "courts",
+                              "discretion",
+                              "enjoyed",
+                              "have",
+                              "information",
+                              "long",
+                              "may"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9714285714285713,
+                        "terms": [
+                              "sentencing",
+                              "sentence",
+                              "appropriate",
+                              "consider",
+                              "courts",
+                              "discretion",
+                              "enjoyed",
+                              "have",
+                              "information",
+                              "long",
+                              "may",
+                              "setting",
+                              "sort"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "sentencing",
+                              "sentence",
+                              "appropriate",
+                              "consider",
+                              "courts",
+                              "discretion",
+                              "enjoyed",
+                              "have",
+                              "information",
+                              "long",
+                              "may",
+                              "setting",
+                              "sort",
+                              "when"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "sentencing",
+                              "sentence",
+                              "appropriate",
+                              "consider",
+                              "courts",
+                              "discretion",
+                              "enjoyed",
+                              "have",
+                              "information",
+                              "long",
+                              "may",
+                              "setting",
+                              "sort",
+                              "when"
+                        ]
+                  }
+            ]
+      }
+}

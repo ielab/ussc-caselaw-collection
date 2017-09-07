@@ -1,0 +1,153 @@
+{
+      "auto_generated_queries": {
+            "topic": 49,
+            "query": [
+                  {
+                        "proportion": 0.17142857142857143,
+                        "terms": [
+                              "court"
+                        ]
+                  },
+                  {
+                        "proportion": 0.27142857142857146,
+                        "terms": [
+                              "court",
+                              "denied",
+                              "district"
+                        ]
+                  },
+                  {
+                        "proportion": 0.37142857142857144,
+                        "terms": [
+                              "court",
+                              "denied",
+                              "district",
+                              "facts"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4714285714285714,
+                        "terms": [
+                              "court",
+                              "denied",
+                              "district",
+                              "facts",
+                              "favorable",
+                              "judgment"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5714285714285714,
+                        "terms": [
+                              "court",
+                              "denied",
+                              "district",
+                              "facts",
+                              "favorable",
+                              "judgment",
+                              "light"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6714285714285714,
+                        "terms": [
+                              "court",
+                              "denied",
+                              "district",
+                              "facts",
+                              "favorable",
+                              "judgment",
+                              "light",
+                              "mary"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7714285714285714,
+                        "terms": [
+                              "court",
+                              "denied",
+                              "district",
+                              "facts",
+                              "favorable",
+                              "judgment",
+                              "light",
+                              "mary",
+                              "most",
+                              "motions"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8714285714285713,
+                        "terms": [
+                              "court",
+                              "denied",
+                              "district",
+                              "facts",
+                              "favorable",
+                              "judgment",
+                              "light",
+                              "mary",
+                              "most",
+                              "motions",
+                              "officers"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9714285714285713,
+                        "terms": [
+                              "court",
+                              "denied",
+                              "district",
+                              "facts",
+                              "favorable",
+                              "judgment",
+                              "light",
+                              "mary",
+                              "most",
+                              "motions",
+                              "officers",
+                              "paulys",
+                              "sum"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "court",
+                              "denied",
+                              "district",
+                              "facts",
+                              "favorable",
+                              "judgment",
+                              "light",
+                              "mary",
+                              "most",
+                              "motions",
+                              "officers",
+                              "paulys",
+                              "sum",
+                              "viewed"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "court",
+                              "denied",
+                              "district",
+                              "facts",
+                              "favorable",
+                              "judgment",
+                              "light",
+                              "mary",
+                              "most",
+                              "motions",
+                              "officers",
+                              "paulys",
+                              "sum",
+                              "viewed"
+                        ]
+                  }
+            ]
+      }
+}

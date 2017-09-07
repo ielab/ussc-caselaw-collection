@@ -1,0 +1,117 @@
+{
+      "auto_generated_queries": {
+            "topic": 65,
+            "query": [
+                  {
+                        "proportion": 0.1111111111111111,
+                        "terms": [
+                              "rippo"
+                        ]
+                  },
+                  {
+                        "proportion": 0.2111111111111111,
+                        "terms": [
+                              "rippo"
+                        ]
+                  },
+                  {
+                        "proportion": 0.3111111111111111,
+                        "terms": [
+                              "rippo",
+                              "camouflaging"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4111111111111111,
+                        "terms": [
+                              "rippo",
+                              "camouflaging",
+                              "likened"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5111111111111111,
+                        "terms": [
+                              "rippo",
+                              "camouflaging",
+                              "likened",
+                              "bias"
+                        ]
+                  },
+                  {
+                        "proportion": 0.611111111111111,
+                        "terms": [
+                              "rippo",
+                              "camouflaging",
+                              "likened",
+                              "bias",
+                              "theory"
+                        ]
+                  },
+                  {
+                        "proportion": 0.711111111111111,
+                        "terms": [
+                              "rippo",
+                              "camouflaging",
+                              "likened",
+                              "bias",
+                              "theory",
+                              "discussed"
+                        ]
+                  },
+                  {
+                        "proportion": 0.811111111111111,
+                        "terms": [
+                              "rippo",
+                              "camouflaging",
+                              "likened",
+                              "bias",
+                              "theory",
+                              "discussed",
+                              "claim"
+                        ]
+                  },
+                  {
+                        "proportion": 0.911111111111111,
+                        "terms": [
+                              "rippo",
+                              "camouflaging",
+                              "likened",
+                              "bias",
+                              "theory",
+                              "discussed",
+                              "claim",
+                              "s"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "rippo",
+                              "camouflaging",
+                              "likened",
+                              "bias",
+                              "theory",
+                              "discussed",
+                              "claim",
+                              "s",
+                              "court"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "rippo",
+                              "camouflaging",
+                              "likened",
+                              "bias",
+                              "theory",
+                              "discussed",
+                              "claim",
+                              "s",
+                              "court"
+                        ]
+                  }
+            ]
+      }
+}

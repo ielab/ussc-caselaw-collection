@@ -1,0 +1,119 @@
+{
+      "auto_generated_queries": {
+            "topic": 32,
+            "query": [
+                  {
+                        "proportion": 0.1,
+                        "terms": [
+                              "commercial"
+                        ]
+                  },
+                  {
+                        "proportion": 0.2,
+                        "terms": [
+                              "commercial"
+                        ]
+                  },
+                  {
+                        "proportion": 0.30000000000000004,
+                        "terms": [
+                              "commercial",
+                              "518"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4,
+                        "terms": [
+                              "commercial",
+                              "518",
+                              "valid",
+                              "speech"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5,
+                        "terms": [
+                              "commercial",
+                              "518",
+                              "valid",
+                              "speech"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6,
+                        "terms": [
+                              "commercial",
+                              "518",
+                              "valid",
+                              "speech",
+                              "dispute"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7,
+                        "terms": [
+                              "commercial",
+                              "518",
+                              "valid",
+                              "speech",
+                              "dispute",
+                              "regulation"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7999999999999999,
+                        "terms": [
+                              "commercial",
+                              "518",
+                              "valid",
+                              "speech",
+                              "dispute",
+                              "regulation",
+                              "question"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8999999999999999,
+                        "terms": [
+                              "commercial",
+                              "518",
+                              "valid",
+                              "speech",
+                              "dispute",
+                              "regulation",
+                              "question",
+                              "parties"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9999999999999999,
+                        "terms": [
+                              "commercial",
+                              "518",
+                              "valid",
+                              "speech",
+                              "dispute",
+                              "regulation",
+                              "question",
+                              "parties",
+                              "whether"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "commercial",
+                              "518",
+                              "valid",
+                              "speech",
+                              "dispute",
+                              "regulation",
+                              "question",
+                              "parties",
+                              "whether",
+                              "under"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,153 @@
+{
+      "auto_generated_queries": {
+            "topic": 97,
+            "query": [
+                  {
+                        "proportion": 0.17142857142857143,
+                        "terms": [
+                              "abroad"
+                        ]
+                  },
+                  {
+                        "proportion": 0.27142857142857146,
+                        "terms": [
+                              "abroad",
+                              "documents",
+                              "generally"
+                        ]
+                  },
+                  {
+                        "proportion": 0.37142857142857144,
+                        "terms": [
+                              "abroad",
+                              "documents",
+                              "generally",
+                              "ibid"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4714285714285714,
+                        "terms": [
+                              "abroad",
+                              "documents",
+                              "generally",
+                              "ibid",
+                              "improve",
+                              "multilateral"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5714285714285714,
+                        "terms": [
+                              "abroad",
+                              "documents",
+                              "generally",
+                              "ibid",
+                              "improve",
+                              "multilateral",
+                              "preamble"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6714285714285714,
+                        "terms": [
+                              "abroad",
+                              "documents",
+                              "generally",
+                              "ibid",
+                              "improve",
+                              "multilateral",
+                              "preamble",
+                              "process"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7714285714285714,
+                        "terms": [
+                              "abroad",
+                              "documents",
+                              "generally",
+                              "ibid",
+                              "improve",
+                              "multilateral",
+                              "preamble",
+                              "process",
+                              "purpose",
+                              "see"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8714285714285713,
+                        "terms": [
+                              "abroad",
+                              "documents",
+                              "generally",
+                              "ibid",
+                              "improve",
+                              "multilateral",
+                              "preamble",
+                              "process",
+                              "purpose",
+                              "see",
+                              "serving"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9714285714285713,
+                        "terms": [
+                              "abroad",
+                              "documents",
+                              "generally",
+                              "ibid",
+                              "improve",
+                              "multilateral",
+                              "preamble",
+                              "process",
+                              "purpose",
+                              "see",
+                              "serving",
+                              "simplify",
+                              "standardize"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "abroad",
+                              "documents",
+                              "generally",
+                              "ibid",
+                              "improve",
+                              "multilateral",
+                              "preamble",
+                              "process",
+                              "purpose",
+                              "see",
+                              "serving",
+                              "simplify",
+                              "standardize",
+                              "treaty"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "abroad",
+                              "documents",
+                              "generally",
+                              "ibid",
+                              "improve",
+                              "multilateral",
+                              "preamble",
+                              "process",
+                              "purpose",
+                              "see",
+                              "serving",
+                              "simplify",
+                              "standardize",
+                              "treaty"
+                        ]
+                  }
+            ]
+      }
+}

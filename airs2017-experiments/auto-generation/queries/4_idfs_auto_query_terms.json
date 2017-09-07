@@ -1,0 +1,238 @@
+{
+      "auto_generated_queries": {
+            "topic": 4,
+            "query": [
+                  {
+                        "proportion": 0.13333333333333333,
+                        "terms": [
+                              "unconscionability"
+                        ]
+                  },
+                  {
+                        "proportion": 0.23333333333333334,
+                        "terms": [
+                              "unconscionability",
+                              "arbitration",
+                              "arbitrate",
+                              "ing"
+                        ]
+                  },
+                  {
+                        "proportion": 0.33333333333333337,
+                        "terms": [
+                              "unconscionability",
+                              "arbitration",
+                              "arbitrate",
+                              "ing",
+                              "treatment",
+                              "fraud",
+                              "defenses"
+                        ]
+                  },
+                  {
+                        "proportion": 0.43333333333333335,
+                        "terms": [
+                              "unconscionability",
+                              "arbitration",
+                              "arbitrate",
+                              "ing",
+                              "treatment",
+                              "fraud",
+                              "defenses",
+                              "derive",
+                              "invalidate",
+                              "agreement",
+                              "statutory"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5333333333333333,
+                        "terms": [
+                              "unconscionability",
+                              "arbitration",
+                              "arbitrate",
+                              "ing",
+                              "treatment",
+                              "fraud",
+                              "defenses",
+                              "derive",
+                              "invalidate",
+                              "agreement",
+                              "statutory",
+                              "contract",
+                              "equal"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6333333333333333,
+                        "terms": [
+                              "unconscionability",
+                              "arbitration",
+                              "arbitrate",
+                              "ing",
+                              "treatment",
+                              "fraud",
+                              "defenses",
+                              "derive",
+                              "invalidate",
+                              "agreement",
+                              "statutory",
+                              "contract",
+                              "equal",
+                              "based",
+                              "principle",
+                              "legal"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7333333333333333,
+                        "terms": [
+                              "unconscionability",
+                              "arbitration",
+                              "arbitrate",
+                              "ing",
+                              "treatment",
+                              "fraud",
+                              "defenses",
+                              "derive",
+                              "invalidate",
+                              "agreement",
+                              "statutory",
+                              "contract",
+                              "equal",
+                              "based",
+                              "principle",
+                              "legal",
+                              "like",
+                              "establishes",
+                              "mean"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8333333333333333,
+                        "terms": [
+                              "unconscionability",
+                              "arbitration",
+                              "arbitrate",
+                              "ing",
+                              "treatment",
+                              "fraud",
+                              "defenses",
+                              "derive",
+                              "invalidate",
+                              "agreement",
+                              "statutory",
+                              "contract",
+                              "equal",
+                              "based",
+                              "principle",
+                              "legal",
+                              "like",
+                              "establishes",
+                              "mean",
+                              "provision",
+                              "applicable",
+                              "apply"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9333333333333332,
+                        "terms": [
+                              "unconscionability",
+                              "arbitration",
+                              "arbitrate",
+                              "ing",
+                              "treatment",
+                              "fraud",
+                              "defenses",
+                              "derive",
+                              "invalidate",
+                              "agreement",
+                              "statutory",
+                              "contract",
+                              "equal",
+                              "based",
+                              "principle",
+                              "legal",
+                              "like",
+                              "establishes",
+                              "mean",
+                              "provision",
+                              "applicable",
+                              "apply",
+                              "issue",
+                              "rules",
+                              "fact"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "unconscionability",
+                              "arbitration",
+                              "arbitrate",
+                              "ing",
+                              "treatment",
+                              "fraud",
+                              "defenses",
+                              "derive",
+                              "invalidate",
+                              "agreement",
+                              "statutory",
+                              "contract",
+                              "equal",
+                              "based",
+                              "principle",
+                              "legal",
+                              "like",
+                              "establishes",
+                              "mean",
+                              "provision",
+                              "applicable",
+                              "apply",
+                              "issue",
+                              "rules",
+                              "fact",
+                              "only",
+                              "generally",
+                              "may"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "unconscionability",
+                              "arbitration",
+                              "arbitrate",
+                              "ing",
+                              "treatment",
+                              "fraud",
+                              "defenses",
+                              "derive",
+                              "invalidate",
+                              "agreement",
+                              "statutory",
+                              "contract",
+                              "equal",
+                              "based",
+                              "principle",
+                              "legal",
+                              "like",
+                              "establishes",
+                              "mean",
+                              "provision",
+                              "applicable",
+                              "apply",
+                              "issue",
+                              "rules",
+                              "fact",
+                              "only",
+                              "generally",
+                              "may",
+                              "from",
+                              "court"
+                        ]
+                  }
+            ]
+      }
+}

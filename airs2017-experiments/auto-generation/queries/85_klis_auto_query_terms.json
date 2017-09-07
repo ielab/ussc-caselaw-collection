@@ -1,0 +1,208 @@
+{
+      "auto_generated_queries": {
+            "topic": 85,
+            "query": [
+                  {
+                        "proportion": 0.14166666666666666,
+                        "terms": [
+                              "formed"
+                        ]
+                  },
+                  {
+                        "proportion": 0.24166666666666667,
+                        "terms": [
+                              "formed",
+                              "well",
+                              "developed",
+                              "light"
+                        ]
+                  },
+                  {
+                        "proportion": 0.3416666666666667,
+                        "terms": [
+                              "formed",
+                              "well",
+                              "developed",
+                              "light",
+                              "responsibility",
+                              "children"
+                        ]
+                  },
+                  {
+                        "proportion": 0.44166666666666665,
+                        "terms": [
+                              "formed",
+                              "well",
+                              "developed",
+                              "light",
+                              "responsibility",
+                              "children",
+                              "character",
+                              "adults",
+                              "pressure"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5416666666666666,
+                        "terms": [
+                              "formed",
+                              "well",
+                              "developed",
+                              "light",
+                              "responsibility",
+                              "children",
+                              "character",
+                              "adults",
+                              "pressure",
+                              "negative",
+                              "maturity"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6416666666666666,
+                        "terms": [
+                              "formed",
+                              "well",
+                              "developed",
+                              "light",
+                              "responsibility",
+                              "children",
+                              "character",
+                              "adults",
+                              "pressure",
+                              "negative",
+                              "maturity",
+                              "influences",
+                              "traits"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7416666666666666,
+                        "terms": [
+                              "formed",
+                              "well",
+                              "developed",
+                              "light",
+                              "responsibility",
+                              "children",
+                              "character",
+                              "adults",
+                              "pressure",
+                              "negative",
+                              "maturity",
+                              "influences",
+                              "traits",
+                              "sense",
+                              "susceptibility",
+                              "lack"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8416666666666666,
+                        "terms": [
+                              "formed",
+                              "well",
+                              "developed",
+                              "light",
+                              "responsibility",
+                              "children",
+                              "character",
+                              "adults",
+                              "pressure",
+                              "negative",
+                              "maturity",
+                              "influences",
+                              "traits",
+                              "sense",
+                              "susceptibility",
+                              "lack",
+                              "constitutionally",
+                              "different"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9416666666666665,
+                        "terms": [
+                              "formed",
+                              "well",
+                              "developed",
+                              "light",
+                              "responsibility",
+                              "children",
+                              "character",
+                              "adults",
+                              "pressure",
+                              "negative",
+                              "maturity",
+                              "influences",
+                              "traits",
+                              "sense",
+                              "susceptibility",
+                              "lack",
+                              "constitutionally",
+                              "different",
+                              "sentencing",
+                              "purposes",
+                              "outside"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "formed",
+                              "well",
+                              "developed",
+                              "light",
+                              "responsibility",
+                              "children",
+                              "character",
+                              "adults",
+                              "pressure",
+                              "negative",
+                              "maturity",
+                              "influences",
+                              "traits",
+                              "sense",
+                              "susceptibility",
+                              "lack",
+                              "constitutionally",
+                              "different",
+                              "sentencing",
+                              "purposes",
+                              "outside",
+                              "less",
+                              "under"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "formed",
+                              "well",
+                              "developed",
+                              "light",
+                              "responsibility",
+                              "children",
+                              "character",
+                              "adults",
+                              "pressure",
+                              "negative",
+                              "maturity",
+                              "influences",
+                              "traits",
+                              "sense",
+                              "susceptibility",
+                              "lack",
+                              "constitutionally",
+                              "different",
+                              "sentencing",
+                              "purposes",
+                              "outside",
+                              "less",
+                              "under",
+                              "from"
+                        ]
+                  }
+            ]
+      }
+}

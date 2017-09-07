@@ -1,0 +1,153 @@
+{
+      "auto_generated_queries": {
+            "topic": 33,
+            "query": [
+                  {
+                        "proportion": 0.17142857142857143,
+                        "terms": [
+                              "detailed"
+                        ]
+                  },
+                  {
+                        "proportion": 0.27142857142857146,
+                        "terms": [
+                              "detailed",
+                              "disabled",
+                              "intellectually"
+                        ]
+                  },
+                  {
+                        "proportion": 0.37142857142857144,
+                        "terms": [
+                              "detailed",
+                              "disabled",
+                              "intellectually",
+                              "moore"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4714285714285714,
+                        "terms": [
+                              "detailed",
+                              "disabled",
+                              "intellectually",
+                              "moore",
+                              "qualified",
+                              "factfindings"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5714285714285714,
+                        "terms": [
+                              "detailed",
+                              "disabled",
+                              "intellectually",
+                              "moore",
+                              "qualified",
+                              "factfindings",
+                              "habeas"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6714285714285714,
+                        "terms": [
+                              "detailed",
+                              "disabled",
+                              "intellectually",
+                              "moore",
+                              "qualified",
+                              "factfindings",
+                              "habeas",
+                              "made"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7714285714285714,
+                        "terms": [
+                              "detailed",
+                              "disabled",
+                              "intellectually",
+                              "moore",
+                              "qualified",
+                              "factfindings",
+                              "habeas",
+                              "made",
+                              "determined",
+                              "decisions"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8714285714285713,
+                        "terms": [
+                              "detailed",
+                              "disabled",
+                              "intellectually",
+                              "moore",
+                              "qualified",
+                              "factfindings",
+                              "habeas",
+                              "made",
+                              "determined",
+                              "decisions",
+                              "state"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9714285714285713,
+                        "terms": [
+                              "detailed",
+                              "disabled",
+                              "intellectually",
+                              "moore",
+                              "qualified",
+                              "factfindings",
+                              "habeas",
+                              "made",
+                              "determined",
+                              "decisions",
+                              "state",
+                              "s",
+                              "court"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "detailed",
+                              "disabled",
+                              "intellectually",
+                              "moore",
+                              "qualified",
+                              "factfindings",
+                              "habeas",
+                              "made",
+                              "determined",
+                              "decisions",
+                              "state",
+                              "s",
+                              "court",
+                              "under"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "detailed",
+                              "disabled",
+                              "intellectually",
+                              "moore",
+                              "qualified",
+                              "factfindings",
+                              "habeas",
+                              "made",
+                              "determined",
+                              "decisions",
+                              "state",
+                              "s",
+                              "court",
+                              "under"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,203 @@
+{
+      "auto_generated_queries": {
+            "topic": 36,
+            "query": [
+                  {
+                        "proportion": 0.14347826086956522,
+                        "terms": [
+                              "standing"
+                        ]
+                  },
+                  {
+                        "proportion": 0.24347826086956523,
+                        "terms": [
+                              "standing",
+                              "5",
+                              "amount",
+                              "appellants"
+                        ]
+                  },
+                  {
+                        "proportion": 0.34347826086956523,
+                        "terms": [
+                              "standing",
+                              "5",
+                              "amount",
+                              "appellants",
+                              "assert",
+                              "challenge"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4434782608695652,
+                        "terms": [
+                              "standing",
+                              "5",
+                              "amount",
+                              "appellants",
+                              "assert",
+                              "challenge",
+                              "clause",
+                              "costs"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5434782608695652,
+                        "terms": [
+                              "standing",
+                              "5",
+                              "amount",
+                              "appellants",
+                              "assert",
+                              "challenge",
+                              "clause",
+                              "costs",
+                              "e",
+                              "establishment",
+                              "even"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6434782608695652,
+                        "terms": [
+                              "standing",
+                              "5",
+                              "amount",
+                              "appellants",
+                              "assert",
+                              "challenge",
+                              "clause",
+                              "costs",
+                              "e",
+                              "establishment",
+                              "even",
+                              "finding",
+                              "fined"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7434782608695651,
+                        "terms": [
+                              "standing",
+                              "5",
+                              "amount",
+                              "appellants",
+                              "assert",
+                              "challenge",
+                              "clause",
+                              "costs",
+                              "e",
+                              "establishment",
+                              "even",
+                              "finding",
+                              "fined",
+                              "g",
+                              "had"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8434782608695651,
+                        "terms": [
+                              "standing",
+                              "5",
+                              "amount",
+                              "appellants",
+                              "assert",
+                              "challenge",
+                              "clause",
+                              "costs",
+                              "e",
+                              "establishment",
+                              "even",
+                              "finding",
+                              "fined",
+                              "g",
+                              "had",
+                              "injury",
+                              "loss",
+                              "money"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9434782608695651,
+                        "terms": [
+                              "standing",
+                              "5",
+                              "amount",
+                              "appellants",
+                              "assert",
+                              "challenge",
+                              "clause",
+                              "costs",
+                              "e",
+                              "establishment",
+                              "even",
+                              "finding",
+                              "fined",
+                              "g",
+                              "had",
+                              "injury",
+                              "loss",
+                              "money",
+                              "ordinarily",
+                              "plus"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "standing",
+                              "5",
+                              "amount",
+                              "appellants",
+                              "assert",
+                              "challenge",
+                              "clause",
+                              "costs",
+                              "e",
+                              "establishment",
+                              "even",
+                              "finding",
+                              "fined",
+                              "g",
+                              "had",
+                              "injury",
+                              "loss",
+                              "money",
+                              "ordinarily",
+                              "plus",
+                              "purposes",
+                              "see"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "standing",
+                              "5",
+                              "amount",
+                              "appellants",
+                              "assert",
+                              "challenge",
+                              "clause",
+                              "costs",
+                              "e",
+                              "establishment",
+                              "even",
+                              "finding",
+                              "fined",
+                              "g",
+                              "had",
+                              "injury",
+                              "loss",
+                              "money",
+                              "ordinarily",
+                              "plus",
+                              "purposes",
+                              "see",
+                              "small"
+                        ]
+                  }
+            ]
+      }
+}

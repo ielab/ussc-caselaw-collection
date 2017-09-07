@@ -1,0 +1,214 @@
+{
+      "auto_generated_queries": {
+            "topic": 44,
+            "query": [
+                  {
+                        "proportion": 0.14,
+                        "terms": [
+                              "person"
+                        ]
+                  },
+                  {
+                        "proportion": 0.24000000000000002,
+                        "terms": [
+                              "person",
+                              "expan",
+                              "fvra",
+                              "bunch"
+                        ]
+                  },
+                  {
+                        "proportion": 0.34,
+                        "terms": [
+                              "person",
+                              "expan",
+                              "fvra",
+                              "bunch",
+                              "sive",
+                              "encompass",
+                              "anyone"
+                        ]
+                  },
+                  {
+                        "proportion": 0.44000000000000006,
+                        "terms": [
+                              "person",
+                              "expan",
+                              "fvra",
+                              "bunch",
+                              "sive",
+                              "encompass",
+                              "anyone",
+                              "start",
+                              "assistants"
+                        ]
+                  },
+                  {
+                        "proportion": 0.54,
+                        "terms": [
+                              "person",
+                              "expan",
+                              "fvra",
+                              "bunch",
+                              "sive",
+                              "encompass",
+                              "anyone",
+                              "start",
+                              "assistants",
+                              "performs",
+                              "important",
+                              "word"
+                        ]
+                  },
+                  {
+                        "proportion": 0.64,
+                        "terms": [
+                              "person",
+                              "expan",
+                              "fvra",
+                              "bunch",
+                              "sive",
+                              "encompass",
+                              "anyone",
+                              "start",
+                              "assistants",
+                              "performs",
+                              "important",
+                              "word",
+                              "naturally",
+                              "duties"
+                        ]
+                  },
+                  {
+                        "proportion": 0.74,
+                        "terms": [
+                              "person",
+                              "expan",
+                              "fvra",
+                              "bunch",
+                              "sive",
+                              "encompass",
+                              "anyone",
+                              "start",
+                              "assistants",
+                              "performs",
+                              "important",
+                              "word",
+                              "naturally",
+                              "duties",
+                              "meaning",
+                              "can"
+                        ]
+                  },
+                  {
+                        "proportion": 0.84,
+                        "terms": [
+                              "person",
+                              "expan",
+                              "fvra",
+                              "bunch",
+                              "sive",
+                              "encompass",
+                              "anyone",
+                              "start",
+                              "assistants",
+                              "performs",
+                              "important",
+                              "word",
+                              "naturally",
+                              "duties",
+                              "meaning",
+                              "can",
+                              "first",
+                              "who",
+                              "only"
+                        ]
+                  },
+                  {
+                        "proportion": 0.94,
+                        "terms": [
+                              "person",
+                              "expan",
+                              "fvra",
+                              "bunch",
+                              "sive",
+                              "encompass",
+                              "anyone",
+                              "start",
+                              "assistants",
+                              "performs",
+                              "important",
+                              "word",
+                              "naturally",
+                              "duties",
+                              "meaning",
+                              "can",
+                              "first",
+                              "who",
+                              "only",
+                              "see",
+                              "may"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "person",
+                              "expan",
+                              "fvra",
+                              "bunch",
+                              "sive",
+                              "encompass",
+                              "anyone",
+                              "start",
+                              "assistants",
+                              "performs",
+                              "important",
+                              "word",
+                              "naturally",
+                              "duties",
+                              "meaning",
+                              "can",
+                              "first",
+                              "who",
+                              "only",
+                              "see",
+                              "may",
+                              "has",
+                              "under",
+                              "acting"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "person",
+                              "expan",
+                              "fvra",
+                              "bunch",
+                              "sive",
+                              "encompass",
+                              "anyone",
+                              "start",
+                              "assistants",
+                              "performs",
+                              "important",
+                              "word",
+                              "naturally",
+                              "duties",
+                              "meaning",
+                              "can",
+                              "first",
+                              "who",
+                              "only",
+                              "see",
+                              "may",
+                              "has",
+                              "under",
+                              "acting",
+                              "s"
+                        ]
+                  }
+            ]
+      }
+}

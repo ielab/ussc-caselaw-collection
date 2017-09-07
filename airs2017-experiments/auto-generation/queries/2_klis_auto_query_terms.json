@@ -1,0 +1,117 @@
+{
+      "auto_generated_queries": {
+            "topic": 2,
+            "query": [
+                  {
+                        "proportion": 0.1111111111111111,
+                        "terms": [
+                              "venue"
+                        ]
+                  },
+                  {
+                        "proportion": 0.2111111111111111,
+                        "terms": [
+                              "venue"
+                        ]
+                  },
+                  {
+                        "proportion": 0.3111111111111111,
+                        "terms": [
+                              "venue",
+                              "comprehended"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4111111111111111,
+                        "terms": [
+                              "venue",
+                              "comprehended",
+                              "ing"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5111111111111111,
+                        "terms": [
+                              "venue",
+                              "comprehended",
+                              "ing",
+                              "establish"
+                        ]
+                  },
+                  {
+                        "proportion": 0.611111111111111,
+                        "terms": [
+                              "venue",
+                              "comprehended",
+                              "ing",
+                              "establish",
+                              "action"
+                        ]
+                  },
+                  {
+                        "proportion": 0.711111111111111,
+                        "terms": [
+                              "venue",
+                              "comprehended",
+                              "ing",
+                              "establish",
+                              "action",
+                              "clause"
+                        ]
+                  },
+                  {
+                        "proportion": 0.811111111111111,
+                        "terms": [
+                              "venue",
+                              "comprehended",
+                              "ing",
+                              "establish",
+                              "action",
+                              "clause",
+                              "federal"
+                        ]
+                  },
+                  {
+                        "proportion": 0.911111111111111,
+                        "terms": [
+                              "venue",
+                              "comprehended",
+                              "ing",
+                              "establish",
+                              "action",
+                              "clause",
+                              "federal",
+                              "court"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "venue",
+                              "comprehended",
+                              "ing",
+                              "establish",
+                              "action",
+                              "clause",
+                              "federal",
+                              "court",
+                              "we"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "venue",
+                              "comprehended",
+                              "ing",
+                              "establish",
+                              "action",
+                              "clause",
+                              "federal",
+                              "court",
+                              "we"
+                        ]
+                  }
+            ]
+      }
+}

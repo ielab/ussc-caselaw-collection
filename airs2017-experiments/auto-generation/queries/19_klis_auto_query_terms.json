@@ -1,0 +1,112 @@
+{
+      "auto_generated_queries": {
+            "topic": 19,
+            "query": [
+                  {
+                        "proportion": 0.125,
+                        "terms": [
+                              "familiar"
+                        ]
+                  },
+                  {
+                        "proportion": 0.225,
+                        "terms": [
+                              "familiar"
+                        ]
+                  },
+                  {
+                        "proportion": 0.325,
+                        "terms": [
+                              "familiar",
+                              "process"
+                        ]
+                  },
+                  {
+                        "proportion": 0.42500000000000004,
+                        "terms": [
+                              "familiar",
+                              "process",
+                              "inspection"
+                        ]
+                  },
+                  {
+                        "proportion": 0.525,
+                        "terms": [
+                              "familiar",
+                              "process",
+                              "inspection",
+                              "instructed"
+                        ]
+                  },
+                  {
+                        "proportion": 0.625,
+                        "terms": [
+                              "familiar",
+                              "process",
+                              "inspection",
+                              "instructed",
+                              "procedural"
+                        ]
+                  },
+                  {
+                        "proportion": 0.725,
+                        "terms": [
+                              "familiar",
+                              "process",
+                              "inspection",
+                              "instructed",
+                              "procedural"
+                        ]
+                  },
+                  {
+                        "proportion": 0.825,
+                        "terms": [
+                              "familiar",
+                              "process",
+                              "inspection",
+                              "instructed",
+                              "procedural",
+                              "due"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9249999999999999,
+                        "terms": [
+                              "familiar",
+                              "process",
+                              "inspection",
+                              "instructed",
+                              "procedural",
+                              "due",
+                              "governs"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "familiar",
+                              "process",
+                              "inspection",
+                              "instructed",
+                              "procedural",
+                              "due",
+                              "governs",
+                              "cases"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "familiar",
+                              "process",
+                              "inspection",
+                              "instructed",
+                              "procedural",
+                              "due",
+                              "governs",
+                              "cases"
+                        ]
+                  }
+            ]
+      }
+}

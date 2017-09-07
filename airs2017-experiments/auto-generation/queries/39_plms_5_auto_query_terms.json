@@ -1,0 +1,108 @@
+{
+      "auto_generated_queries": {
+            "topic": 39,
+            "query": [
+                  {
+                        "proportion": 0.14285714285714285,
+                        "terms": [
+                              "copyright"
+                        ]
+                  },
+                  {
+                        "proportion": 0.24285714285714285,
+                        "terms": [
+                              "copyright"
+                        ]
+                  },
+                  {
+                        "proportion": 0.34285714285714286,
+                        "terms": [
+                              "copyright",
+                              "ownership"
+                        ]
+                  },
+                  {
+                        "proportion": 0.44285714285714284,
+                        "terms": [
+                              "copyright",
+                              "ownership",
+                              "infringement"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5428571428571428,
+                        "terms": [
+                              "copyright",
+                              "ownership",
+                              "infringement",
+                              "element"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6428571428571428,
+                        "terms": [
+                              "copyright",
+                              "ownership",
+                              "infringement",
+                              "element"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7428571428571428,
+                        "terms": [
+                              "copyright",
+                              "ownership",
+                              "infringement",
+                              "element",
+                              "valid"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8428571428571427,
+                        "terms": [
+                              "copyright",
+                              "ownership",
+                              "infringement",
+                              "element",
+                              "valid",
+                              "first"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9428571428571427,
+                        "terms": [
+                              "copyright",
+                              "ownership",
+                              "infringement",
+                              "element",
+                              "valid",
+                              "first"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "copyright",
+                              "ownership",
+                              "infringement",
+                              "element",
+                              "valid",
+                              "first",
+                              "claim"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "copyright",
+                              "ownership",
+                              "infringement",
+                              "element",
+                              "valid",
+                              "first",
+                              "claim"
+                        ]
+                  }
+            ]
+      }
+}

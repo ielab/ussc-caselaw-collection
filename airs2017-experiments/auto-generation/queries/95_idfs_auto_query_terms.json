@@ -1,0 +1,142 @@
+{
+      "auto_generated_queries": {
+            "topic": 95,
+            "query": [
+                  {
+                        "proportion": 0.18333333333333335,
+                        "terms": [
+                              "1400"
+                        ]
+                  },
+                  {
+                        "proportion": 0.2833333333333333,
+                        "terms": [
+                              "1400",
+                              "domestic",
+                              "incorporation"
+                        ]
+                  },
+                  {
+                        "proportion": 0.3833333333333333,
+                        "terms": [
+                              "1400",
+                              "domestic",
+                              "incorporation",
+                              "resides"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4833333333333333,
+                        "terms": [
+                              "1400",
+                              "domestic",
+                              "incorporation",
+                              "resides",
+                              "corporation"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5833333333333333,
+                        "terms": [
+                              "1400",
+                              "domestic",
+                              "incorporation",
+                              "resides",
+                              "corporation",
+                              "concluded"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6833333333333332,
+                        "terms": [
+                              "1400",
+                              "domestic",
+                              "incorporation",
+                              "resides",
+                              "corporation",
+                              "concluded",
+                              "b"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7833333333333332,
+                        "terms": [
+                              "1400",
+                              "domestic",
+                              "incorporation",
+                              "resides",
+                              "corporation",
+                              "concluded",
+                              "b",
+                              "purposes",
+                              "only"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8833333333333332,
+                        "terms": [
+                              "1400",
+                              "domestic",
+                              "incorporation",
+                              "resides",
+                              "corporation",
+                              "concluded",
+                              "b",
+                              "purposes",
+                              "only",
+                              "its"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9833333333333332,
+                        "terms": [
+                              "1400",
+                              "domestic",
+                              "incorporation",
+                              "resides",
+                              "corporation",
+                              "concluded",
+                              "b",
+                              "purposes",
+                              "only",
+                              "its",
+                              "state"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "1400",
+                              "domestic",
+                              "incorporation",
+                              "resides",
+                              "corporation",
+                              "concluded",
+                              "b",
+                              "purposes",
+                              "only",
+                              "its",
+                              "state",
+                              "court"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "1400",
+                              "domestic",
+                              "incorporation",
+                              "resides",
+                              "corporation",
+                              "concluded",
+                              "b",
+                              "purposes",
+                              "only",
+                              "its",
+                              "state",
+                              "court"
+                        ]
+                  }
+            ]
+      }
+}

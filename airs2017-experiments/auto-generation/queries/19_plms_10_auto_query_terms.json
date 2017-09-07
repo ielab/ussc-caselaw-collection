@@ -1,0 +1,112 @@
+{
+      "auto_generated_queries": {
+            "topic": 19,
+            "query": [
+                  {
+                        "proportion": 0.125,
+                        "terms": [
+                              "cases"
+                        ]
+                  },
+                  {
+                        "proportion": 0.225,
+                        "terms": [
+                              "cases"
+                        ]
+                  },
+                  {
+                        "proportion": 0.325,
+                        "terms": [
+                              "cases",
+                              "due"
+                        ]
+                  },
+                  {
+                        "proportion": 0.42500000000000004,
+                        "terms": [
+                              "cases",
+                              "due",
+                              "familiar"
+                        ]
+                  },
+                  {
+                        "proportion": 0.525,
+                        "terms": [
+                              "cases",
+                              "due",
+                              "familiar",
+                              "governs"
+                        ]
+                  },
+                  {
+                        "proportion": 0.625,
+                        "terms": [
+                              "cases",
+                              "due",
+                              "familiar",
+                              "governs",
+                              "inspection"
+                        ]
+                  },
+                  {
+                        "proportion": 0.725,
+                        "terms": [
+                              "cases",
+                              "due",
+                              "familiar",
+                              "governs",
+                              "inspection"
+                        ]
+                  },
+                  {
+                        "proportion": 0.825,
+                        "terms": [
+                              "cases",
+                              "due",
+                              "familiar",
+                              "governs",
+                              "inspection",
+                              "instructed"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9249999999999999,
+                        "terms": [
+                              "cases",
+                              "due",
+                              "familiar",
+                              "governs",
+                              "inspection",
+                              "instructed",
+                              "procedural"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "cases",
+                              "due",
+                              "familiar",
+                              "governs",
+                              "inspection",
+                              "instructed",
+                              "procedural",
+                              "process"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "cases",
+                              "due",
+                              "familiar",
+                              "governs",
+                              "inspection",
+                              "instructed",
+                              "procedural",
+                              "process"
+                        ]
+                  }
+            ]
+      }
+}

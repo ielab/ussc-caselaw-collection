@@ -1,0 +1,181 @@
+{
+      "auto_generated_queries": {
+            "topic": 88,
+            "query": [
+                  {
+                        "proportion": 0.15263157894736842,
+                        "terms": [
+                              "come"
+                        ]
+                  },
+                  {
+                        "proportion": 0.25263157894736843,
+                        "terms": [
+                              "come",
+                              "legal",
+                              "assistance"
+                        ]
+                  },
+                  {
+                        "proportion": 0.3526315789473684,
+                        "terms": [
+                              "come",
+                              "legal",
+                              "assistance",
+                              "decade",
+                              "iac"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4526315789473684,
+                        "terms": [
+                              "come",
+                              "legal",
+                              "assistance",
+                              "decade",
+                              "iac",
+                              "elmore",
+                              "ineffective"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5526315789473684,
+                        "terms": [
+                              "come",
+                              "legal",
+                              "assistance",
+                              "decade",
+                              "iac",
+                              "elmore",
+                              "ineffective",
+                              "clearly",
+                              "counsel"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6526315789473683,
+                        "terms": [
+                              "come",
+                              "legal",
+                              "assistance",
+                              "decade",
+                              "iac",
+                              "elmore",
+                              "ineffective",
+                              "clearly",
+                              "counsel",
+                              "principles",
+                              "established"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7526315789473683,
+                        "terms": [
+                              "come",
+                              "legal",
+                              "assistance",
+                              "decade",
+                              "iac",
+                              "elmore",
+                              "ineffective",
+                              "clearly",
+                              "counsel",
+                              "principles",
+                              "established",
+                              "govern",
+                              "trial"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8526315789473683,
+                        "terms": [
+                              "come",
+                              "legal",
+                              "assistance",
+                              "decade",
+                              "iac",
+                              "elmore",
+                              "ineffective",
+                              "clearly",
+                              "counsel",
+                              "principles",
+                              "established",
+                              "govern",
+                              "trial",
+                              "claims",
+                              "over"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9526315789473683,
+                        "terms": [
+                              "come",
+                              "legal",
+                              "assistance",
+                              "decade",
+                              "iac",
+                              "elmore",
+                              "ineffective",
+                              "clearly",
+                              "counsel",
+                              "principles",
+                              "established",
+                              "govern",
+                              "trial",
+                              "claims",
+                              "over",
+                              "before",
+                              "s"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "come",
+                              "legal",
+                              "assistance",
+                              "decade",
+                              "iac",
+                              "elmore",
+                              "ineffective",
+                              "clearly",
+                              "counsel",
+                              "principles",
+                              "established",
+                              "govern",
+                              "trial",
+                              "claims",
+                              "over",
+                              "before",
+                              "s",
+                              "were",
+                              "from"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "come",
+                              "legal",
+                              "assistance",
+                              "decade",
+                              "iac",
+                              "elmore",
+                              "ineffective",
+                              "clearly",
+                              "counsel",
+                              "principles",
+                              "established",
+                              "govern",
+                              "trial",
+                              "claims",
+                              "over",
+                              "before",
+                              "s",
+                              "were",
+                              "from"
+                        ]
+                  }
+            ]
+      }
+}

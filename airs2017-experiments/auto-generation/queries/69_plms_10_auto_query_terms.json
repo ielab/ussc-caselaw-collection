@@ -1,0 +1,192 @@
+{
+      "auto_generated_queries": {
+            "topic": 69,
+            "query": [
+                  {
+                        "proportion": 0.14761904761904762,
+                        "terms": [
+                              "addressing"
+                        ]
+                  },
+                  {
+                        "proportion": 0.24761904761904763,
+                        "terms": [
+                              "addressing",
+                              "been",
+                              "clause",
+                              "conduct"
+                        ]
+                  },
+                  {
+                        "proportion": 0.3476190476190476,
+                        "terms": [
+                              "addressing",
+                              "been",
+                              "clause",
+                              "conduct",
+                              "confined",
+                              "connection"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4476190476190476,
+                        "terms": [
+                              "addressing",
+                              "been",
+                              "clause",
+                              "conduct",
+                              "confined",
+                              "connection",
+                              "court",
+                              "decisions"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5476190476190476,
+                        "terms": [
+                              "addressing",
+                              "been",
+                              "clause",
+                              "conduct",
+                              "confined",
+                              "connection",
+                              "court",
+                              "decisions",
+                              "e",
+                              "few"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6476190476190475,
+                        "terms": [
+                              "addressing",
+                              "been",
+                              "clause",
+                              "conduct",
+                              "confined",
+                              "connection",
+                              "court",
+                              "decisions",
+                              "e",
+                              "few",
+                              "from",
+                              "g"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7476190476190475,
+                        "terms": [
+                              "addressing",
+                              "been",
+                              "clause",
+                              "conduct",
+                              "confined",
+                              "connection",
+                              "court",
+                              "decisions",
+                              "e",
+                              "few",
+                              "from",
+                              "g",
+                              "generally",
+                              "have"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8476190476190475,
+                        "terms": [
+                              "addressing",
+                              "been",
+                              "clause",
+                              "conduct",
+                              "confined",
+                              "connection",
+                              "court",
+                              "decisions",
+                              "e",
+                              "few",
+                              "from",
+                              "g",
+                              "generally",
+                              "have",
+                              "laws",
+                              "regulating"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9476190476190475,
+                        "terms": [
+                              "addressing",
+                              "been",
+                              "clause",
+                              "conduct",
+                              "confined",
+                              "connection",
+                              "court",
+                              "decisions",
+                              "e",
+                              "few",
+                              "from",
+                              "g",
+                              "generally",
+                              "have",
+                              "laws",
+                              "regulating",
+                              "scope",
+                              "see"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "addressing",
+                              "been",
+                              "clause",
+                              "conduct",
+                              "confined",
+                              "connection",
+                              "court",
+                              "decisions",
+                              "e",
+                              "few",
+                              "from",
+                              "g",
+                              "generally",
+                              "have",
+                              "laws",
+                              "regulating",
+                              "scope",
+                              "see",
+                              "significant",
+                              "states"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "addressing",
+                              "been",
+                              "clause",
+                              "conduct",
+                              "confined",
+                              "connection",
+                              "court",
+                              "decisions",
+                              "e",
+                              "few",
+                              "from",
+                              "g",
+                              "generally",
+                              "have",
+                              "laws",
+                              "regulating",
+                              "scope",
+                              "see",
+                              "significant",
+                              "states",
+                              "united"
+                        ]
+                  }
+            ]
+      }
+}

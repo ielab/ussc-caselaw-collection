@@ -1,0 +1,170 @@
+{
+      "auto_generated_queries": {
+            "topic": 71,
+            "query": [
+                  {
+                        "proportion": 0.1588235294117647,
+                        "terms": [
+                              "forfeiture"
+                        ]
+                  },
+                  {
+                        "proportion": 0.2588235294117647,
+                        "terms": [
+                              "forfeiture",
+                              "modern",
+                              "punish"
+                        ]
+                  },
+                  {
+                        "proportion": 0.35882352941176465,
+                        "terms": [
+                              "forfeiture",
+                              "modern",
+                              "punish",
+                              "plainly",
+                              "criminal"
+                        ]
+                  },
+                  {
+                        "proportion": 0.45882352941176463,
+                        "terms": [
+                              "forfeiture",
+                              "modern",
+                              "punish",
+                              "plainly",
+                              "criminal",
+                              "civil",
+                              "owner"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5588235294117646,
+                        "terms": [
+                              "forfeiture",
+                              "modern",
+                              "punish",
+                              "plainly",
+                              "criminal",
+                              "civil",
+                              "owner",
+                              "g"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6588235294117646,
+                        "terms": [
+                              "forfeiture",
+                              "modern",
+                              "punish",
+                              "plainly",
+                              "criminal",
+                              "civil",
+                              "owner",
+                              "g",
+                              "designed",
+                              "least"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7588235294117646,
+                        "terms": [
+                              "forfeiture",
+                              "modern",
+                              "punish",
+                              "plainly",
+                              "criminal",
+                              "civil",
+                              "owner",
+                              "g",
+                              "designed",
+                              "least",
+                              "e",
+                              "property"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8588235294117645,
+                        "terms": [
+                              "forfeiture",
+                              "modern",
+                              "punish",
+                              "plainly",
+                              "criminal",
+                              "civil",
+                              "owner",
+                              "g",
+                              "designed",
+                              "least",
+                              "e",
+                              "property",
+                              "statutes"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9588235294117645,
+                        "terms": [
+                              "forfeiture",
+                              "modern",
+                              "punish",
+                              "plainly",
+                              "criminal",
+                              "civil",
+                              "owner",
+                              "g",
+                              "designed",
+                              "least",
+                              "e",
+                              "property",
+                              "statutes",
+                              "see",
+                              "purposes"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "forfeiture",
+                              "modern",
+                              "punish",
+                              "plainly",
+                              "criminal",
+                              "civil",
+                              "owner",
+                              "g",
+                              "designed",
+                              "least",
+                              "e",
+                              "property",
+                              "statutes",
+                              "see",
+                              "purposes",
+                              "used",
+                              "part"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "forfeiture",
+                              "modern",
+                              "punish",
+                              "plainly",
+                              "criminal",
+                              "civil",
+                              "owner",
+                              "g",
+                              "designed",
+                              "least",
+                              "e",
+                              "property",
+                              "statutes",
+                              "see",
+                              "purposes",
+                              "used",
+                              "part"
+                        ]
+                  }
+            ]
+      }
+}

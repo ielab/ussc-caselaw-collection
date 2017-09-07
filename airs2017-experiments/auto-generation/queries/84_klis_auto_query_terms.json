@@ -1,0 +1,219 @@
+{
+      "auto_generated_queries": {
+            "topic": 84,
+            "query": [
+                  {
+                        "proportion": 0.13846153846153847,
+                        "terms": [
+                              "green"
+                        ]
+                  },
+                  {
+                        "proportion": 0.23846153846153847,
+                        "terms": [
+                              "green",
+                              "double",
+                              "barred",
+                              "gains"
+                        ]
+                  },
+                  {
+                        "proportion": 0.3384615384615385,
+                        "terms": [
+                              "green",
+                              "double",
+                              "barred",
+                              "gains",
+                              "irreconcilable",
+                              "184",
+                              "188"
+                        ]
+                  },
+                  {
+                        "proportion": 0.43846153846153846,
+                        "terms": [
+                              "green",
+                              "double",
+                              "barred",
+                              "gains",
+                              "irreconcilable",
+                              "184",
+                              "188",
+                              "challenging",
+                              "355"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5384615384615384,
+                        "terms": [
+                              "green",
+                              "double",
+                              "barred",
+                              "gains",
+                              "irreconcilable",
+                              "184",
+                              "188",
+                              "challenging",
+                              "355",
+                              "1957",
+                              "rationally",
+                              "preclusive"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6384615384615384,
+                        "terms": [
+                              "green",
+                              "double",
+                              "barred",
+                              "gains",
+                              "irreconcilable",
+                              "184",
+                              "188",
+                              "challenging",
+                              "355",
+                              "1957",
+                              "rationally",
+                              "preclusive",
+                              "acquittal",
+                              "jeopardy"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7384615384615384,
+                        "terms": [
+                              "green",
+                              "double",
+                              "barred",
+                              "gains",
+                              "irreconcilable",
+                              "184",
+                              "188",
+                              "challenging",
+                              "355",
+                              "1957",
+                              "rationally",
+                              "preclusive",
+                              "acquittal",
+                              "jeopardy",
+                              "effect",
+                              "verdicts",
+                              "see"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8384615384615384,
+                        "terms": [
+                              "green",
+                              "double",
+                              "barred",
+                              "gains",
+                              "irreconcilable",
+                              "184",
+                              "188",
+                              "challenging",
+                              "355",
+                              "1957",
+                              "rationally",
+                              "preclusive",
+                              "acquittal",
+                              "jeopardy",
+                              "effect",
+                              "verdicts",
+                              "see",
+                              "government",
+                              "clause",
+                              "united"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9384615384615383,
+                        "terms": [
+                              "green",
+                              "double",
+                              "barred",
+                              "gains",
+                              "irreconcilable",
+                              "184",
+                              "188",
+                              "challenging",
+                              "355",
+                              "1957",
+                              "rationally",
+                              "preclusive",
+                              "acquittal",
+                              "jeopardy",
+                              "effect",
+                              "verdicts",
+                              "see",
+                              "government",
+                              "clause",
+                              "united",
+                              "u",
+                              "states"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "green",
+                              "double",
+                              "barred",
+                              "gains",
+                              "irreconcilable",
+                              "184",
+                              "188",
+                              "challenging",
+                              "355",
+                              "1957",
+                              "rationally",
+                              "preclusive",
+                              "acquittal",
+                              "jeopardy",
+                              "effect",
+                              "verdicts",
+                              "see",
+                              "government",
+                              "clause",
+                              "united",
+                              "u",
+                              "states",
+                              "because",
+                              "s",
+                              "from"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "green",
+                              "double",
+                              "barred",
+                              "gains",
+                              "irreconcilable",
+                              "184",
+                              "188",
+                              "challenging",
+                              "355",
+                              "1957",
+                              "rationally",
+                              "preclusive",
+                              "acquittal",
+                              "jeopardy",
+                              "effect",
+                              "verdicts",
+                              "see",
+                              "government",
+                              "clause",
+                              "united",
+                              "u",
+                              "states",
+                              "because",
+                              "s",
+                              "from",
+                              "v"
+                        ]
+                  }
+            ]
+      }
+}

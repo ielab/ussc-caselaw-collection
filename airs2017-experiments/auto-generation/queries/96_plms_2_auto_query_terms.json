@@ -1,0 +1,112 @@
+{
+      "auto_generated_queries": {
+            "topic": 96,
+            "query": [
+                  {
+                        "proportion": 0.125,
+                        "terms": [
+                              "covered"
+                        ]
+                  },
+                  {
+                        "proportion": 0.225,
+                        "terms": [
+                              "covered"
+                        ]
+                  },
+                  {
+                        "proportion": 0.325,
+                        "terms": [
+                              "covered",
+                              "civil"
+                        ]
+                  },
+                  {
+                        "proportion": 0.42500000000000004,
+                        "terms": [
+                              "covered",
+                              "civil",
+                              "patent"
+                        ]
+                  },
+                  {
+                        "proportion": 0.525,
+                        "terms": [
+                              "covered",
+                              "civil",
+                              "patent",
+                              "well"
+                        ]
+                  },
+                  {
+                        "proportion": 0.625,
+                        "terms": [
+                              "covered",
+                              "civil",
+                              "patent",
+                              "well",
+                              "suits"
+                        ]
+                  },
+                  {
+                        "proportion": 0.725,
+                        "terms": [
+                              "covered",
+                              "civil",
+                              "patent",
+                              "well",
+                              "suits"
+                        ]
+                  },
+                  {
+                        "proportion": 0.825,
+                        "terms": [
+                              "covered",
+                              "civil",
+                              "patent",
+                              "well",
+                              "suits",
+                              "other"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9249999999999999,
+                        "terms": [
+                              "covered",
+                              "civil",
+                              "patent",
+                              "well",
+                              "suits",
+                              "other",
+                              "act"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "covered",
+                              "civil",
+                              "patent",
+                              "well",
+                              "suits",
+                              "other",
+                              "act",
+                              "cases"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "covered",
+                              "civil",
+                              "patent",
+                              "well",
+                              "suits",
+                              "other",
+                              "act",
+                              "cases"
+                        ]
+                  }
+            ]
+      }
+}

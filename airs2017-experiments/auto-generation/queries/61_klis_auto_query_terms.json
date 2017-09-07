@@ -1,0 +1,197 @@
+{
+      "auto_generated_queries": {
+            "topic": 61,
+            "query": [
+                  {
+                        "proportion": 0.14545454545454545,
+                        "terms": [
+                              "2"
+                        ]
+                  },
+                  {
+                        "proportion": 0.24545454545454545,
+                        "terms": [
+                              "2",
+                              "18",
+                              "worded",
+                              "armed"
+                        ]
+                  },
+                  {
+                        "proportion": 0.34545454545454546,
+                        "terms": [
+                              "2",
+                              "18",
+                              "worded",
+                              "armed",
+                              "career",
+                              "identically"
+                        ]
+                  },
+                  {
+                        "proportion": 0.44545454545454544,
+                        "terms": [
+                              "2",
+                              "18",
+                              "worded",
+                              "armed",
+                              "career",
+                              "identically",
+                              "acca",
+                              "residual"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5454545454545454,
+                        "terms": [
+                              "2",
+                              "18",
+                              "worded",
+                              "armed",
+                              "career",
+                              "identically",
+                              "acca",
+                              "residual",
+                              "924",
+                              "vague"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6454545454545454,
+                        "terms": [
+                              "2",
+                              "18",
+                              "worded",
+                              "armed",
+                              "career",
+                              "identically",
+                              "acca",
+                              "residual",
+                              "924",
+                              "vague",
+                              "1984",
+                              "unconstitutionally"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7454545454545454,
+                        "terms": [
+                              "2",
+                              "18",
+                              "worded",
+                              "armed",
+                              "career",
+                              "identically",
+                              "acca",
+                              "residual",
+                              "924",
+                              "vague",
+                              "1984",
+                              "unconstitutionally",
+                              "criminal",
+                              "held",
+                              "clause"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8454545454545453,
+                        "terms": [
+                              "2",
+                              "18",
+                              "worded",
+                              "armed",
+                              "career",
+                              "identically",
+                              "acca",
+                              "residual",
+                              "924",
+                              "vague",
+                              "1984",
+                              "unconstitutionally",
+                              "criminal",
+                              "held",
+                              "clause",
+                              "act",
+                              "e"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9454545454545453,
+                        "terms": [
+                              "2",
+                              "18",
+                              "worded",
+                              "armed",
+                              "career",
+                              "identically",
+                              "acca",
+                              "residual",
+                              "924",
+                              "vague",
+                              "1984",
+                              "unconstitutionally",
+                              "criminal",
+                              "held",
+                              "clause",
+                              "act",
+                              "e",
+                              "u",
+                              "s"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "2",
+                              "18",
+                              "worded",
+                              "armed",
+                              "career",
+                              "identically",
+                              "acca",
+                              "residual",
+                              "924",
+                              "vague",
+                              "1984",
+                              "unconstitutionally",
+                              "criminal",
+                              "held",
+                              "clause",
+                              "act",
+                              "e",
+                              "u",
+                              "s",
+                              "c",
+                              "b"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "2",
+                              "18",
+                              "worded",
+                              "armed",
+                              "career",
+                              "identically",
+                              "acca",
+                              "residual",
+                              "924",
+                              "vague",
+                              "1984",
+                              "unconstitutionally",
+                              "criminal",
+                              "held",
+                              "clause",
+                              "act",
+                              "e",
+                              "u",
+                              "s",
+                              "c",
+                              "b",
+                              "court"
+                        ]
+                  }
+            ]
+      }
+}

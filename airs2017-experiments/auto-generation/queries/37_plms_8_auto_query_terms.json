@@ -1,0 +1,183 @@
+{
+      "auto_generated_queries": {
+            "topic": 37,
+            "query": [
+                  {
+                        "proportion": 0.15000000000000002,
+                        "terms": [
+                              "disabilities"
+                        ]
+                  },
+                  {
+                        "proportion": 0.25,
+                        "terms": [
+                              "disabilities",
+                              "education",
+                              "substan",
+                              "tive"
+                        ]
+                  },
+                  {
+                        "proportion": 0.35,
+                        "terms": [
+                              "disabilities",
+                              "education",
+                              "substan",
+                              "tive",
+                              "ago"
+                        ]
+                  },
+                  {
+                        "proportion": 0.44999999999999996,
+                        "terms": [
+                              "disabilities",
+                              "education",
+                              "substan",
+                              "tive",
+                              "ago",
+                              "thirty",
+                              "children"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5499999999999999,
+                        "terms": [
+                              "disabilities",
+                              "education",
+                              "substan",
+                              "tive",
+                              "ago",
+                              "thirty",
+                              "children",
+                              "five",
+                              "free"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6499999999999999,
+                        "terms": [
+                              "disabilities",
+                              "education",
+                              "substan",
+                              "tive",
+                              "ago",
+                              "thirty",
+                              "children",
+                              "five",
+                              "free",
+                              "appropriate",
+                              "als"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7499999999999999,
+                        "terms": [
+                              "disabilities",
+                              "education",
+                              "substan",
+                              "tive",
+                              "ago",
+                              "thirty",
+                              "children",
+                              "five",
+                              "free",
+                              "appropriate",
+                              "als",
+                              "certain",
+                              "individu"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8499999999999999,
+                        "terms": [
+                              "disabilities",
+                              "education",
+                              "substan",
+                              "tive",
+                              "ago",
+                              "thirty",
+                              "children",
+                              "five",
+                              "free",
+                              "appropriate",
+                              "als",
+                              "certain",
+                              "individu",
+                              "establishes",
+                              "years"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9499999999999998,
+                        "terms": [
+                              "disabilities",
+                              "education",
+                              "substan",
+                              "tive",
+                              "ago",
+                              "thirty",
+                              "children",
+                              "five",
+                              "free",
+                              "appropriate",
+                              "als",
+                              "certain",
+                              "individu",
+                              "establishes",
+                              "years",
+                              "held",
+                              "public"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "disabilities",
+                              "education",
+                              "substan",
+                              "tive",
+                              "ago",
+                              "thirty",
+                              "children",
+                              "five",
+                              "free",
+                              "appropriate",
+                              "als",
+                              "certain",
+                              "individu",
+                              "establishes",
+                              "years",
+                              "held",
+                              "public",
+                              "right",
+                              "act"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "disabilities",
+                              "education",
+                              "substan",
+                              "tive",
+                              "ago",
+                              "thirty",
+                              "children",
+                              "five",
+                              "free",
+                              "appropriate",
+                              "als",
+                              "certain",
+                              "individu",
+                              "establishes",
+                              "years",
+                              "held",
+                              "public",
+                              "right",
+                              "act",
+                              "court"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,164 @@
+{
+      "auto_generated_queries": {
+            "topic": 45,
+            "query": [
+                  {
+                        "proportion": 0.1625,
+                        "terms": [
+                              "review"
+                        ]
+                  },
+                  {
+                        "proportion": 0.2625,
+                        "terms": [
+                              "review",
+                              "abuse",
+                              "sexual"
+                        ]
+                  },
+                  {
+                        "proportion": 0.36250000000000004,
+                        "terms": [
+                              "review",
+                              "abuse",
+                              "sexual",
+                              "esquivel",
+                              "quintana"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4625,
+                        "terms": [
+                              "review",
+                              "abuse",
+                              "sexual",
+                              "esquivel",
+                              "quintana",
+                              "divided"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5625,
+                        "terms": [
+                              "review",
+                              "abuse",
+                              "sexual",
+                              "esquivel",
+                              "quintana",
+                              "divided",
+                              "minor",
+                              "board"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6625,
+                        "terms": [
+                              "review",
+                              "abuse",
+                              "sexual",
+                              "esquivel",
+                              "quintana",
+                              "divided",
+                              "minor",
+                              "board",
+                              "deferring"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7625,
+                        "terms": [
+                              "review",
+                              "abuse",
+                              "sexual",
+                              "esquivel",
+                              "quintana",
+                              "divided",
+                              "minor",
+                              "board",
+                              "deferring",
+                              "interpretation",
+                              "petition"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8624999999999999,
+                        "terms": [
+                              "review",
+                              "abuse",
+                              "sexual",
+                              "esquivel",
+                              "quintana",
+                              "divided",
+                              "minor",
+                              "board",
+                              "deferring",
+                              "interpretation",
+                              "petition",
+                              "denied",
+                              "appeals"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9624999999999999,
+                        "terms": [
+                              "review",
+                              "abuse",
+                              "sexual",
+                              "esquivel",
+                              "quintana",
+                              "divided",
+                              "minor",
+                              "board",
+                              "deferring",
+                              "interpretation",
+                              "petition",
+                              "denied",
+                              "appeals",
+                              "s"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "review",
+                              "abuse",
+                              "sexual",
+                              "esquivel",
+                              "quintana",
+                              "divided",
+                              "minor",
+                              "board",
+                              "deferring",
+                              "interpretation",
+                              "petition",
+                              "denied",
+                              "appeals",
+                              "s",
+                              "court",
+                              "under"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "review",
+                              "abuse",
+                              "sexual",
+                              "esquivel",
+                              "quintana",
+                              "divided",
+                              "minor",
+                              "board",
+                              "deferring",
+                              "interpretation",
+                              "petition",
+                              "denied",
+                              "appeals",
+                              "s",
+                              "court",
+                              "under"
+                        ]
+                  }
+            ]
+      }
+}

@@ -41,7 +41,14 @@ def clean_text(text):
   return re.sub('[^a-zA-Z0-9]+', ' ', text).lower()
 
 def get_numbers(text):
-  return re.sub('[^0-9]+', ' ', text).lstrip().rstrip()
+  nums = re.findall('[0-9]+', text)
+  seen = set()
+  ret = ""
+  for num in nums:
+      if num not in seen:
+          seen.add(num)
+          ret = ret + num + " "
+  return ret.lstrip().rstrip()
 
 def remove_stop(text):
   a_bod = {
@@ -50,10 +57,14 @@ def remove_stop(text):
   }
   final_text = ""
   res = es_client.analyze(index=INDEX, body=a_bod)
-  for i in range(len(res["tokens"])):
-    final_text = final_text + res["tokens"][i]["token"] + " " 
-  return final_text
 
+  seen_terms = []
+  for i in range(len(res["tokens"])):
+    if res["tokens"][i]["token"] not in seen_terms:
+      seen_terms.append(res["tokens"][i]["token"])
+      final_text = final_text + res["tokens"][i]["token"] + " "
+
+  return final_text
 # Returns list of terms and idf, sorted from highest to lowest
 def get_idf(body, index_doc_count, text):
   res = es.mtermvectors(index=INDEX, body=body)
@@ -65,18 +76,19 @@ def get_idf(body, index_doc_count, text):
   for k, v in res["docs"][0]["term_vectors"]["plain_text"]["terms"].items():
     idf = 1 / 63916
     if "ttf" in v:
-      term = k 
+      term = k
       col_freq = v["ttf"]
       doc_freq = v["doc_freq"]
 
       idf = math.log10((1 + index_doc_count)/ doc_freq)
-      
+
     else:
       print(k, "- ttf not returned for term in query ")
 
     for token in v['tokens']:
       unstemmed_token = text[token['start_offset']:token['end_offset']]
-      print(k, unstemmed_token)
+      # print(k, unstemmed_token)
+
       if unstemmed_token not in seen_terms:
         terms.append(Term(unstemmed_token, idf, col_freq, doc_freq))
         seen_terms.append(unstemmed_token)
@@ -86,16 +98,16 @@ def get_idf(body, index_doc_count, text):
   return terms, coll_stats
 
 
-# Eval terms for ... 
+# Eval terms for ...
 def eval(coll_stats, terms):
   num_terms = len(terms)
-  sum_ictf = 0 
-  sum_idf = 0 
+  sum_ictf = 0
+  sum_idf = 0
   sum_scq = 0
 
   for term in terms:
     sum_idf += term.idf
-    
+
     # log2 n(w)/ T where T is the total number of terms in the collection.
     ictf = math.log((term.col_freq/ coll_stats.total_terms), 2)
     sum_ictf += ictf
@@ -118,7 +130,7 @@ def generate_res_for_query(text, data, idc):
         "_type": "decision",
         "doc" : {
           "plain_text" : t
-        },  
+        },
         "term_statistics": True
       }
     ]
@@ -129,7 +141,7 @@ def generate_res_for_query(text, data, idc):
 
 def generate_q_for_text(text, data, idc):
   t = text
-   
+
   for j in range(len(data['case_extract'])):
     t = t.replace(data['case_extract'][j], "")
   t = clean_text(t)
@@ -143,14 +155,14 @@ def generate_q_for_text(text, data, idc):
         "_type": "decision",
         "doc" : {
           "plain_text" : final_text
-        },  
+        },
         "term_statistics": True
       }
     ]
   }
   terms, coll_stats = get_idf(body, idc, final_text)
-  
-  # proportion varied from 1/|D| to 1 where |D| was the total number of terms 
+
+  # proportion varied from 1/|D| to 1 where |D| was the total number of terms
   inverse_d = 1 / len(terms)
   proportions = []
 
@@ -162,18 +174,18 @@ def generate_q_for_text(text, data, idc):
       inverse_d += 0.1
     if inverse_d >= 1:
       inverse_d = 1
-    
+
     ideal += 0.1
 
     proportion_terms = terms[0: num_terms]
-    
+
     av_idf, av_ictf, ac_scq = eval(coll_stats, proportion_terms)
 
     proportions.append(AutoQuery(proportion_terms, inverse_d, av_idf, av_ictf, ac_scq))
-    
+
     proportions
 
-  return proportions  
+  return proportions
 
 def generate_q_for_sentence(topic, data, idc):
   sentence = data['citing_sentence']
@@ -223,7 +235,7 @@ def generate_res_for_ad_hoc_queries(topic, data, idc):
     sentence = str(topic) + " q " + str(i) + " " + str(proportion[0]) + \
      " " + str(proportion[1]) + " " +  str(proportion[2]) + "\n"
     print(sentence)
-      
+
 def main():
 
   ind_stats = es.indices.stats()
@@ -241,6 +253,3 @@ def main():
 
 if __name__ == '__main__':
   main()
-
-
-

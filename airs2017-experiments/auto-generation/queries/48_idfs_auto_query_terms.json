@@ -1,0 +1,164 @@
+{
+      "auto_generated_queries": {
+            "topic": 48,
+            "query": [
+                  {
+                        "proportion": 0.1625,
+                        "terms": [
+                              "laches"
+                        ]
+                  },
+                  {
+                        "proportion": 0.2625,
+                        "terms": [
+                              "laches",
+                              "merged",
+                              "1938"
+                        ]
+                  },
+                  {
+                        "proportion": 0.36250000000000004,
+                        "terms": [
+                              "laches",
+                              "merged",
+                              "1938",
+                              "ordinary",
+                              "equity"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4625,
+                        "terms": [
+                              "laches",
+                              "merged",
+                              "1938",
+                              "ordinary",
+                              "equity",
+                              "systems"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5625,
+                        "terms": [
+                              "laches",
+                              "merged",
+                              "1938",
+                              "ordinary",
+                              "equity",
+                              "systems",
+                              "available",
+                              "separate"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6625,
+                        "terms": [
+                              "laches",
+                              "merged",
+                              "1938",
+                              "ordinary",
+                              "equity",
+                              "systems",
+                              "available",
+                              "separate",
+                              "see"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7625,
+                        "terms": [
+                              "laches",
+                              "merged",
+                              "1938",
+                              "ordinary",
+                              "equity",
+                              "systems",
+                              "available",
+                              "separate",
+                              "see",
+                              "rule",
+                              "3"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8624999999999999,
+                        "terms": [
+                              "laches",
+                              "merged",
+                              "1938",
+                              "ordinary",
+                              "equity",
+                              "systems",
+                              "available",
+                              "separate",
+                              "see",
+                              "rule",
+                              "3",
+                              "before",
+                              "only"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9624999999999999,
+                        "terms": [
+                              "laches",
+                              "merged",
+                              "1938",
+                              "ordinary",
+                              "equity",
+                              "systems",
+                              "available",
+                              "separate",
+                              "see",
+                              "rule",
+                              "3",
+                              "before",
+                              "only",
+                              "law"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "laches",
+                              "merged",
+                              "1938",
+                              "ordinary",
+                              "equity",
+                              "systems",
+                              "available",
+                              "separate",
+                              "see",
+                              "rule",
+                              "3",
+                              "before",
+                              "only",
+                              "law",
+                              "were",
+                              "courts"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "laches",
+                              "merged",
+                              "1938",
+                              "ordinary",
+                              "equity",
+                              "systems",
+                              "available",
+                              "separate",
+                              "see",
+                              "rule",
+                              "3",
+                              "before",
+                              "only",
+                              "law",
+                              "were",
+                              "courts"
+                        ]
+                  }
+            ]
+      }
+}

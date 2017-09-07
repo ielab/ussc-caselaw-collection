@@ -1,0 +1,208 @@
+{
+      "auto_generated_queries": {
+            "topic": 30,
+            "query": [
+                  {
+                        "proportion": 0.14166666666666666,
+                        "terms": [
+                              "sentencing"
+                        ]
+                  },
+                  {
+                        "proportion": 0.24166666666666667,
+                        "terms": [
+                              "sentencing",
+                              "sentence",
+                              "1",
+                              "2"
+                        ]
+                  },
+                  {
+                        "proportion": 0.3416666666666667,
+                        "terms": [
+                              "sentencing",
+                              "sentence",
+                              "1",
+                              "2",
+                              "3553",
+                              "account"
+                        ]
+                  },
+                  {
+                        "proportion": 0.44166666666666665,
+                        "terms": [
+                              "sentencing",
+                              "sentence",
+                              "1",
+                              "2",
+                              "3553",
+                              "account",
+                              "aims",
+                              "characteristics",
+                              "circumstances"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5416666666666666,
+                        "terms": [
+                              "sentencing",
+                              "sentence",
+                              "1",
+                              "2",
+                              "3553",
+                              "account",
+                              "aims",
+                              "characteristics",
+                              "circumstances",
+                              "court",
+                              "d"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6416666666666666,
+                        "terms": [
+                              "sentencing",
+                              "sentence",
+                              "1",
+                              "2",
+                              "3553",
+                              "account",
+                              "aims",
+                              "characteristics",
+                              "circumstances",
+                              "court",
+                              "d",
+                              "defendant",
+                              "directed"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7416666666666666,
+                        "terms": [
+                              "sentencing",
+                              "sentence",
+                              "1",
+                              "2",
+                              "3553",
+                              "account",
+                              "aims",
+                              "characteristics",
+                              "circumstances",
+                              "court",
+                              "d",
+                              "defendant",
+                              "directed",
+                              "four",
+                              "history",
+                              "imposed"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8416666666666666,
+                        "terms": [
+                              "sentencing",
+                              "sentence",
+                              "1",
+                              "2",
+                              "3553",
+                              "account",
+                              "aims",
+                              "characteristics",
+                              "circumstances",
+                              "court",
+                              "d",
+                              "defendant",
+                              "directed",
+                              "four",
+                              "history",
+                              "imposed",
+                              "nature",
+                              "need"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9416666666666665,
+                        "terms": [
+                              "sentencing",
+                              "sentence",
+                              "1",
+                              "2",
+                              "3553",
+                              "account",
+                              "aims",
+                              "characteristics",
+                              "circumstances",
+                              "court",
+                              "d",
+                              "defendant",
+                              "directed",
+                              "four",
+                              "history",
+                              "imposed",
+                              "nature",
+                              "need",
+                              "offense",
+                              "overarching",
+                              "see"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "sentencing",
+                              "sentence",
+                              "1",
+                              "2",
+                              "3553",
+                              "account",
+                              "aims",
+                              "characteristics",
+                              "circumstances",
+                              "court",
+                              "d",
+                              "defendant",
+                              "directed",
+                              "four",
+                              "history",
+                              "imposed",
+                              "nature",
+                              "need",
+                              "offense",
+                              "overarching",
+                              "see",
+                              "serve",
+                              "take"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "sentencing",
+                              "sentence",
+                              "1",
+                              "2",
+                              "3553",
+                              "account",
+                              "aims",
+                              "characteristics",
+                              "circumstances",
+                              "court",
+                              "d",
+                              "defendant",
+                              "directed",
+                              "four",
+                              "history",
+                              "imposed",
+                              "nature",
+                              "need",
+                              "offense",
+                              "overarching",
+                              "see",
+                              "serve",
+                              "take",
+                              "well"
+                        ]
+                  }
+            ]
+      }
+}

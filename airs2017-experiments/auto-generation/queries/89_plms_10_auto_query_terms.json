@@ -1,0 +1,252 @@
+{
+      "auto_generated_queries": {
+            "topic": 89,
+            "query": [
+                  {
+                        "proportion": 0.13125,
+                        "terms": [
+                              "dissenting"
+                        ]
+                  },
+                  {
+                        "proportion": 0.23125,
+                        "terms": [
+                              "dissenting",
+                              "injection",
+                              "j",
+                              "lethal",
+                              "midazolam"
+                        ]
+                  },
+                  {
+                        "proportion": 0.33125000000000004,
+                        "terms": [
+                              "dissenting",
+                              "injection",
+                              "j",
+                              "lethal",
+                              "midazolam",
+                              "op",
+                              "slip",
+                              "sotomayor"
+                        ]
+                  },
+                  {
+                        "proportion": 0.43125,
+                        "terms": [
+                              "dissenting",
+                              "injection",
+                              "j",
+                              "lethal",
+                              "midazolam",
+                              "op",
+                              "slip",
+                              "sotomayor",
+                              "whether",
+                              "10",
+                              "16"
+                        ]
+                  },
+                  {
+                        "proportion": 0.53125,
+                        "terms": [
+                              "dissenting",
+                              "injection",
+                              "j",
+                              "lethal",
+                              "midazolam",
+                              "op",
+                              "slip",
+                              "sotomayor",
+                              "whether",
+                              "10",
+                              "16",
+                              "17",
+                              "22",
+                              "capable"
+                        ]
+                  },
+                  {
+                        "proportion": 0.63125,
+                        "terms": [
+                              "dissenting",
+                              "injection",
+                              "j",
+                              "lethal",
+                              "midazolam",
+                              "op",
+                              "slip",
+                              "sotomayor",
+                              "whether",
+                              "10",
+                              "16",
+                              "17",
+                              "22",
+                              "capable",
+                              "certiorari",
+                              "constitutionally",
+                              "continue"
+                        ]
+                  },
+                  {
+                        "proportion": 0.73125,
+                        "terms": [
+                              "dissenting",
+                              "injection",
+                              "j",
+                              "lethal",
+                              "midazolam",
+                              "op",
+                              "slip",
+                              "sotomayor",
+                              "whether",
+                              "10",
+                              "16",
+                              "17",
+                              "22",
+                              "capable",
+                              "certiorari",
+                              "constitutionally",
+                              "continue",
+                              "denial",
+                              "doubt",
+                              "excruciat",
+                              "from"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8312499999999999,
+                        "terms": [
+                              "dissenting",
+                              "injection",
+                              "j",
+                              "lethal",
+                              "midazolam",
+                              "op",
+                              "slip",
+                              "sotomayor",
+                              "whether",
+                              "10",
+                              "16",
+                              "17",
+                              "22",
+                              "capable",
+                              "certiorari",
+                              "constitutionally",
+                              "continue",
+                              "denial",
+                              "doubt",
+                              "excruciat",
+                              "from",
+                              "i",
+                              "ing",
+                              "insensate"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9312499999999999,
+                        "terms": [
+                              "dissenting",
+                              "injection",
+                              "j",
+                              "lethal",
+                              "midazolam",
+                              "op",
+                              "slip",
+                              "sotomayor",
+                              "whether",
+                              "10",
+                              "16",
+                              "17",
+                              "22",
+                              "capable",
+                              "certiorari",
+                              "constitutionally",
+                              "continue",
+                              "denial",
+                              "doubt",
+                              "excruciat",
+                              "from",
+                              "i",
+                              "ing",
+                              "insensate",
+                              "may",
+                              "pain",
+                              "prisoners"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "dissenting",
+                              "injection",
+                              "j",
+                              "lethal",
+                              "midazolam",
+                              "op",
+                              "slip",
+                              "sotomayor",
+                              "whether",
+                              "10",
+                              "16",
+                              "17",
+                              "22",
+                              "capable",
+                              "certiorari",
+                              "constitutionally",
+                              "continue",
+                              "denial",
+                              "doubt",
+                              "excruciat",
+                              "from",
+                              "i",
+                              "ing",
+                              "insensate",
+                              "may",
+                              "pain",
+                              "prisoners",
+                              "protocols",
+                              "rendering",
+                              "see"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "dissenting",
+                              "injection",
+                              "j",
+                              "lethal",
+                              "midazolam",
+                              "op",
+                              "slip",
+                              "sotomayor",
+                              "whether",
+                              "10",
+                              "16",
+                              "17",
+                              "22",
+                              "capable",
+                              "certiorari",
+                              "constitutionally",
+                              "continue",
+                              "denial",
+                              "doubt",
+                              "excruciat",
+                              "from",
+                              "i",
+                              "ing",
+                              "insensate",
+                              "may",
+                              "pain",
+                              "prisoners",
+                              "protocols",
+                              "rendering",
+                              "see",
+                              "thus",
+                              "used"
+                        ]
+                  }
+            ]
+      }
+}

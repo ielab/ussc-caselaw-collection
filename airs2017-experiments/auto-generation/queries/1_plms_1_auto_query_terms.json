@@ -1,0 +1,214 @@
+{
+      "auto_generated_queries": {
+            "topic": 1,
+            "query": [
+                  {
+                        "proportion": 0.14,
+                        "terms": [
+                              "corporation"
+                        ]
+                  },
+                  {
+                        "proportion": 0.24000000000000002,
+                        "terms": [
+                              "corporation",
+                              "state",
+                              "episode",
+                              "hale"
+                        ]
+                  },
+                  {
+                        "proportion": 0.34,
+                        "terms": [
+                              "corporation",
+                              "state",
+                              "episode",
+                              "hale",
+                              "elsewhere",
+                              "home",
+                              "fourteenth"
+                        ]
+                  },
+                  {
+                        "proportion": 0.44000000000000006,
+                        "terms": [
+                              "corporation",
+                              "state",
+                              "episode",
+                              "hale",
+                              "elsewhere",
+                              "home",
+                              "fourteenth",
+                              "occurred",
+                              "precedent"
+                        ]
+                  },
+                  {
+                        "proportion": 0.54,
+                        "terms": [
+                              "corporation",
+                              "state",
+                              "episode",
+                              "hale",
+                              "elsewhere",
+                              "home",
+                              "fourteenth",
+                              "occurred",
+                              "precedent",
+                              "explains",
+                              "permit",
+                              "due"
+                        ]
+                  },
+                  {
+                        "proportion": 0.64,
+                        "terms": [
+                              "corporation",
+                              "state",
+                              "episode",
+                              "hale",
+                              "elsewhere",
+                              "home",
+                              "fourteenth",
+                              "occurred",
+                              "precedent",
+                              "explains",
+                              "permit",
+                              "due",
+                              "clause",
+                              "process"
+                        ]
+                  },
+                  {
+                        "proportion": 0.74,
+                        "terms": [
+                              "corporation",
+                              "state",
+                              "episode",
+                              "hale",
+                              "elsewhere",
+                              "home",
+                              "fourteenth",
+                              "occurred",
+                              "precedent",
+                              "explains",
+                              "permit",
+                              "due",
+                              "clause",
+                              "process",
+                              "however",
+                              "out"
+                        ]
+                  },
+                  {
+                        "proportion": 0.84,
+                        "terms": [
+                              "corporation",
+                              "state",
+                              "episode",
+                              "hale",
+                              "elsewhere",
+                              "home",
+                              "fourteenth",
+                              "occurred",
+                              "precedent",
+                              "explains",
+                              "permit",
+                              "due",
+                              "clause",
+                              "process",
+                              "however",
+                              "out",
+                              "suit",
+                              "our",
+                              "before"
+                        ]
+                  },
+                  {
+                        "proportion": 0.94,
+                        "terms": [
+                              "corporation",
+                              "state",
+                              "episode",
+                              "hale",
+                              "elsewhere",
+                              "home",
+                              "fourteenth",
+                              "occurred",
+                              "precedent",
+                              "explains",
+                              "permit",
+                              "due",
+                              "clause",
+                              "process",
+                              "however",
+                              "out",
+                              "suit",
+                              "our",
+                              "before",
+                              "does",
+                              "amendment"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "corporation",
+                              "state",
+                              "episode",
+                              "hale",
+                              "elsewhere",
+                              "home",
+                              "fourteenth",
+                              "occurred",
+                              "precedent",
+                              "explains",
+                              "permit",
+                              "due",
+                              "clause",
+                              "process",
+                              "however",
+                              "out",
+                              "suit",
+                              "our",
+                              "before",
+                              "does",
+                              "amendment",
+                              "when",
+                              "s",
+                              "courts"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "corporation",
+                              "state",
+                              "episode",
+                              "hale",
+                              "elsewhere",
+                              "home",
+                              "fourteenth",
+                              "occurred",
+                              "precedent",
+                              "explains",
+                              "permit",
+                              "due",
+                              "clause",
+                              "process",
+                              "however",
+                              "out",
+                              "suit",
+                              "our",
+                              "before",
+                              "does",
+                              "amendment",
+                              "when",
+                              "s",
+                              "courts",
+                              "its"
+                        ]
+                  }
+            ]
+      }
+}

@@ -1,0 +1,148 @@
+{
+      "auto_generated_queries": {
+            "topic": 46,
+            "query": [
+                  {
+                        "proportion": 0.17692307692307693,
+                        "terms": [
+                              "2"
+                        ]
+                  },
+                  {
+                        "proportion": 0.27692307692307694,
+                        "terms": [
+                              "2",
+                              "based",
+                              "removable"
+                        ]
+                  },
+                  {
+                        "proportion": 0.3769230769230769,
+                        "terms": [
+                              "2",
+                              "based",
+                              "removable",
+                              "nature"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4769230769230769,
+                        "terms": [
+                              "2",
+                              "based",
+                              "removable",
+                              "nature",
+                              "1227"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5769230769230769,
+                        "terms": [
+                              "2",
+                              "based",
+                              "removable",
+                              "nature",
+                              "1227",
+                              "actual",
+                              "iii"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6769230769230768,
+                        "terms": [
+                              "2",
+                              "based",
+                              "removable",
+                              "nature",
+                              "1227",
+                              "actual",
+                              "iii",
+                              "aliens"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7769230769230768,
+                        "terms": [
+                              "2",
+                              "based",
+                              "removable",
+                              "nature",
+                              "1227",
+                              "actual",
+                              "iii",
+                              "aliens",
+                              "makes"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8769230769230768,
+                        "terms": [
+                              "2",
+                              "based",
+                              "removable",
+                              "nature",
+                              "1227",
+                              "actual",
+                              "iii",
+                              "aliens",
+                              "makes",
+                              "conduct",
+                              "see"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9769230769230768,
+                        "terms": [
+                              "2",
+                              "based",
+                              "removable",
+                              "nature",
+                              "1227",
+                              "actual",
+                              "iii",
+                              "aliens",
+                              "makes",
+                              "conduct",
+                              "see",
+                              "section"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "2",
+                              "based",
+                              "removable",
+                              "nature",
+                              "1227",
+                              "actual",
+                              "iii",
+                              "aliens",
+                              "makes",
+                              "conduct",
+                              "see",
+                              "section",
+                              "convictions"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "2",
+                              "based",
+                              "removable",
+                              "nature",
+                              "1227",
+                              "actual",
+                              "iii",
+                              "aliens",
+                              "makes",
+                              "conduct",
+                              "see",
+                              "section",
+                              "convictions"
+                        ]
+                  }
+            ]
+      }
+}

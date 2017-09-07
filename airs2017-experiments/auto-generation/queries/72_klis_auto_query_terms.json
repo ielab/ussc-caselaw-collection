@@ -1,0 +1,192 @@
+{
+      "auto_generated_queries": {
+            "topic": 72,
+            "query": [
+                  {
+                        "proportion": 0.14761904761904762,
+                        "terms": [
+                              "dis"
+                        ]
+                  },
+                  {
+                        "proportion": 0.24761904761904763,
+                        "terms": [
+                              "dis",
+                              "known",
+                              "cussed",
+                              "civilly"
+                        ]
+                  },
+                  {
+                        "proportion": 0.3476190476190476,
+                        "terms": [
+                              "dis",
+                              "known",
+                              "cussed",
+                              "civilly",
+                              "rem",
+                              "seeking"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4476190476190476,
+                        "terms": [
+                              "dis",
+                              "known",
+                              "cussed",
+                              "civilly",
+                              "rem",
+                              "seeking",
+                              "prosecutors",
+                              "forfeiture"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5476190476190476,
+                        "terms": [
+                              "dis",
+                              "known",
+                              "cussed",
+                              "civilly",
+                              "rem",
+                              "seeking",
+                              "prosecutors",
+                              "forfeiture",
+                              "proceed",
+                              "see"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6476190476190475,
+                        "terms": [
+                              "dis",
+                              "known",
+                              "cussed",
+                              "civilly",
+                              "rem",
+                              "seeking",
+                              "prosecutors",
+                              "forfeiture",
+                              "proceed",
+                              "see",
+                              "permits",
+                              "property"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7476190476190475,
+                        "terms": [
+                              "dis",
+                              "known",
+                              "cussed",
+                              "civilly",
+                              "rem",
+                              "seeking",
+                              "prosecutors",
+                              "forfeiture",
+                              "proceed",
+                              "see",
+                              "permits",
+                              "property",
+                              "nevertheless",
+                              "reasons"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8476190476190475,
+                        "terms": [
+                              "dis",
+                              "known",
+                              "cussed",
+                              "civilly",
+                              "rem",
+                              "seeking",
+                              "prosecutors",
+                              "forfeiture",
+                              "proceed",
+                              "see",
+                              "permits",
+                              "property",
+                              "nevertheless",
+                              "reasons",
+                              "g",
+                              "below"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9476190476190475,
+                        "terms": [
+                              "dis",
+                              "known",
+                              "cussed",
+                              "civilly",
+                              "rem",
+                              "seeking",
+                              "prosecutors",
+                              "forfeiture",
+                              "proceed",
+                              "see",
+                              "permits",
+                              "property",
+                              "nevertheless",
+                              "reasons",
+                              "g",
+                              "below",
+                              "e",
+                              "do"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "dis",
+                              "known",
+                              "cussed",
+                              "civilly",
+                              "rem",
+                              "seeking",
+                              "prosecutors",
+                              "forfeiture",
+                              "proceed",
+                              "see",
+                              "permits",
+                              "property",
+                              "nevertheless",
+                              "reasons",
+                              "g",
+                              "below",
+                              "e",
+                              "do",
+                              "against",
+                              "so"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "dis",
+                              "known",
+                              "cussed",
+                              "civilly",
+                              "rem",
+                              "seeking",
+                              "prosecutors",
+                              "forfeiture",
+                              "proceed",
+                              "see",
+                              "permits",
+                              "property",
+                              "nevertheless",
+                              "reasons",
+                              "g",
+                              "below",
+                              "e",
+                              "do",
+                              "against",
+                              "so",
+                              "court"
+                        ]
+                  }
+            ]
+      }
+}

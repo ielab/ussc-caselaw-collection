@@ -1,0 +1,183 @@
+{
+      "auto_generated_queries": {
+            "topic": 53,
+            "query": [
+                  {
+                        "proportion": 0.15000000000000002,
+                        "terms": [
+                              "his"
+                        ]
+                  },
+                  {
+                        "proportion": 0.25,
+                        "terms": [
+                              "his",
+                              "vided",
+                              "excuse",
+                              "default"
+                        ]
+                  },
+                  {
+                        "proportion": 0.35,
+                        "terms": [
+                              "his",
+                              "vided",
+                              "excuse",
+                              "default",
+                              "pro"
+                        ]
+                  },
+                  {
+                        "proportion": 0.44999999999999996,
+                        "terms": [
+                              "his",
+                              "vided",
+                              "excuse",
+                              "default",
+                              "pro",
+                              "merits",
+                              "litigate"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5499999999999999,
+                        "terms": [
+                              "his",
+                              "vided",
+                              "excuse",
+                              "default",
+                              "pro",
+                              "merits",
+                              "litigate",
+                              "changed",
+                              "procedural"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6499999999999999,
+                        "terms": [
+                              "his",
+                              "vided",
+                              "excuse",
+                              "default",
+                              "pro",
+                              "merits",
+                              "litigate",
+                              "changed",
+                              "procedural",
+                              "way",
+                              "permitting"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7499999999999999,
+                        "terms": [
+                              "his",
+                              "vided",
+                              "excuse",
+                              "default",
+                              "pro",
+                              "merits",
+                              "litigate",
+                              "changed",
+                              "procedural",
+                              "way",
+                              "permitting",
+                              "argued",
+                              "him"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8499999999999999,
+                        "terms": [
+                              "his",
+                              "vided",
+                              "excuse",
+                              "default",
+                              "pro",
+                              "merits",
+                              "litigate",
+                              "changed",
+                              "procedural",
+                              "way",
+                              "permitting",
+                              "argued",
+                              "him",
+                              "decisions",
+                              "claim"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9499999999999998,
+                        "terms": [
+                              "his",
+                              "vided",
+                              "excuse",
+                              "default",
+                              "pro",
+                              "merits",
+                              "litigate",
+                              "changed",
+                              "procedural",
+                              "way",
+                              "permitting",
+                              "argued",
+                              "him",
+                              "decisions",
+                              "claim",
+                              "he",
+                              "had"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "his",
+                              "vided",
+                              "excuse",
+                              "default",
+                              "pro",
+                              "merits",
+                              "litigate",
+                              "changed",
+                              "procedural",
+                              "way",
+                              "permitting",
+                              "argued",
+                              "him",
+                              "decisions",
+                              "claim",
+                              "he",
+                              "had",
+                              "law",
+                              "s"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "his",
+                              "vided",
+                              "excuse",
+                              "default",
+                              "pro",
+                              "merits",
+                              "litigate",
+                              "changed",
+                              "procedural",
+                              "way",
+                              "permitting",
+                              "argued",
+                              "him",
+                              "decisions",
+                              "claim",
+                              "he",
+                              "had",
+                              "law",
+                              "s",
+                              "court"
+                        ]
+                  }
+            ]
+      }
+}

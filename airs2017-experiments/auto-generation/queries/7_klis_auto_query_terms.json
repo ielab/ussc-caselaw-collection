@@ -1,0 +1,230 @@
+{
+      "auto_generated_queries": {
+            "topic": 7,
+            "query": [
+                  {
+                        "proportion": 0.13571428571428573,
+                        "terms": [
+                              "namely"
+                        ]
+                  },
+                  {
+                        "proportion": 0.23571428571428574,
+                        "terms": [
+                              "namely",
+                              "free",
+                              "basic",
+                              "normally"
+                        ]
+                  },
+                  {
+                        "proportion": 0.33571428571428574,
+                        "terms": [
+                              "namely",
+                              "free",
+                              "basic",
+                              "normally",
+                              "near",
+                              "possible",
+                              "con"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4357142857142857,
+                        "terms": [
+                              "namely",
+                              "free",
+                              "basic",
+                              "normally",
+                              "near",
+                              "possible",
+                              "con",
+                              "sistent",
+                              "outset",
+                              "reach"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5357142857142857,
+                        "terms": [
+                              "namely",
+                              "free",
+                              "basic",
+                              "normally",
+                              "near",
+                              "possible",
+                              "con",
+                              "sistent",
+                              "outset",
+                              "reach",
+                              "resolve",
+                              "factual",
+                              "foreign"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6357142857142857,
+                        "terms": [
+                              "namely",
+                              "free",
+                              "basic",
+                              "normally",
+                              "near",
+                              "possible",
+                              "con",
+                              "sistent",
+                              "outset",
+                              "reach",
+                              "resolve",
+                              "factual",
+                              "foreign",
+                              "sovereign",
+                              "objective"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7357142857142857,
+                        "terms": [
+                              "namely",
+                              "free",
+                              "basic",
+                              "normally",
+                              "near",
+                              "possible",
+                              "con",
+                              "sistent",
+                              "outset",
+                              "reach",
+                              "resolve",
+                              "factual",
+                              "foreign",
+                              "sovereign",
+                              "objective",
+                              "disputes",
+                              "immunity",
+                              "suit"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8357142857142856,
+                        "terms": [
+                              "namely",
+                              "free",
+                              "basic",
+                              "normally",
+                              "near",
+                              "possible",
+                              "con",
+                              "sistent",
+                              "outset",
+                              "reach",
+                              "resolve",
+                              "factual",
+                              "foreign",
+                              "sovereign",
+                              "objective",
+                              "disputes",
+                              "immunity",
+                              "suit",
+                              "see",
+                              "reasonably",
+                              "decision"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9357142857142856,
+                        "terms": [
+                              "namely",
+                              "free",
+                              "basic",
+                              "normally",
+                              "near",
+                              "possible",
+                              "con",
+                              "sistent",
+                              "outset",
+                              "reach",
+                              "resolve",
+                              "factual",
+                              "foreign",
+                              "sovereign",
+                              "objective",
+                              "disputes",
+                              "immunity",
+                              "suit",
+                              "see",
+                              "reasonably",
+                              "decision",
+                              "about",
+                              "case",
+                              "those"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "namely",
+                              "free",
+                              "basic",
+                              "normally",
+                              "near",
+                              "possible",
+                              "con",
+                              "sistent",
+                              "outset",
+                              "reach",
+                              "resolve",
+                              "factual",
+                              "foreign",
+                              "sovereign",
+                              "objective",
+                              "disputes",
+                              "immunity",
+                              "suit",
+                              "see",
+                              "reasonably",
+                              "decision",
+                              "about",
+                              "case",
+                              "those",
+                              "should",
+                              "s",
+                              "court"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "namely",
+                              "free",
+                              "basic",
+                              "normally",
+                              "near",
+                              "possible",
+                              "con",
+                              "sistent",
+                              "outset",
+                              "reach",
+                              "resolve",
+                              "factual",
+                              "foreign",
+                              "sovereign",
+                              "objective",
+                              "disputes",
+                              "immunity",
+                              "suit",
+                              "see",
+                              "reasonably",
+                              "decision",
+                              "about",
+                              "case",
+                              "those",
+                              "should",
+                              "s",
+                              "court",
+                              "from"
+                        ]
+                  }
+            ]
+      }
+}

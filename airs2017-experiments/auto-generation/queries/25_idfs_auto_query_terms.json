@@ -1,0 +1,175 @@
+{
+      "auto_generated_queries": {
+            "topic": 25,
+            "query": [
+                  {
+                        "proportion": 0.15555555555555556,
+                        "terms": [
+                              "expeditious"
+                        ]
+                  },
+                  {
+                        "proportion": 0.25555555555555554,
+                        "terms": [
+                              "expeditious",
+                              "orderly",
+                              "achieve"
+                        ]
+                  },
+                  {
+                        "proportion": 0.3555555555555555,
+                        "terms": [
+                              "expeditious",
+                              "orderly",
+                              "achieve",
+                              "inherent",
+                              "affairs"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4555555555555555,
+                        "terms": [
+                              "expeditious",
+                              "orderly",
+                              "achieve",
+                              "inherent",
+                              "affairs",
+                              "manage",
+                              "disposition"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5555555555555555,
+                        "terms": [
+                              "expeditious",
+                              "orderly",
+                              "achieve",
+                              "inherent",
+                              "affairs",
+                              "manage",
+                              "disposition",
+                              "conferred",
+                              "possess"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6555555555555554,
+                        "terms": [
+                              "expeditious",
+                              "orderly",
+                              "achieve",
+                              "inherent",
+                              "affairs",
+                              "manage",
+                              "disposition",
+                              "conferred",
+                              "possess",
+                              "federal"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7555555555555554,
+                        "terms": [
+                              "expeditious",
+                              "orderly",
+                              "achieve",
+                              "inherent",
+                              "affairs",
+                              "manage",
+                              "disposition",
+                              "conferred",
+                              "possess",
+                              "federal",
+                              "certain",
+                              "own"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8555555555555554,
+                        "terms": [
+                              "expeditious",
+                              "orderly",
+                              "achieve",
+                              "inherent",
+                              "affairs",
+                              "manage",
+                              "disposition",
+                              "conferred",
+                              "possess",
+                              "federal",
+                              "certain",
+                              "own",
+                              "powers",
+                              "statute"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9555555555555554,
+                        "terms": [
+                              "expeditious",
+                              "orderly",
+                              "achieve",
+                              "inherent",
+                              "affairs",
+                              "manage",
+                              "disposition",
+                              "conferred",
+                              "possess",
+                              "federal",
+                              "certain",
+                              "own",
+                              "powers",
+                              "statute",
+                              "rule",
+                              "so"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "expeditious",
+                              "orderly",
+                              "achieve",
+                              "inherent",
+                              "affairs",
+                              "manage",
+                              "disposition",
+                              "conferred",
+                              "possess",
+                              "federal",
+                              "certain",
+                              "own",
+                              "powers",
+                              "statute",
+                              "rule",
+                              "so",
+                              "cases",
+                              "courts"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "expeditious",
+                              "orderly",
+                              "achieve",
+                              "inherent",
+                              "affairs",
+                              "manage",
+                              "disposition",
+                              "conferred",
+                              "possess",
+                              "federal",
+                              "certain",
+                              "own",
+                              "powers",
+                              "statute",
+                              "rule",
+                              "so",
+                              "cases",
+                              "courts"
+                        ]
+                  }
+            ]
+      }
+}

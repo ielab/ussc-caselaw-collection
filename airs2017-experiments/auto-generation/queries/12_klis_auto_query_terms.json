@@ -1,0 +1,170 @@
+{
+      "auto_generated_queries": {
+            "topic": 12,
+            "query": [
+                  {
+                        "proportion": 0.1588235294117647,
+                        "terms": [
+                              "terms"
+                        ]
+                  },
+                  {
+                        "proportion": 0.2588235294117647,
+                        "terms": [
+                              "terms",
+                              "ago",
+                              "reflect"
+                        ]
+                  },
+                  {
+                        "proportion": 0.35882352941176465,
+                        "terms": [
+                              "terms",
+                              "ago",
+                              "reflect",
+                              "summary",
+                              "stand"
+                        ]
+                  },
+                  {
+                        "proportion": 0.45882352941176463,
+                        "terms": [
+                              "terms",
+                              "ago",
+                              "reflect",
+                              "summary",
+                              "stand",
+                              "ards",
+                              "misapprehension"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5588235294117646,
+                        "terms": [
+                              "terms",
+                              "ago",
+                              "reflect",
+                              "summary",
+                              "stand",
+                              "ards",
+                              "misapprehension",
+                              "summarily"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6588235294117646,
+                        "terms": [
+                              "terms",
+                              "ago",
+                              "reflect",
+                              "summary",
+                              "stand",
+                              "ards",
+                              "misapprehension",
+                              "summarily",
+                              "ing",
+                              "clear"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7588235294117646,
+                        "terms": [
+                              "terms",
+                              "ago",
+                              "reflect",
+                              "summary",
+                              "stand",
+                              "ards",
+                              "misapprehension",
+                              "summarily",
+                              "ing",
+                              "clear",
+                              "fifth",
+                              "reversed"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8588235294117645,
+                        "terms": [
+                              "terms",
+                              "ago",
+                              "reflect",
+                              "summary",
+                              "stand",
+                              "ards",
+                              "misapprehension",
+                              "summarily",
+                              "ing",
+                              "clear",
+                              "fifth",
+                              "reversed",
+                              "circuit"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9588235294117645,
+                        "terms": [
+                              "terms",
+                              "ago",
+                              "reflect",
+                              "summary",
+                              "stand",
+                              "ards",
+                              "misapprehension",
+                              "summarily",
+                              "ing",
+                              "clear",
+                              "fifth",
+                              "reversed",
+                              "circuit",
+                              "judgment",
+                              "three"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "terms",
+                              "ago",
+                              "reflect",
+                              "summary",
+                              "stand",
+                              "ards",
+                              "misapprehension",
+                              "summarily",
+                              "ing",
+                              "clear",
+                              "fifth",
+                              "reversed",
+                              "circuit",
+                              "judgment",
+                              "three",
+                              "case",
+                              "we"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "terms",
+                              "ago",
+                              "reflect",
+                              "summary",
+                              "stand",
+                              "ards",
+                              "misapprehension",
+                              "summarily",
+                              "ing",
+                              "clear",
+                              "fifth",
+                              "reversed",
+                              "circuit",
+                              "judgment",
+                              "three",
+                              "case",
+                              "we"
+                        ]
+                  }
+            ]
+      }
+}

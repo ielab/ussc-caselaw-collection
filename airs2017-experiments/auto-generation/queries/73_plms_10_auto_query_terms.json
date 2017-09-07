@@ -1,0 +1,192 @@
+{
+      "auto_generated_queries": {
+            "topic": 73,
+            "query": [
+                  {
+                        "proportion": 0.14761904761904762,
+                        "terms": [
+                              "below"
+                        ]
+                  },
+                  {
+                        "proportion": 0.24761904761904763,
+                        "terms": [
+                              "below",
+                              "certiorari",
+                              "challenged",
+                              "contravenes"
+                        ]
+                  },
+                  {
+                        "proportion": 0.3476190476190476,
+                        "terms": [
+                              "below",
+                              "certiorari",
+                              "challenged",
+                              "contravenes",
+                              "courts",
+                              "criminal"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4476190476190476,
+                        "terms": [
+                              "below",
+                              "certiorari",
+                              "challenged",
+                              "contravenes",
+                              "courts",
+                              "criminal",
+                              "ground",
+                              "his"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5476190476190476,
+                        "terms": [
+                              "below",
+                              "certiorari",
+                              "challenged",
+                              "contravenes",
+                              "courts",
+                              "criminal",
+                              "ground",
+                              "his",
+                              "instruction",
+                              "interpreted"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6476190476190475,
+                        "terms": [
+                              "below",
+                              "certiorari",
+                              "challenged",
+                              "contravenes",
+                              "courts",
+                              "criminal",
+                              "ground",
+                              "his",
+                              "instruction",
+                              "interpreted",
+                              "mens",
+                              "perez"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7476190476190475,
+                        "terms": [
+                              "below",
+                              "certiorari",
+                              "challenged",
+                              "contravenes",
+                              "courts",
+                              "criminal",
+                              "ground",
+                              "his",
+                              "instruction",
+                              "interpreted",
+                              "mens",
+                              "perez",
+                              "petition",
+                              "primarily"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8476190476190475,
+                        "terms": [
+                              "below",
+                              "certiorari",
+                              "challenged",
+                              "contravenes",
+                              "courts",
+                              "criminal",
+                              "ground",
+                              "his",
+                              "instruction",
+                              "interpreted",
+                              "mens",
+                              "perez",
+                              "petition",
+                              "primarily",
+                              "proof",
+                              "rea"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9476190476190475,
+                        "terms": [
+                              "below",
+                              "certiorari",
+                              "challenged",
+                              "contravenes",
+                              "courts",
+                              "criminal",
+                              "ground",
+                              "his",
+                              "instruction",
+                              "interpreted",
+                              "mens",
+                              "perez",
+                              "petition",
+                              "primarily",
+                              "proof",
+                              "rea",
+                              "require",
+                              "rule"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "below",
+                              "certiorari",
+                              "challenged",
+                              "contravenes",
+                              "courts",
+                              "criminal",
+                              "ground",
+                              "his",
+                              "instruction",
+                              "interpreted",
+                              "mens",
+                              "perez",
+                              "petition",
+                              "primarily",
+                              "proof",
+                              "rea",
+                              "require",
+                              "rule",
+                              "see",
+                              "statutes"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "below",
+                              "certiorari",
+                              "challenged",
+                              "contravenes",
+                              "courts",
+                              "criminal",
+                              "ground",
+                              "his",
+                              "instruction",
+                              "interpreted",
+                              "mens",
+                              "perez",
+                              "petition",
+                              "primarily",
+                              "proof",
+                              "rea",
+                              "require",
+                              "rule",
+                              "see",
+                              "statutes",
+                              "traditional"
+                        ]
+                  }
+            ]
+      }
+}

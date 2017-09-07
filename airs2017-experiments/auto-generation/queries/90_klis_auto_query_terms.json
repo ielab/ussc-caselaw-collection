@@ -1,0 +1,103 @@
+{
+      "auto_generated_queries": {
+            "topic": 90,
+            "query": [
+                  {
+                        "proportion": 0.16666666666666666,
+                        "terms": [
+                              "access"
+                        ]
+                  },
+                  {
+                        "proportion": 0.26666666666666666,
+                        "terms": [
+                              "access"
+                        ]
+                  },
+                  {
+                        "proportion": 0.3666666666666667,
+                        "terms": [
+                              "access",
+                              "right"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4666666666666667,
+                        "terms": [
+                              "access",
+                              "right",
+                              "prisoners"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5666666666666667,
+                        "terms": [
+                              "access",
+                              "right",
+                              "prisoners"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6666666666666666,
+                        "terms": [
+                              "access",
+                              "right",
+                              "prisoners",
+                              "possess"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7666666666666666,
+                        "terms": [
+                              "access",
+                              "right",
+                              "prisoners",
+                              "possess"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8666666666666666,
+                        "terms": [
+                              "access",
+                              "right",
+                              "prisoners",
+                              "possess",
+                              "constitutional"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9666666666666666,
+                        "terms": [
+                              "access",
+                              "right",
+                              "prisoners",
+                              "possess",
+                              "constitutional",
+                              "courts"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "access",
+                              "right",
+                              "prisoners",
+                              "possess",
+                              "constitutional",
+                              "courts"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "access",
+                              "right",
+                              "prisoners",
+                              "possess",
+                              "constitutional",
+                              "courts"
+                        ]
+                  }
+            ]
+      }
+}

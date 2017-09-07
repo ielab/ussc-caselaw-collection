@@ -1,0 +1,238 @@
+{
+      "auto_generated_queries": {
+            "topic": 34,
+            "query": [
+                  {
+                        "proportion": 0.13333333333333333,
+                        "terms": [
+                              "10"
+                        ]
+                  },
+                  {
+                        "proportion": 0.23333333333333334,
+                        "terms": [
+                              "10",
+                              "find",
+                              "finding",
+                              "account"
+                        ]
+                  },
+                  {
+                        "proportion": 0.33333333333333337,
+                        "terms": [
+                              "10",
+                              "find",
+                              "finding",
+                              "account",
+                              "test",
+                              "close",
+                              "disability"
+                        ]
+                  },
+                  {
+                        "proportion": 0.43333333333333335,
+                        "terms": [
+                              "10",
+                              "find",
+                              "finding",
+                              "account",
+                              "test",
+                              "close",
+                              "disability",
+                              "70",
+                              "75",
+                              "hall",
+                              "score"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5333333333333333,
+                        "terms": [
+                              "10",
+                              "find",
+                              "finding",
+                              "account",
+                              "test",
+                              "close",
+                              "disability",
+                              "70",
+                              "75",
+                              "hall",
+                              "score",
+                              "measurement",
+                              "intellectual"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6333333333333333,
+                        "terms": [
+                              "10",
+                              "find",
+                              "finding",
+                              "account",
+                              "test",
+                              "close",
+                              "disability",
+                              "70",
+                              "75",
+                              "hall",
+                              "score",
+                              "measurement",
+                              "intellectual",
+                              "op",
+                              "iq",
+                              "slip"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7333333333333333,
+                        "terms": [
+                              "10",
+                              "find",
+                              "finding",
+                              "account",
+                              "test",
+                              "close",
+                              "disability",
+                              "70",
+                              "75",
+                              "hall",
+                              "score",
+                              "measurement",
+                              "intellectual",
+                              "op",
+                              "iq",
+                              "slip",
+                              "standard",
+                              "instructs",
+                              "precluded"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8333333333333333,
+                        "terms": [
+                              "10",
+                              "find",
+                              "finding",
+                              "account",
+                              "test",
+                              "close",
+                              "disability",
+                              "70",
+                              "75",
+                              "hall",
+                              "score",
+                              "measurement",
+                              "intellectual",
+                              "op",
+                              "iq",
+                              "slip",
+                              "standard",
+                              "instructs",
+                              "precluded",
+                              "unreasonable",
+                              "relying",
+                              "error"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9333333333333332,
+                        "terms": [
+                              "10",
+                              "find",
+                              "finding",
+                              "account",
+                              "test",
+                              "close",
+                              "disability",
+                              "70",
+                              "75",
+                              "hall",
+                              "score",
+                              "measurement",
+                              "intellectual",
+                              "op",
+                              "iq",
+                              "slip",
+                              "standard",
+                              "instructs",
+                              "precluded",
+                              "unreasonable",
+                              "relying",
+                              "error",
+                              "conclusion",
+                              "above",
+                              "where"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "10",
+                              "find",
+                              "finding",
+                              "account",
+                              "test",
+                              "close",
+                              "disability",
+                              "70",
+                              "75",
+                              "hall",
+                              "score",
+                              "measurement",
+                              "intellectual",
+                              "op",
+                              "iq",
+                              "slip",
+                              "standard",
+                              "instructs",
+                              "precluded",
+                              "unreasonable",
+                              "relying",
+                              "error",
+                              "conclusion",
+                              "above",
+                              "where",
+                              "state",
+                              "must",
+                              "s"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "10",
+                              "find",
+                              "finding",
+                              "account",
+                              "test",
+                              "close",
+                              "disability",
+                              "70",
+                              "75",
+                              "hall",
+                              "score",
+                              "measurement",
+                              "intellectual",
+                              "op",
+                              "iq",
+                              "slip",
+                              "standard",
+                              "instructs",
+                              "precluded",
+                              "unreasonable",
+                              "relying",
+                              "error",
+                              "conclusion",
+                              "above",
+                              "where",
+                              "state",
+                              "must",
+                              "s",
+                              "court",
+                              "courts"
+                        ]
+                  }
+            ]
+      }
+}

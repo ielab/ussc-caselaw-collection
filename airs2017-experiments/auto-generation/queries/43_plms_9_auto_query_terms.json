@@ -1,0 +1,119 @@
+{
+      "auto_generated_queries": {
+            "topic": 43,
+            "query": [
+                  {
+                        "proportion": 0.1,
+                        "terms": [
+                              "advice"
+                        ]
+                  },
+                  {
+                        "proportion": 0.2,
+                        "terms": [
+                              "advice"
+                        ]
+                  },
+                  {
+                        "proportion": 0.30000000000000004,
+                        "terms": [
+                              "advice",
+                              "safeguard"
+                        ]
+                  },
+                  {
+                        "proportion": 0.4,
+                        "terms": [
+                              "advice",
+                              "safeguard",
+                              "critical",
+                              "structural"
+                        ]
+                  },
+                  {
+                        "proportion": 0.5,
+                        "terms": [
+                              "advice",
+                              "safeguard",
+                              "critical",
+                              "structural"
+                        ]
+                  },
+                  {
+                        "proportion": 0.6,
+                        "terms": [
+                              "advice",
+                              "safeguard",
+                              "critical",
+                              "structural",
+                              "scheme"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7,
+                        "terms": [
+                              "advice",
+                              "safeguard",
+                              "critical",
+                              "structural",
+                              "scheme",
+                              "consent"
+                        ]
+                  },
+                  {
+                        "proportion": 0.7999999999999999,
+                        "terms": [
+                              "advice",
+                              "safeguard",
+                              "critical",
+                              "structural",
+                              "scheme",
+                              "consent",
+                              "senate"
+                        ]
+                  },
+                  {
+                        "proportion": 0.8999999999999999,
+                        "terms": [
+                              "advice",
+                              "safeguard",
+                              "critical",
+                              "structural",
+                              "scheme",
+                              "consent",
+                              "senate",
+                              "power"
+                        ]
+                  },
+                  {
+                        "proportion": 0.9999999999999999,
+                        "terms": [
+                              "advice",
+                              "safeguard",
+                              "critical",
+                              "structural",
+                              "scheme",
+                              "consent",
+                              "senate",
+                              "power",
+                              "constitutional"
+                        ]
+                  },
+                  {
+                        "proportion": 1,
+                        "terms": [
+                              "advice",
+                              "safeguard",
+                              "critical",
+                              "structural",
+                              "scheme",
+                              "consent",
+                              "senate",
+                              "power",
+                              "constitutional",
+                              "s"
+                        ]
+                  }
+            ]
+      }
+}
